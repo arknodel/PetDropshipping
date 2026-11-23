@@ -10,7 +10,8 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 - Gate: business decision (no spend)
 - Action: Pick one name from `data/brand.json` → `name_candidates` (or supply your own).
 - Before approving: USPTO trademark search, .com availability, social handles.
-- Decision: **Whisker & Wag** (chosen in chat 2026-11-22). Trademark / domain check still recommended before APR-007.
+- Decision: **Good Leash Co.** (chosen in chat 2026-11-22). Replaces Whisker & Wag — .com and 8 variants taken.
+  goodleashco.com unregistered per RDAP 2026-11-22. USPTO trademark search still recommended before APR-007.
 - Status: APPROVED
 
 ## APR-002 — Shopify account + plan
@@ -59,7 +60,7 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 
 ## APR-007 — Custom domain (optional)
 - Gate: #1 spending
-- Action: Buy domain matching APR-001 name (~$10–20/yr), point to Shopify checkout + GitHub Pages site.
+- Action: Buy **goodleashco.com** (~$10–20/yr; was unregistered 2026-11-22 — buy soon), point to Shopify checkout + GitHub Pages site.
 - Status: PENDING
 
 ## APR-008 — Enable scheduled workflows

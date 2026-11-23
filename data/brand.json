@@ -1,10 +1,12 @@
 {
-  "_note": "Name approved in chat 2026-11-22 (APR-001). Copywriter uses voice rules below.",
-  "name": "Whisker & Wag",
+  "_note": "Name approved in chat 2026-11-22 (APR-001). Whisker & Wag dropped: .com and most variants taken. Copywriter uses voice rules below.",
+  "name": "Good Leash Co.",
+  "domain_target": "goodleashco.com",
+  "name_note": "Name leans dog; copy and collections must still welcome cat parents equally.",
   "name_candidates": [
     { "name": "Pawsmith", "rationale": "Crafted, practical tools for pets", "status": "pending_approval" },
-    { "name": "Good Leash Co.", "rationale": "Friendly, trustworthy; dog-leaning but broad", "status": "pending_approval" },
-    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "approved" },
+    { "name": "Good Leash Co.", "rationale": "Friendly, trustworthy; dog-leaning but broad", "status": "approved" },
+    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "rejected_domain_taken" },
     { "name": "Petwise Supply", "rationale": "Practical, problem-solving angle", "status": "pending_approval" },
     { "name": "Kindred Paws", "rationale": "Warm, pet-parent community feel", "status": "pending_approval" }
   ],
