@@ -5,7 +5,8 @@
   "category": "dog",
   "collection": "dogs",
   "tags": [
-    "dogs"
+    "dogs",
+    "cats"
   ],
   "score": 6.61,
   "research": {
@@ -27,25 +28,34 @@
     "url": "https://cjdropshipping.com/product/-p-1823993945786306560.html",
     "supplier_sku": "1823993945786306560",
     "unit_cost": 2.77,
-    "ship_cost_us": 6.51,
-    "ships_from": "US",
-    "shipping_method": "USPS+VIP",
-    "delivery_days_min": 3,
-    "delivery_days_max": 7,
+    "ship_cost_us": 6.94,
+    "ships_from": "CN",
+    "shipping_method": "LuWei Ordinary US",
+    "delivery_days_min": 6,
+    "delivery_days_max": 14,
     "rating": null,
     "orders_count": 725,
     "flags": [
       "choking_hazard"
     ],
     "cj_title": "Dog Licking Mat Slow Feeder Premium Lick Pad With Suction Cups For Dog Anxiety Relief  Slow Feeder Dog Bowls Pet Placemat",
-    "cj_sku": "CJGY2111277"
+    "cj_sku": "CJGY2111277",
+    "warehouse": "CJ China Warehouse",
+    "transit_days_min": 5,
+    "transit_days_max": 11,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "stock_checked_at": "2026-11-23",
+    "stock_note": "US warehouse 0 for all variants; China warehouse in stock (cj-stock.json)."
   },
   "pricing": {
-    "retail": 30.95,
+    "retail": 32.95,
     "compare_at": null,
-    "landed": 18.48,
-    "margin_pct": 0.4,
-    "breakeven_roas": 1.51
+    "landed": 18.97,
+    "margin_pct": 0.424,
+    "breakeven_roas": 1.5,
+    "previous_retail": 30.95,
+    "margin_basis": "worst variant, CN freight 2026-11-23"
   },
   "variants": [
     {
@@ -53,28 +63,40 @@
       "title": "Green",
       "weight_g": 185,
       "supplier_variant_id": "1823993945803083776",
-      "unit_cost": 2.77
+      "unit_cost": 2.77,
+      "ship_cost_us": 6.94,
+      "landed": 18.97,
+      "margin_pct": 0.424
     },
     {
       "sku": "GL-C11-02",
       "title": "Gray",
       "weight_g": 185,
       "supplier_variant_id": "1823993945803083777",
-      "unit_cost": 2.77
+      "unit_cost": 2.77,
+      "ship_cost_us": 6.94,
+      "landed": 18.97,
+      "margin_pct": 0.424
     },
     {
       "sku": "GL-C11-03",
       "title": "Blue",
       "weight_g": 185,
       "supplier_variant_id": "1823993945803083778",
-      "unit_cost": 2.77
+      "unit_cost": 2.77,
+      "ship_cost_us": 6.94,
+      "landed": 18.97,
+      "margin_pct": 0.424
     },
     {
       "sku": "GL-C11-04",
       "title": "Orange",
       "weight_g": 185,
       "supplier_variant_id": "1823993945803083779",
-      "unit_cost": 2.77
+      "unit_cost": 2.77,
+      "ship_cost_us": 6.94,
+      "landed": 18.97,
+      "margin_pct": 0.424
     }
   ],
   "images": [
@@ -130,11 +152,11 @@
       },
       {
         "q": "How long does shipping take?",
-        "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+        "a": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
       }
     ],
     "safety_warning": "Supervise your pet while it uses the mat. Stop use if the mat is torn, cracked, or has damaged or missing suction cups, since loose pieces can be a choking hazard. Only use spreads that are safe for pets; avoid any containing xylitol.",
-    "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days"
+    "shipping_estimate": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
   },
   "seo": {
     "meta_title": "Silicone Dog Lick Mat With Suction Cups | Fondly Pet",
@@ -149,23 +171,28 @@
   "validation": {
     "margin-validator": {
       "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+      "log_path": "data/research/2026-11-23/validators-r4/margin-validator.json",
+      "round": "r4 2026-11-23"
     },
     "compliance-checker": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
-      "warn_justification": "Slug dropped \"crate\" (now suction-cup-lick-mat) so it does not suggest unsupervised use; supervision warning is shown on the product page."
+      "log_path": "data/research/2026-11-23/validators-r4/compliance-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     },
     "claim-fact-checker": {
       "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+      "log_path": "data/research/2026-11-23/validators-r4/claim-fact-checker.json",
+      "round": "r4 2026-11-23"
     },
     "listing-qa": {
-      "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/listing-qa.json"
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators-r4/listing-qa.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "'cats' tag added (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T13:17:19.285Z",
+  "updated_at": "2026-11-23T14:22:32.864Z",
   "copy_claims": [
     "Suction cup, silicone, slow feeder, lick mat, dogs and cats: TITLE line 'Dog Licking Mat Slow Feeder ... With Suction Cups'. The supplier title's 'Anxiety Relief' wording was intentionally NOT used",
     "64 suction cups on the back, to help secure on a smooth and clean surface: DESCRIPTION 'There are 64 powerful suction cups on the back of this pet food mat to help secure it on a smooth and clean surface'",
@@ -176,8 +203,8 @@
     "Suits cats and small and medium-sized dogs: DESCRIPTION 'ideal size for cats and small and medium-sized dogs'; Specifications 'Suitable for: cats, dogs'",
     "Treats such as peanut butter, yogurt, pumpkin puree: DESCRIPTION 'lick peanut butter, yogurt, pumpkin puree'",
     "Excluded on purpose: all anxiety, calming, endorphin, bloating, digestibility, vet-related and 'healthy' or 'non-toxic' statements from the supplier text",
-    "Choking warning: data/products/suction-lick-mat-for-crate-and-bath-time.json research.needs_choking_warning=true and supplier.flags 'choking_hazard'",
-    "Shipping 3–7 business days plus processing 1–3 days: data/products/suction-lick-mat-for-crate-and-bath-time.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+    "Choking warning: data/products/suction-cup-lick-mat.json research.needs_choking_warning=true and supplier.flags 'choking_hazard'",
+    "Shipping 5–11 days transit (LuWei Ordinary US) plus 1–3 days processing, from CJ China Warehouse: data/research/2026-11-23/cj-freight-cn.json best.dmin/dmax; US stock 0 per data/research/2026-11-23/cj-stock.json"
   ],
   "variant_note": "4 of 8 CJ variants mapped (4 excluded: margin or cap 12); shipping quote taken from the base variant.",
   "validation_r1": {

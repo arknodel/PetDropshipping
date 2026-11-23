@@ -1,7 +1,7 @@
 {
   "id": "gl-c20",
   "slug": "elevated-cat-feeder-stand",
-  "status": "draft",
+  "status": "dropped",
   "category": "cat",
   "collection": "cats",
   "tags": [
@@ -162,7 +162,7 @@
       "warn_justification": "Same variant-label issue, fixed; title now says \"Bowls\" to match one/two-bowl versions."
     }
   },
-  "updated_at": "2026-11-23T13:17:18.522Z",
+  "updated_at": "2026-11-23T14:16:09.107Z",
   "copy_claims": [
     "15 degree tilted, elevated design. Source: spec DESCRIPTION Overview, 'Unique 15° Tilted elevated design'.",
     "Transparent bowl, food-grade material. Source: spec DESCRIPTION Specification, 'Environmentally friendly food-grade material' (transparent bowl line).",
@@ -190,6 +190,7 @@
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433626851",
     "handle": "elevated-cat-feeder-stand",
-    "status": "ACTIVE"
-  }
+    "status": "DRAFT"
+  },
+  "dropped_reason": "2026-11-23: CJ stock is China-only; best CN->US freight (LuWei Ordinary US) leaves 18.7% margin at $26.95. Fix needs >15% price rise (gated). Dropped."
 }

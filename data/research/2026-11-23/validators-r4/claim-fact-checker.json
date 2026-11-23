@@ -1,0 +1,9 @@
+[
+ {"item_id":"gl-c24","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3, ships from China; copy_claims fixed"},{"name":"size_S_to_XL","result":"PASS","evidence":"CJ variants"}],"fix_suggestions":[],"note":"r4b re-check after fixes-r4; first pass FAILed on stale internal copy_claims only"},
+ {"item_id":"gl-c19","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"}],"fix_suggestions":[]},
+ {"item_id":"gl-c27","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"}],"fix_suggestions":[]},
+ {"item_id":"gl-c04","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"},{"name":"alt","result":"PASS","evidence":"2-in-1 removed"}],"fix_suggestions":[]},
+ {"item_id":"gl-c11","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"}],"fix_suggestions":[]},
+ {"item_id":"gl-c06","verdict":"WARN","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"},{"name":"cooling_claims","result":"WARN","evidence":"FAQ 'No cooling temperature is stated.' implies cooling function"}],"fix_suggestions":["rephrase to 'The maker does not state a temperature rating.'"]},
+ {"item_id":"gl-c09","verdict":"PASS","checks":[{"name":"shipping","result":"PASS","evidence":"5-11 + 1-3"},{"name":"title_hook_and_loop","result":"PASS","evidence":"all 12 variants hook-and-loop"}],"fix_suggestions":[]}
+]

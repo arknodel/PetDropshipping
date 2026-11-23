@@ -27,23 +27,31 @@
     "url": "https://cjdropshipping.com/product/-p-1734888404233900032.html",
     "supplier_sku": "1734888404233900032",
     "unit_cost": 1.14,
-    "ship_cost_us": 5.22,
-    "ships_from": "US",
-    "shipping_method": "USPS+VIP",
-    "delivery_days_min": 3,
-    "delivery_days_max": 7,
+    "ship_cost_us": 5.1,
+    "ships_from": "CN",
+    "shipping_method": "CJPacket Super Pure Electricity",
+    "delivery_days_min": 6,
+    "delivery_days_max": 14,
     "rating": null,
     "orders_count": 375,
     "flags": [],
     "cj_title": "Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat",
-    "cj_sku": "CJGY1920222"
+    "cj_sku": "CJGY1920222",
+    "warehouse": "CJ China Warehouse",
+    "transit_days_min": 5,
+    "transit_days_max": 11,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "stock_checked_at": "2026-11-23",
+    "stock_note": "US warehouse 0 for all variants; China warehouse in stock (cj-stock.json)."
   },
   "pricing": {
     "retail": 25.95,
     "compare_at": null,
-    "landed": 15.41,
-    "margin_pct": 0.41,
-    "breakeven_roas": 1.4
+    "landed": 15.29,
+    "margin_pct": 0.411,
+    "breakeven_roas": 1.39,
+    "margin_basis": "worst variant, CN freight 2026-11-23"
   },
   "variants": [
     {
@@ -51,34 +59,46 @@
       "title": "BLUE-XS",
       "weight_g": 60,
       "supplier_variant_id": "1734888404347146240",
-      "unit_cost": 1.14
+      "unit_cost": 1.14,
+      "ship_cost_us": 5.1,
+      "landed": 15.29,
+      "margin_pct": 0.411
     },
     {
       "sku": "GL-C06-02",
       "title": "COFFEE-XS",
       "weight_g": 60,
       "supplier_variant_id": "1734888404347146248",
-      "unit_cost": 1.14
+      "unit_cost": 1.14,
+      "ship_cost_us": 5.1,
+      "landed": 15.29,
+      "margin_pct": 0.411
     },
     {
       "sku": "GL-C06-03",
       "title": "GREY-XS",
       "weight_g": 60,
       "supplier_variant_id": "1734888404347146256",
-      "unit_cost": 1.14
+      "unit_cost": 1.14,
+      "ship_cost_us": 5.1,
+      "landed": 15.29,
+      "margin_pct": 0.411
     },
     {
       "sku": "GL-C06-04",
       "title": "PINK-XS",
       "weight_g": 60,
       "supplier_variant_id": "1734888404347146264",
-      "unit_cost": 1.14
+      "unit_cost": 1.14,
+      "ship_cost_us": 5.1,
+      "landed": 15.29,
+      "margin_pct": 0.411
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/10cb8b10-51ae-4fe8-96ae-a75cfa909e6e.jpg",
-      "alt": "Waterproof summer sleeping mat for cats and dogs",
+      "alt": "Summer sleeping mat for cats and dogs",
       "license_ok": true
     },
     {
@@ -108,7 +128,7 @@
     }
   ],
   "copy": {
-    "title": "Waterproof Summer Sleeping Mat for Cats and Dogs",
+    "title": "Summer Sleeping Mat for Cats and Dogs",
     "bullets": [
       "Summer sleeping pad for cats and dogs.",
       "Listed by the maker as waterproof, so wet paws and small spills are easier to clean up.",
@@ -116,7 +136,7 @@
       "Size XS in four colors, for cats and dogs.",
       "Lightweight at about 60 g, easy to move between rooms."
     ],
-    "description": "Looking for a simple summer nap spot for your pet? This summer sleeping mat gives your cat or dog a spot of their own. It is a sleeping pad made of cloth, which the maker lists as waterproof, so wet paws and small spills are easier to clean up. It is made for both cats and dogs, which makes it a practical pick for a home with more than one kind of pet. Set it on the floor, a bed, or in a crate where your pet already likes to lie, and see whether they settle in. It is a simple, no-fuss addition to the spots you already use. This page does not list exact dimensions or a cooling temperature, so measure your space before you order.",
+    "description": "Looking for a simple summer nap spot for your pet? This summer sleeping mat gives your cat or dog a spot of their own. It is a sleeping pad made of cloth, which the maker lists as waterproof, so wet paws and small spills are easier to clean up. It is made for both cats and dogs, which makes it a practical pick for a home with more than one kind of pet. Set it on the floor, a bed, or in a crate where your pet already likes to lie, and see whether they settle in. It is a simple, no-fuss addition to the places your pet already rests. The maker does not list exact dimensions, so check that it suits your pet before you order.",
     "faq": [
       {
         "q": "What size is this mat?",
@@ -124,18 +144,18 @@
       },
       {
         "q": "What is it made of?",
-        "a": "It is made of cloth and the maker lists it as waterproof. No cooling temperature is stated."
+        "a": "It is made of cloth and the maker lists it as waterproof. The maker does not state a temperature rating."
       },
       {
         "q": "How long does shipping take?",
-        "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+        "a": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
       }
     ],
     "safety_warning": null,
-    "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days"
+    "shipping_estimate": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
   },
   "seo": {
-    "meta_title": "Waterproof Summer Pet Sleeping Mat | Fondly Pet",
+    "meta_title": "Summer Pet Sleeping Mat for Cats and Dogs | Fondly Pet",
     "meta_description": "Cloth summer sleeping mat for cats and dogs, listed by the maker as waterproof. Size XS in four colors.",
     "primary_keyword": "summer pet sleeping mat",
     "secondary_keywords": [
@@ -147,24 +167,29 @@
   "validation": {
     "margin-validator": {
       "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+      "log_path": "data/research/2026-11-23/validators-r4/margin-validator.json",
+      "round": "r4 2026-11-23"
     },
     "compliance-checker": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
-      "warn_justification": "\"Waterproof\" is the maker's own product-title attribute; bullet, alt and meta now attribute it to the maker. No cooling claim remains."
+      "log_path": "data/research/2026-11-23/validators-r4/compliance-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Unattributed 'Waterproof' removed from title, meta_title, alt 1 after this pass (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     },
     "claim-fact-checker": {
-      "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators-r4/claim-fact-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "FAQ rephrased to 'The maker does not state a temperature rating.' (record-r4-verdicts)."
     },
     "listing-qa": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
-      "warn_justification": "Repetitive bullet replaced (weight from CJ variant data); copy_claims provenance note is internal only."
+      "log_path": "data/research/2026-11-23/validators-r4/listing-qa.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Internal-note sentence rewritten, 'spot' repetition reduced, copy_claims fixed (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T13:17:19.654Z",
+  "updated_at": "2026-11-23T14:22:33.780Z",
   "copy_claims": [
     "Self-cooling mat, sleeping pad, for cat and dog, waterproof: TITLE line 'Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat'",
     "Cloth: MATERIAL line '[\"Cloth\"]'",
@@ -172,8 +197,8 @@
     "Cats and dogs: TITLE line 'For Cat Dog'",
     "Sleeping pad: TITLE line 'Sleeping Pad'",
     "No exact dimensions and no cooling temperature are listed: spec has no size line and no temperature figure (observation, not a claim)",
-    "Single version: data/products/pet-self-cooling-mat.json variants show one 'Default Title' (store record)",
-    "Shipping 3–7 business days plus processing 1–3 days: data/products/pet-self-cooling-mat.json supplier.delivery_days_min=3, supplier.delivery_days_max=7 (processing window from the brief)"
+    "Shipping 5–11 days transit (CJPacket Super Pure Electricity) plus 1–3 days processing, from CJ China Warehouse: data/research/2026-11-23/cj-freight-cn.json best.dmin/dmax; US stock 0 per data/research/2026-11-23/cj-stock.json",
+    "Four XS colour variants (GL-C06-01..04): this record variants + cj-stock.json"
   ],
   "variant_note": "4 of 25 CJ variants mapped (21 excluded: margin or cap 12); shipping quote taken from the base variant.",
   "validation_r1": {

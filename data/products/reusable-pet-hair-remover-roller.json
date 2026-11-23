@@ -27,23 +27,31 @@
     "url": "https://cjdropshipping.com/product/-p-1368888013161107456.html",
     "supplier_sku": "1368888013161107456",
     "unit_cost": 1.47,
-    "ship_cost_us": 6.09,
-    "ships_from": "US",
-    "shipping_method": "GOFO GC parcel+",
-    "delivery_days_min": 3,
-    "delivery_days_max": 8,
+    "ship_cost_us": 5.98,
+    "ships_from": "CN",
+    "shipping_method": "LuWei Ordinary US",
+    "delivery_days_min": 6,
+    "delivery_days_max": 14,
     "rating": null,
     "orders_count": 12750,
     "flags": [],
     "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush",
-    "cj_sku": "CJGY1035039"
+    "cj_sku": "CJGY1035039",
+    "warehouse": "CJ China Warehouse",
+    "transit_days_min": 5,
+    "transit_days_max": 11,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "stock_checked_at": "2026-11-23",
+    "stock_note": "US warehouse 0 for all variants; China warehouse in stock (cj-stock.json)."
   },
   "pricing": {
     "retail": 27.95,
     "compare_at": null,
-    "landed": 16.67,
-    "margin_pct": 0.4,
-    "breakeven_roas": 1.45
+    "landed": 16.56,
+    "margin_pct": 0.407,
+    "breakeven_roas": 1.44,
+    "margin_basis": "worst variant, CN freight 2026-11-23"
   },
   "variants": [
     {
@@ -51,34 +59,46 @@
       "title": "White",
       "weight_g": 123,
       "supplier_variant_id": "1368888014532644864",
-      "unit_cost": 1.47
+      "unit_cost": 1.47,
+      "ship_cost_us": 5.98,
+      "landed": 16.56,
+      "margin_pct": 0.407
     },
     {
       "sku": "GL-C04-02",
       "title": "Green",
       "weight_g": 123,
       "supplier_variant_id": "1368888014624919552",
-      "unit_cost": 1.47
+      "unit_cost": 1.47,
+      "ship_cost_us": 5.98,
+      "landed": 16.56,
+      "margin_pct": 0.407
     },
     {
       "sku": "GL-C04-03",
       "title": "Pink",
       "weight_g": 123,
       "supplier_variant_id": "1368888014692028416",
-      "unit_cost": 1.47
+      "unit_cost": 1.47,
+      "ship_cost_us": 5.98,
+      "landed": 16.56,
+      "margin_pct": 0.407
     },
     {
       "sku": "GL-C04-04",
       "title": "Blue",
       "weight_g": 123,
       "supplier_variant_id": "1380458561456443392",
-      "unit_cost": 1.47
+      "unit_cost": 1.47,
+      "ship_cost_us": 5.98,
+      "landed": 16.56,
+      "margin_pct": 0.407
     }
   ],
   "images": [
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/10/28/12/c0c773af-e042-4a41-9b98-ef259c5a858e.jpg",
-      "alt": "Reusable 2-in-1 pet hair remover roller with a dust bin for cat and dog fur on furniture",
+      "alt": "Reusable pet hair remover roller with a dust bin for cat and dog fur on furniture",
       "license_ok": true
     },
     {
@@ -128,11 +148,11 @@
       },
       {
         "q": "How long does shipping take?",
-        "a": "Estimate: 3–8 business days to the US, plus processing 1–3 days."
+        "a": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
       }
     ],
     "safety_warning": null,
-    "shipping_estimate": "3–8 business days to the US, plus processing 1–3 days"
+    "shipping_estimate": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
   },
   "seo": {
     "meta_title": "Reusable Pet Hair Remover Roller Brush | Fondly Pet",
@@ -146,26 +166,30 @@
   },
   "validation": {
     "margin-validator": {
-      "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators-r4/margin-validator.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Thin but above floor (40.7%); monitor."
     },
     "compliance-checker": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
-      "warn_justification": "Description dimension typo (dropped 4.3) fixed to match bullet/FAQ; \"lint roller\" is a generic term."
+      "log_path": "data/research/2026-11-23/validators-r4/compliance-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     },
     "claim-fact-checker": {
-      "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json",
-      "warn_justification": "Same dimension typo; fixed to \"about 4.3 x 4.3 x 18.3 cm\" per spec."
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators-r4/claim-fact-checker.json",
+      "round": "r4 2026-11-23"
     },
     "listing-qa": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
-      "warn_justification": "Same dimension typo; fixed."
+      "log_path": "data/research/2026-11-23/validators-r4/listing-qa.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "copy_claims updated. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T13:17:18.869Z",
+  "updated_at": "2026-11-23T14:22:31.849Z",
   "copy_claims": [
     "Reusable, pet hair remover, cat and dog fur, self cleaning: TITLE line '2-1 Reusable Pet Hair Remover Brush Lint Roller ... Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush'",
     "Swipe, hair collects in dustbin: DESCRIPTION 'Just swipe on the surface, all the hair is collected in the dustbin'",
@@ -178,7 +202,7 @@
     "Fits in bag or car: DESCRIPTION 'fits perfectly in the bag or in the car'",
     "Reusable: DESCRIPTION 'Advantage: Reusable'",
     "Plastic material: MATERIAL line '[\"Plastic\"]'",
-    "Shipping 3–8 business days plus processing 1–3 days: data/products/reusable-pet-hair-remover-roller.json supplier.delivery_days_min=3, supplier.delivery_days_max=8"
+    "Shipping 5–11 days transit (LuWei Ordinary US) plus 1–3 days processing, from CJ China Warehouse: data/research/2026-11-23/cj-freight-cn.json best.dmin/dmax; US stock 0 per data/research/2026-11-23/cj-stock.json"
   ],
   "variant_note": "4 of 51 CJ variants mapped (47 excluded: margin or cap 12); shipping quote taken from the base variant.",
   "validation_r1": {

@@ -27,23 +27,31 @@
     "url": "https://cjdropshipping.com/product/-p-2406110906021625200.html",
     "supplier_sku": "2406110906021625200",
     "unit_cost": 2.99,
-    "ship_cost_us": 5.32,
-    "ships_from": "US",
-    "shipping_method": "USPS+VIP",
-    "delivery_days_min": 3,
-    "delivery_days_max": 7,
+    "ship_cost_us": 5.93,
+    "ships_from": "CN",
+    "shipping_method": "LuWei Ordinary US",
+    "delivery_days_min": 6,
+    "delivery_days_max": 14,
     "rating": null,
     "orders_count": 305,
     "flags": [],
     "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies",
-    "cj_sku": "CJGD2058064"
+    "cj_sku": "CJGD2058064",
+    "warehouse": "CJ China Warehouse",
+    "transit_days_min": 5,
+    "transit_days_max": 11,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "stock_checked_at": "2026-11-23",
+    "stock_note": "US warehouse 0 for all variants; China warehouse in stock (cj-stock.json)."
   },
   "pricing": {
     "retail": 29.95,
     "compare_at": null,
-    "landed": 17.48,
-    "margin_pct": 0.42,
-    "breakeven_roas": 1.46
+    "landed": 17.82,
+    "margin_pct": 0.405,
+    "breakeven_roas": 1.49,
+    "margin_basis": "worst variant, CN freight 2026-11-23"
   },
   "variants": [
     {
@@ -51,90 +59,126 @@
       "title": "Rose Red Hook-and-Loop-S",
       "weight_g": 77,
       "supplier_variant_id": "2406110906021625500",
-      "unit_cost": 2.99
+      "unit_cost": 2.99,
+      "ship_cost_us": 5.66,
+      "landed": 17.82,
+      "margin_pct": 0.405
     },
     {
       "sku": "GL-C09-02",
       "title": "Rose Red Hook-and-Loop-M",
       "weight_g": 85,
       "supplier_variant_id": "2406110906021625700",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     },
     {
       "sku": "GL-C09-03",
       "title": "Rose Red Hook-and-Loop-L",
       "weight_g": 95,
       "supplier_variant_id": "2406110906021626100",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.93,
+      "landed": 17.56,
+      "margin_pct": 0.414
     },
     {
       "sku": "GL-C09-04",
       "title": "Rose Red Hook-and-Loop-XL",
       "weight_g": 110,
       "supplier_variant_id": "2406110906021626500",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     },
     {
       "sku": "GL-C09-05",
       "title": "Green Hook-and-Loop-S",
       "weight_g": 77,
       "supplier_variant_id": "2406110906021627000",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.66,
+      "landed": 17.29,
+      "margin_pct": 0.423
     },
     {
       "sku": "GL-C09-06",
       "title": "Green Hook-and-Loop-M",
       "weight_g": 85,
       "supplier_variant_id": "2406110906021627400",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     },
     {
       "sku": "GL-C09-07",
       "title": "Green Hook-and-Loop-L",
       "weight_g": 95,
       "supplier_variant_id": "2406110906021627600",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.93,
+      "landed": 17.56,
+      "margin_pct": 0.414
     },
     {
       "sku": "GL-C09-08",
       "title": "Green Hook-and-Loop-XL",
       "weight_g": 110,
       "supplier_variant_id": "2406110906021627800",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     },
     {
       "sku": "GL-C09-09",
       "title": "Blue Hook-and-Loop-S",
       "weight_g": 77,
       "supplier_variant_id": "2406110906021628000",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.66,
+      "landed": 17.29,
+      "margin_pct": 0.423
     },
     {
       "sku": "GL-C09-10",
       "title": "Blue Hook-and-Loop-M",
       "weight_g": 85,
       "supplier_variant_id": "2406110906021628300",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     },
     {
       "sku": "GL-C09-11",
       "title": "Blue Hook-and-Loop-L",
       "weight_g": 95,
       "supplier_variant_id": "2406110906021628500",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.93,
+      "landed": 17.56,
+      "margin_pct": 0.414
     },
     {
       "sku": "GL-C09-12",
       "title": "Blue Hook-and-Loop-XL",
       "weight_g": 110,
       "supplier_variant_id": "2406110906021628700",
-      "unit_cost": 2.46
+      "unit_cost": 2.46,
+      "ship_cost_us": 5.78,
+      "landed": 17.41,
+      "margin_pct": 0.419
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/quick/product/8e7ce0be-54a6-43a6-b17d-4195c5c57eac.jpg",
-      "alt": "Reflective polyester dog raincoat with hook-and-loop closure, sizes S to XL",
+      "alt": "Polyester dog raincoat with hook-and-loop closure, sizes S to XL",
       "license_ok": true
     },
     {
@@ -164,7 +208,7 @@
     }
   ],
   "copy": {
-    "title": "Waterproof Reflective Dog Raincoat, Sizes S to XL",
+    "title": "Dog Raincoat with Hook-and-Loop Closure, Sizes S to XL",
     "bullets": [
       "Raincoat the maker lists as waterproof, for rainy walks.",
       "Reflective, per the maker.",
@@ -184,14 +228,14 @@
       },
       {
         "q": "How long does shipping take?",
-        "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+        "a": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
       }
     ],
     "safety_warning": null,
-    "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days"
+    "shipping_estimate": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
   },
   "seo": {
-    "meta_title": "Waterproof Reflective Dog Raincoat | Fondly Pet",
+    "meta_title": "Dog Raincoat, Sizes S to XL | Fondly Pet",
     "meta_description": "Waterproof dog raincoat with a reflective finish (per the maker) and hook-and-loop closure, in sizes S to XL. Made of polyester.",
     "primary_keyword": "dog raincoat",
     "secondary_keywords": [
@@ -202,26 +246,30 @@
   },
   "validation": {
     "margin-validator": {
-      "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators-r4/margin-validator.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Worst variant Rose Red S 40.5% (unit 2.99 vs 2.46 others, CJ API data); others 41-42%."
     },
     "compliance-checker": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
-      "warn_justification": "\"Waterproof\" is the maker's own product-title attribute; bullet and description now attribute it to the maker."
+      "log_path": "data/research/2026-11-23/validators-r4/compliance-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Unattributed 'Waterproof'/'Reflective' removed from title, meta_title, alt 1 after this pass (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     },
     "claim-fact-checker": {
-      "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json",
-      "warn_justification": "\"for low-light walks\" framing removed; bullet now \"Reflective, per the maker.\""
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators-r4/claim-fact-checker.json",
+      "round": "r4 2026-11-23"
     },
     "listing-qa": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
-      "warn_justification": "Trailing-00 ids verified live (pid resolves to CJGD2058064, all 12 variants present). Variant weights are CJ API data; spec weight range not used in copy."
+      "log_path": "data/research/2026-11-23/validators-r4/listing-qa.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Trailing-00 ids verified live earlier (CJGD2058064, 12 variants); maker publishes no measurements and copy says so. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T13:17:20.045Z",
+  "updated_at": "2026-11-23T14:22:34.712Z",
   "copy_claims": [
     "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
     "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",
@@ -231,7 +279,7 @@
     "Weight range 57 to 94 grams: WEIGHT_G '57.00-94.00'",
     "One dog coat per order: DESCRIPTION Packing list 'Dog clothes *1'",
     "No chest, neck or length measurements: observation, the spec has no measurement lines",
-    "Shipping 3–7 business days plus processing 1–3 days: data/products/waterproof-reflective-dog-raincoat.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+    "Shipping 5–11 days transit (LuWei Ordinary US) plus 1–3 days processing, from CJ China Warehouse: data/research/2026-11-23/cj-freight-cn.json best.dmin/dmax; US stock 0 per data/research/2026-11-23/cj-stock.json"
   ],
   "variant_note": "12 of 24 CJ variants mapped (12 excluded: margin or cap 12); shipping quote taken from the base variant.",
   "validation_r1": {

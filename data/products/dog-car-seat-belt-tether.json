@@ -27,23 +27,32 @@
     "url": "https://cjdropshipping.com/product/-p-1545285316972654592.html",
     "supplier_sku": "1545285316972654592",
     "unit_cost": 3.75,
-    "ship_cost_us": 6.65,
-    "ships_from": "US",
-    "shipping_method": "USPS+VIP",
-    "delivery_days_min": 3,
-    "delivery_days_max": 7,
+    "ship_cost_us": 6.9,
+    "ships_from": "CN",
+    "shipping_method": "LuWei Ordinary US",
+    "delivery_days_min": 6,
+    "delivery_days_max": 14,
     "rating": null,
     "orders_count": 461,
     "flags": [],
     "cj_title": "Pet Supplies Dog Reflective Buffer Retractable Car Seat Belt",
-    "cj_sku": "CJGX1520671"
+    "cj_sku": "CJGX1520671",
+    "warehouse": "CJ China Warehouse",
+    "transit_days_min": 5,
+    "transit_days_max": 11,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "stock_checked_at": "2026-11-23",
+    "stock_note": "US warehouse 0 for all variants; China warehouse in stock (cj-stock.json)."
   },
   "pricing": {
-    "retail": 32.95,
+    "retail": 34.95,
     "compare_at": null,
-    "landed": 19.66,
-    "margin_pct": 0.4,
-    "breakeven_roas": 1.54
+    "landed": 19.96,
+    "margin_pct": 0.429,
+    "breakeven_roas": 1.52,
+    "previous_retail": 32.95,
+    "margin_basis": "worst variant, CN freight 2026-11-23"
   },
   "variants": [
     {
@@ -51,14 +60,20 @@
       "title": "Black",
       "weight_g": 208,
       "supplier_variant_id": "1545285317077512192",
-      "unit_cost": 3.68
+      "unit_cost": 3.68,
+      "ship_cost_us": 6.9,
+      "landed": 19.89,
+      "margin_pct": 0.431
     },
     {
       "sku": "GL-C27-02",
       "title": "Dark Grey",
       "weight_g": 208,
       "supplier_variant_id": "1545285317081706496",
-      "unit_cost": 3.75
+      "unit_cost": 3.75,
+      "ship_cost_us": 6.9,
+      "landed": 19.96,
+      "margin_pct": 0.429
     }
   ],
   "images": [
@@ -114,11 +129,11 @@
       },
       {
         "q": "How long will shipping take?",
-        "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+        "a": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China. These are estimates, not guaranteed delivery dates."
       }
     ],
     "safety_warning": "Attach only to a harness, never a collar. This belt is not designed as a crash restraint. Supervise your dog in the car.",
-    "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
+    "shipping_estimate": "Estimate: 5–11 days to the US after 1–3 days of processing. Ships from China."
   },
   "seo": {
     "meta_title": "Adjustable Dog Car Seat Belt | Fondly Pet",
@@ -133,23 +148,28 @@
   "validation": {
     "margin-validator": {
       "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+      "log_path": "data/research/2026-11-23/validators-r4/margin-validator.json",
+      "round": "r4 2026-11-23"
     },
     "compliance-checker": {
-      "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/compliance-checker.json"
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators-r4/compliance-checker.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     },
     "claim-fact-checker": {
       "verdict": "PASS",
-      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+      "log_path": "data/research/2026-11-23/validators-r4/claim-fact-checker.json",
+      "round": "r4 2026-11-23"
     },
     "listing-qa": {
       "verdict": "WARN",
-      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
-      "warn_justification": "Duplicate stretch bullet replaced with colour options (Black/Dark Grey, supplier variants)."
+      "log_path": "data/research/2026-11-23/validators-r4/listing-qa.json",
+      "round": "r4 2026-11-23",
+      "warn_justification": "Minor repetition only; no factual issue. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T13:17:18.138Z",
+  "updated_at": "2026-11-23T14:22:30.932Z",
   "copy_claims": [
     "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
     "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
@@ -158,7 +178,7 @@
     "Net weight about 185 g. Source: spec DESCRIPTION Product information, 'Weight: net weight 185g'.",
     "One pet car seat belt per order. Source: spec DESCRIPTION Packing list, 'Pet car seat belt*1'.",
     "Each belt ships in a plastic bag. Source: spec PACKING: Plastic bags.",
-    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/dog-car-seat-belt-tether.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+    "Shipping 5–11 days transit (LuWei Ordinary US) plus 1–3 days processing, from CJ China Warehouse: data/research/2026-11-23/cj-freight-cn.json best.dmin/dmax; US stock 0 per data/research/2026-11-23/cj-stock.json"
   ],
   "variant_note": "2 of 2 CJ variants mapped; shipping quote taken from the base variant.",
   "validation_r1": {
