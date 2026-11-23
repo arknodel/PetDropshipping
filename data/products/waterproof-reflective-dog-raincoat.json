@@ -47,46 +47,177 @@
   },
   "variants": [
     {
-      "sku": "GL-C09",
-      "title": "Default Title",
+      "sku": "GL-C09-01",
+      "title": "Rose Red Hook-and-Loop-S",
       "weight_g": 77,
-      "supplier_variant_id": "2406110906021625500"
+      "supplier_variant_id": "2406110906021625500",
+      "unit_cost": 2.99
+    },
+    {
+      "sku": "GL-C09-02",
+      "title": "Rose Red Hook-and-Loop-M",
+      "weight_g": 85,
+      "supplier_variant_id": "2406110906021625700",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-03",
+      "title": "Rose Red Hook-and-Loop-L",
+      "weight_g": 95,
+      "supplier_variant_id": "2406110906021626100",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-04",
+      "title": "Rose Red Hook-and-Loop-XL",
+      "weight_g": 110,
+      "supplier_variant_id": "2406110906021626500",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-05",
+      "title": "Green Hook-and-Loop-S",
+      "weight_g": 77,
+      "supplier_variant_id": "2406110906021627000",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-06",
+      "title": "Green Hook-and-Loop-M",
+      "weight_g": 85,
+      "supplier_variant_id": "2406110906021627400",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-07",
+      "title": "Green Hook-and-Loop-L",
+      "weight_g": 95,
+      "supplier_variant_id": "2406110906021627600",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-08",
+      "title": "Green Hook-and-Loop-XL",
+      "weight_g": 110,
+      "supplier_variant_id": "2406110906021627800",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-09",
+      "title": "Blue Hook-and-Loop-S",
+      "weight_g": 77,
+      "supplier_variant_id": "2406110906021628000",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-10",
+      "title": "Blue Hook-and-Loop-M",
+      "weight_g": 85,
+      "supplier_variant_id": "2406110906021628300",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-11",
+      "title": "Blue Hook-and-Loop-L",
+      "weight_g": 95,
+      "supplier_variant_id": "2406110906021628500",
+      "unit_cost": 2.46
+    },
+    {
+      "sku": "GL-C09-12",
+      "title": "Blue Hook-and-Loop-XL",
+      "weight_g": 110,
+      "supplier_variant_id": "2406110906021628700",
+      "unit_cost": 2.46
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/quick/product/8e7ce0be-54a6-43a6-b17d-4195c5c57eac.jpg",
-      "alt": "",
+      "alt": "Waterproof reflective polyester dog raincoat with hook-and-loop closure, sizes S to XL",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/651dfd00-85e9-40eb-a21c-8d5b75df5565.jpg",
-      "alt": "",
+      "alt": "Close-up of the hook-and-loop closure on a dog raincoat",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/46ebf6e9-8192-4478-8019-bb66344a177c.jpg",
-      "alt": "",
+      "alt": "Small dog wearing a waterproof raincoat outdoors in the rain",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2024/06/12/03/dc2e56e1-e49c-4adb-82f4-7394733f2a5e_trans.jpeg",
-      "alt": "",
+      "alt": "Buckle on a dog raincoat",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/a08e366e-12c6-49fb-92e5-420ef6f7a11e.jpg",
-      "alt": "",
+      "alt": "Reflective strip detail on a dog raincoat",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/39ecaf0a-1881-4875-90ee-f4367ea573c1.jpg",
-      "alt": "",
+      "alt": "Dog raincoat fitted on a small puppy for a walk",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Waterproof Reflective Dog Raincoat, Sizes S to XL",
+    "bullets": [
+      "Waterproof coat for rainy walks.",
+      "Reflective trim for low-light walks.",
+      "Also snowproof, for cold and wet weather.",
+      "Made of polyester.",
+      "Available in sizes S, M, L, and XL."
+    ],
+    "description": "Tired of soggy, muddy dogs after every rainy walk? This waterproof dog raincoat is made for wet days, and it is also snowproof for cold weather. It has reflective trim for low-light walks. The coat is made of polyester and comes in sizes S, M, L, and XL. Choose the size that fits your dog, and measure before you buy, since this page does not list chest, neck, or length measurements. The listed weight range is 57 to 94 grams. Each order includes one dog coat. Keep one by the door so it is ready for the next rainy walk. A snug fit matters most on a wet walk, so take a moment to check your dog's size. It is a practical option for dog parents who walk in all kinds of weather.",
+    "faq": [
+      {
+        "q": "What sizes are available?",
+        "a": "The coat comes in sizes S, M, L, and XL. This page gives no chest, neck, or length measurements, so measure your dog and compare before you order."
+      },
+      {
+        "q": "What is it made of?",
+        "a": "It is made of polyester. It is waterproof, reflective, and snowproof."
+      },
+      {
+        "q": "How long does shipping take?",
+        "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days"
+  },
+  "seo": {
+    "meta_title": "Waterproof Reflective Dog Raincoat | Good Leash Co.",
+    "meta_description": "Waterproof dog raincoat with reflective trim and hook-and-loop closure, in sizes S to XL. Made of polyester.",
+    "primary_keyword": "dog raincoat",
+    "secondary_keywords": [
+      "waterproof dog rain jacket",
+      "reflective dog raincoat",
+      "small dog rain coat"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.663Z"
+  "updated_at": "2026-11-23T04:07:01.144Z",
+  "copy_claims": [
+    "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
+    "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",
+    "Reflective, dog stands out on low-light walks: TITLE line 'Reflective'; 'easier to see in low light' is an inference from 'reflective', not a separate spec claim",
+    "Polyester: DESCRIPTION 'Material: Polyester'",
+    "Sizes S, M, L, XL: DESCRIPTION 'Size: S ,M, L, XL'",
+    "Weight range 57 to 94 grams: WEIGHT_G '57.00-94.00'",
+    "One dog coat per order: DESCRIPTION Packing list 'Dog clothes *1'",
+    "No chest, neck or length measurements: observation, the spec has no measurement lines",
+    "Shipping 3–7 business days plus processing 1–3 days: data/products/waterproof-reflective-dog-raincoat.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+  ],
+  "variant_note": "12 of 24 CJ variants mapped (12 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }

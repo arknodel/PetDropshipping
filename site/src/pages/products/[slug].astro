@@ -41,7 +41,7 @@ const jsonLd = {
         {p.pricing.compare_at && <s class="muted">{money(p.pricing.compare_at)}</s>}
       </p>
       <BuyButton product={p} />
-      <p class="muted">Ships in about {days} days to the US.</p>
+      <p class="muted">{c.shipping_estimate ?? `Delivery in about ${days} business days to the US.`}</p>
       {c.bullets && <ul>{c.bullets.map((b) => <li>{b}</li>)}</ul>}
       {c.safety_warning && <p class="warn"><strong>Safety:</strong> {c.safety_warning}</p>}
     </div>

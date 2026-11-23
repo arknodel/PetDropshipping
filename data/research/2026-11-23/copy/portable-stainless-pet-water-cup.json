@@ -1,0 +1,40 @@
+{
+  "title": "Portable Stainless Steel Dog Water Cup for Walks",
+  "bullets": [
+    "Built-in drinking bowl, so your dog can drink without a separate dish.",
+    "Leak-proof container keeps water from spilling into your bag.",
+    "Stainless steel body for walks, hikes, and trips.",
+    "Comfortable wrist strap for walks, travel, hiking, and park visits.",
+    "Lightweight, so it adds little bulk to your walk gear."
+  ],
+  "description": "Tired of carrying a separate water dish on every walk? This portable water cup has a built-in drinking bowl, so your dog can drink right from the cup without an extra dish. The container is leak-proof, so water stays out of your bag. It has a stainless steel body and a comfortable wrist strap that makes it easy to carry on daily walks, travel, hiking, and park visits. It is lightweight, so it adds little bulk to your walk gear. The listing names it a small dog water bottle. Keep one in the car, in your bag, or by the door so it is ready for your next outing. Its simple design makes it an easy add to the walk routine. Each order includes one water cup.",
+  "faq": [
+    {
+      "q": "Does it come in different sizes?",
+      "a": "This listing is one default version. No size or capacity is listed, so compare the cup with the bag you plan to carry it in."
+    },
+    {
+      "q": "What is it made of?",
+      "a": "The cup has a stainless steel body and a built-in drinking bowl."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days",
+  "claims_used": [
+    "Portable, stainless steel water cup, dogs, walks: TITLE line 'Creative Portable Outdoor Pet Stainless Steel Water Cup Small Dog Water Bottle ...'",
+    "Small dog water bottle: TITLE line 'Small Dog Water Bottle'",
+    "Built-in drinking bowl: DESCRIPTION 'built-in drinking bowl that allows your dog to drink easily'",
+    "Leak-proof, no spills in your bag: DESCRIPTION 'leak-proof water container ensures no spills in your bag'",
+    "Stainless steel body: DESCRIPTION Product information 'Material: Stainless steel'. CAUTION: VARIANTS also lists 'Blue Plastic version' and 'Pink Plastic version'; confirm the mapped variant is stainless before publishing",
+    "Comfortable wrist strap: DESCRIPTION 'a comfortable wrist strap'",
+    "Daily walks, travel, hiking, park visits: DESCRIPTION 'perfect for daily walks, travel, hiking, or park visits'",
+    "Lightweight: DESCRIPTION 'this lightweight bottle'",
+    "Adds little bulk: inference from 'lightweight', not a separate spec claim",
+    "One water cup per order: DESCRIPTION Packing list 'Water Cup*1PC'",
+    "Shipping 3–7 business days plus processing 1–3 days: data/products/portable-stainless-pet-water-cup.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+  ]
+}

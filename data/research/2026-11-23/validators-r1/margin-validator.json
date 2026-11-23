@@ -1,0 +1,331 @@
+[
+  {
+    "item_id": "gl-c19",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4095"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c02",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.412"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4056"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4181"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.411"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4061"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c22",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4125"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4036"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": [
+      "margin within 0.4pt of floor; reprice if cost rises"
+    ]
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.403"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      },
+      {
+        "name": "choking_hazard_flag",
+        "result": "WARN",
+        "evidence": "flag set; copy had no safety_warning at validation time"
+      }
+    ],
+    "fix_suggestions": [
+      "margin within 0.4pt of floor; reprice if cost rises"
+    ]
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "margin_min_40pct",
+        "result": "PASS",
+        "evidence": "recomputed margin 0.4165"
+      },
+      {
+        "name": "price_band_15_80",
+        "result": "PASS",
+        "evidence": "in band"
+      },
+      {
+        "name": "charm_ending",
+        "result": "PASS",
+        "evidence": ".95"
+      },
+      {
+        "name": "margin_math_match",
+        "result": "PASS",
+        "evidence": "delta <= 0.0044"
+      },
+      {
+        "name": "compare_at_null",
+        "result": "PASS",
+        "evidence": "null"
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

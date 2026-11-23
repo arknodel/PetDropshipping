@@ -1,0 +1,122 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "FAIL",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "FAIL",
+        "evidence": "restraint guarantee: locking buckles that stay firmly fastened; SEO leash + quick-release mismatch"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "alt[3] massage"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c02",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "material conflict felt vs cardboard vs wood"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "safety tether keyword; all dog types; give on the ride"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "FAIL",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "FAIL",
+        "evidence": "alt[0] ease neck strain (health); not easy to overturn; bowl count"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "self-cooling as fact without data"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c22",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "leak-proof; waste bag dispenser + fold-out bowl not in copy; plastic variants; meta-language"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "WARN",
+        "evidence": "slow feeder wording; xylitol spread note"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "FAIL",
+    "checks": [
+      {
+        "name": "compliance",
+        "result": "FAIL",
+        "evidence": "Velcro trademark in alt[0] + meta_description; snowproof/waterproof unsupported"
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

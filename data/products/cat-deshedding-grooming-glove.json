@@ -47,46 +47,108 @@
   },
   "variants": [
     {
-      "sku": "GL-C19",
-      "title": "Default Title",
+      "sku": "GL-C19-01",
+      "title": "Hair Removal Gloves-1PCS",
       "weight_g": 40,
-      "supplier_variant_id": "2503191148021601500"
+      "supplier_variant_id": "2503191148021601500",
+      "unit_cost": 0.64
+    },
+    {
+      "sku": "GL-C19-02",
+      "title": "Black-1PCS",
+      "weight_g": 31,
+      "supplier_variant_id": "2603070947481606400",
+      "unit_cost": 0.57
     }
   ],
   "images": [
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/06/09/05/202cb3f9-ed8a-478f-a5ae-bc0b6c4830e1.jpg",
-      "alt": "",
+      "alt": "Pet grooming glove with bristles for removing loose fur from dogs, cats, and rabbits",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/10/05/01/08c5d503-6038-4ef5-86ca-f58f42496724.jpg",
-      "alt": "",
+      "alt": "Close-up of soft bristles on a mesh deshedding glove used for pet hair removal",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/10/15/01/266b63c6-b470-4ed3-b019-208c82b7bbef.jpg",
-      "alt": "",
+      "alt": "Hand wearing a deshedding glove to groom a cat's coat",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/09/02/12/08e2e529-35b0-453e-93b8-1fcbcc3ee6d2.jpg",
-      "alt": "",
+      "alt": "Deshedding glove used for gentle brushing and bath-time cleaning",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/08/20/03/a3b7cce8-27c4-4f04-9cf1-ee94e0367207.jpg",
-      "alt": "",
+      "alt": "Breathable mesh back and TPR material on a pet hair remover glove",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/05/26/06/6553fa78-1ea3-40b6-a1b0-954a5a6a5d08.jpg",
-      "alt": "",
+      "alt": "Flexible wrist cuff on a pet hair removal glove for a secure fit",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Dual-Sided Cat Grooming Glove for Removing Loose Fur",
+    "bullets": [
+      "Dual-sided design quickly removes loose fur during everyday brushing",
+      "Soft silicone bristles for everyday grooming",
+      "Breathable mesh fabric and TPR material make up the glove body",
+      "Flexible wrist cuff keeps the glove on your hand without extra straps",
+      "Fits a range of hand sizes for short, long, and curly fur"
+    ],
+    "description": "Brushing your cat should not mean a fur-covered couch. This dual-sided grooming glove removes loose fur from your cat's coat during everyday brushing. Soft silicone bristles do the work, and a flexible wrist cuff keeps the glove on your hand without extra straps. The body is made of breathable mesh fabric and TPR material. Use it for everyday cleaning, grooming, and bath time. It fits a range of hand sizes and works on short, long, and curly fur, from small to large cats. When shedding season hits, fur builds up fast on the couch, the bed, and your clothes. Keep this glove close by so you can start on it right away. It is also suitable for dogs and rabbits. Choose this glove if you want a simple tool for cats with long or short coats. Each glove ships in a plastic bag. Check the shipping estimate before you order.",
+    "faq": [
+      {
+        "q": "What size is the glove?",
+        "a": "It fits a range of hand sizes. The flexible wrist cuff helps it stay on your hand without extra straps."
+      },
+      {
+        "q": "What coat types does it work on?",
+        "a": "It works on short, long, and curly fur, on small, medium, and large cats."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimated 3–8 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "Estimated 3–8 business days to the US, plus processing 1–3 days."
+  },
+  "seo": {
+    "meta_title": "Cat Deshedding Grooming Glove for Loose Fur | Good Leash Co.",
+    "meta_description": "Grooming glove for cats that picks up loose fur while you brush. Flexible wrist cuff and mesh fabric for everyday grooming sessions.",
+    "primary_keyword": "cat deshedding glove",
+    "secondary_keywords": [
+      "cat grooming glove",
+      "pet hair remover glove",
+      "deshedding brush glove for cats"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.664Z"
+  "updated_at": "2026-11-23T04:06:49.776Z",
+  "copy_claims": [
+    "Dual-sided design quickly removes loose fur. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('quickly removes loose fur').",
+    "Soft silicone bristles. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('soft silicone bristles').",
+    "Breathable mesh fabric and TPR material. Source: spec DESCRIPTION Overview, 'Sturdy Material Construction' paragraph; spec DESCRIPTION Product information, 'Material: Mesh cloth'.",
+    "Flexible wrist cuffs, worn without additional straps. Source: spec DESCRIPTION Overview, 'Comfortable and Convenient Fit' paragraph.",
+    "Designed to fit various hand sizes. Source: spec DESCRIPTION Overview, 'Comfortable and Convenient Fit' paragraph.",
+    "Accommodates various fur lengths (short, long, curly hair) on small, medium, and large cats. Source: spec DESCRIPTION Overview, 'Wide Applicability' paragraph; spec TITLE ('Long Short Curly Hair').",
+    "Suitable for everyday cleaning, grooming, and bath time. Source: spec DESCRIPTION Overview, 'Wide Applicability' paragraph ('bathtime').",
+    "Also suitable for dogs and rabbits. Source: spec TITLE ('For Dog Cat Rabbit').",
+    "Each glove ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Shipping: 3–8 business days to the US, plus processing 1–3 days. Source: data/products/cat-deshedding-grooming-glove.json supplier.delivery_days_min (3) and supplier.delivery_days_max (8); processing window from the copy brief."
+  ],
+  "variant_note": "2 of 20 CJ variants mapped (18 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }

@@ -1,0 +1,122 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "PASS",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "WARN",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c02",
+    "verdict": "FAIL",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "FAIL",
+        "evidence": "contradictory supplier material fields"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "PASS",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "WARN",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "WARN",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c22",
+    "verdict": "FAIL",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "FAIL",
+        "evidence": "contradictory supplier material fields"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "PASS",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "WARN",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claims_vs_spec",
+        "result": "WARN",
+        "evidence": "see round-1 report"
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

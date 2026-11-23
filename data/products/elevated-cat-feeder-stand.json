@@ -2,10 +2,10 @@
   "id": "gl-c20",
   "slug": "elevated-cat-feeder-stand",
   "status": "candidate",
-  "category": "dog",
-  "collection": "dogs",
+  "category": "cat",
+  "collection": "cats",
   "tags": [
-    "dogs"
+    "cats"
   ],
   "score": 6.68,
   "research": {
@@ -47,46 +47,116 @@
   },
   "variants": [
     {
-      "sku": "GL-C20",
-      "title": "Default Title",
+      "sku": "GL-C20-01",
+      "title": "Double bowl box",
       "weight_g": 136,
-      "supplier_variant_id": "1419871245301846016"
+      "supplier_variant_id": "1419871245301846016",
+      "unit_cost": 0.39
+    },
+    {
+      "sku": "GL-C20-02",
+      "title": "4foot single bowl box",
+      "weight_g": 79,
+      "supplier_variant_id": "1419871245633196032",
+      "unit_cost": 0.34
+    },
+    {
+      "sku": "GL-C20-03",
+      "title": "U bottom single bowl box",
+      "weight_g": 91,
+      "supplier_variant_id": "1419871245956157440",
+      "unit_cost": 0.36
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/6f7408c4-5c7b-4980-965f-f0807095bf05.jpg",
-      "alt": "",
+      "alt": "Elevated pet feeder stand with a transparent bowl and 15-degree tilted design",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/da2ff1d6-abac-436b-9789-a02eaa530f2b.jpg",
-      "alt": "",
+      "alt": "Close-up of the transparent bowl set in the elevated feeder stand",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/82f8f119-4581-4513-a7ee-92475bd3ad04.jpg",
-      "alt": "",
+      "alt": "Detachable base stand of an elevated pet feeder for easy cleaning",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/c2f2b2cf-ccc7-4608-bac2-d6cba1b97a1a.jpg",
-      "alt": "",
+      "alt": "Cat eating from a transparent bowl on an elevated feeder stand",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/8527410a-aeef-4560-b168-7fd471b1dc6d.jpg",
-      "alt": "",
+      "alt": "Elevated pet feeder with the bowl removed, showing the base stand",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/e3b7f3b8-0b4a-4eb6-b5c8-be4d85189c48.jpg",
-      "alt": "",
+      "alt": "Elevated pet feeder set up with bowls for a cat or small dog",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Elevated Cat Feeder Stand With Transparent Bowl",
+    "bullets": [
+      "15-degree tilted, elevated design raises the bowl off the floor",
+      "Transparent bowl made of food-grade material",
+      "Bowl and base come apart for easy cleaning",
+      "Built from ABS, PC, and plastic",
+      "Suitable for dogs, cats, puppies, and other small animals"
+    ],
+    "description": "Keep your pet's food and water in one place with this elevated feeder stand. The stand tilts at 15 degrees in an elevated design. The transparent bowl is made of food-grade material. The stand is built from ABS, PC, and plastic. The bowl and base come apart, and the set is washable, portable, and easy to clean. It suits dogs, cats, puppies, and other small animals. Each order includes one base stand and one or two bowls, depending on the version. Packed in a plastic bag for shipping. Shipping comes from a US warehouse. If you are a pet parent who wants a raised feeder, this one is worth a look. Keep the bowl and base clean between meals, and wipe down the stand as needed.",
+    "faq": [
+      {
+        "q": "Does it come with one bowl or two?",
+        "a": "It includes one base stand and either one or two bowls, depending on the version."
+      },
+      {
+        "q": "Is it easy to clean?",
+        "a": "The bowl and base come apart, and the set is washable, portable, and easy to clean."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
+  },
+  "seo": {
+    "meta_title": "Elevated Cat Bowl Stand With Clear Bowls | Good Leash Co.",
+    "meta_description": "Raised feeder stand with a 15 degree tilt and a removable clear bowl for cat food or water. Bowl and base come apart for cleaning.",
+    "primary_keyword": "elevated cat bowl stand",
+    "secondary_keywords": [
+      "raised cat feeder stand",
+      "cat food bowl stand",
+      "elevated dog bowl stand"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.662Z"
+  "updated_at": "2026-11-23T04:06:53.135Z",
+  "copy_claims": [
+    "15 degree tilted, elevated design. Source: spec DESCRIPTION Overview, 'Unique 15° Tilted elevated design'.",
+    "Transparent bowl, food-grade material. Source: spec DESCRIPTION Specification, 'Environmentally friendly food-grade material' (transparent bowl line).",
+    "Bowl and base come apart; washable, portable, easy to clean. Source: spec DESCRIPTION Overview, 'Durable/washable/portable/practical... Light and easy to clean' and 'Bowl and base stand can be take apart'.",
+    "Built from ABS, PC, and plastic. Source: spec DESCRIPTION Overview, 'Made of ABS+PC+Plastic'.",
+    "Suitable for dogs, cats, puppies, and other small animals. Source: spec DESCRIPTION Overview, 'Suitable for dogs, cats, puppies and other small animal.'",
+    "One base stand and one or two bowls, depending on version. Source: spec DESCRIPTION Package Content ('1 Piece Pet Bowl or 2', '1 Piece Base Stand').",
+    "Not easy to overturn. Source: spec DESCRIPTION Overview, 'not easy to overturn'.",
+    "Transparent bowl lets you see the food level. Physical property of a transparent bowl; spec DESCRIPTION Specification, 'Easy to clean transparent bowl'.",
+    "Each stand ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Ships from a US warehouse. Source: spec DESCRIPTION Shipping & Delivery Info ('USA local warehouse'); data/products/elevated-cat-feeder-stand.json supplier.ships_from (US).",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/elevated-cat-feeder-stand.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); spec DESCRIPTION 'Delivery Time: 3 to 7 Business Days (For USA orders)'; processing window from the copy brief."
+  ],
+  "variant_note": "3 of 25 CJ variants mapped (22 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }

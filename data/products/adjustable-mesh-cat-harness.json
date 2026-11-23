@@ -1,0 +1,225 @@
+{
+  "id": "gl-c24",
+  "slug": "adjustable-mesh-cat-harness",
+  "status": "candidate",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "dogs-and-cats"
+  ],
+  "score": 6.69,
+  "research": {
+    "name": "escape-proof breathable mesh harness (cats & small dogs)",
+    "factors": {
+      "demand": 5,
+      "margin": 7.7,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 6,
+      "problem_solving": 8,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2080582126882021378.html",
+    "supplier_sku": "2080582126882021378",
+    "unit_cost": 3.08,
+    "ship_cost_us": 5.39,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 71,
+    "flags": [],
+    "cj_title": "Cat Harness And Leash, Escape Proof Adjustable Vest Harness For Cats, Breathable Reflective Strip Soft Walking Vest For Small Medium Large Cats",
+    "cj_sku": "CJPH3005406"
+  },
+  "pricing": {
+    "retail": 29.95,
+    "compare_at": null,
+    "landed": 17.64,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.47
+  },
+  "variants": [
+    {
+      "sku": "GL-C24-01",
+      "title": "Navy Blue-S",
+      "weight_g": 87,
+      "supplier_variant_id": "2080582126953324545",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-02",
+      "title": "Navy Blue-M",
+      "weight_g": 96,
+      "supplier_variant_id": "2080582126953324546",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-03",
+      "title": "Navy Blue-L",
+      "weight_g": 104,
+      "supplier_variant_id": "2080582126953324547",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-04",
+      "title": "Navy Blue-XL",
+      "weight_g": 118,
+      "supplier_variant_id": "2080582126953324548",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-05",
+      "title": "Blue-S",
+      "weight_g": 87,
+      "supplier_variant_id": "2080582126953324549",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-06",
+      "title": "Blue-M",
+      "weight_g": 96,
+      "supplier_variant_id": "2080582126953324550",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-07",
+      "title": "Blue-L",
+      "weight_g": 104,
+      "supplier_variant_id": "2080582126953324551",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-08",
+      "title": "Blue-XL",
+      "weight_g": 118,
+      "supplier_variant_id": "2080582126953324552",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-09",
+      "title": "Orange-S",
+      "weight_g": 87,
+      "supplier_variant_id": "2080582126953324553",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-10",
+      "title": "Orange-M",
+      "weight_g": 96,
+      "supplier_variant_id": "2080582126953324554",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-11",
+      "title": "Orange-L",
+      "weight_g": 104,
+      "supplier_variant_id": "2080582126953324555",
+      "unit_cost": 3.08
+    },
+    {
+      "sku": "GL-C24-12",
+      "title": "Orange-XL",
+      "weight_g": 118,
+      "supplier_variant_id": "2080582126953324556",
+      "unit_cost": 3.08
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/3fe2bff4-cc62-448b-b1e3-340e851ecd38.jpg",
+      "alt": "Adjustable breathable mesh cat harness with reflective edging and stainless steel D-rings",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17fce3ae-23fd-4146-9e9e-04c04f35d1a7.jpg",
+      "alt": "Close-up of a stainless steel D-ring and locking buckle on a cat harness",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17903a06-4f7f-4268-a826-354bea258196.jpg",
+      "alt": "Cat wearing a mesh vest harness during a walk",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/0fb7dc62-95a1-469d-9ce5-ce1ca5a9a232.jpg",
+      "alt": "Side slide adjuster on a cat harness for fitting different chest sizes",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/7339aa01-b85f-4d3c-b575-2ee7db08f2d8.png",
+      "alt": "Reflective edge strips on a breathable cat harness for night walks",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/8884cdd4-aa64-4f2e-80cd-96c197c8e8a5.jpg",
+      "alt": "Cat walking outdoors in a mesh harness with a leash attached",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Breathable Mesh Cat Harness with Reflective Edging",
+    "bullets": [
+      "Dual thickened stainless steel D-rings for attaching a leash",
+      "Locking side buckles and a one-touch release",
+      "Dual side slide adjusters for a range of chest sizes",
+      "3D air mesh fabric that is breathable and soft to the touch",
+      "Reflective edge strips add visibility on night walks"
+    ],
+    "description": "Walking a cat on a leash starts with a harness that fits. This vest-style cat harness has locking side buckles. Dual side slide adjusters let you change the length for a range of chest sizes, and a one-touch side buckle makes it quick to put on and take off. Dual thickened stainless steel D-rings give you two attachment points for a leash. The body is 3D air mesh fabric, which is breathable and soft. Reflective edge strips add visibility on night walks. Each harness ships in a plastic bag. If you want a breathable cat harness with reflective edging, this one is worth a look. The adjusters cover various chest sizes across small, medium, and large cats. Check the shipping estimate before you order.",
+    "faq": [
+      {
+        "q": "How do I size the harness?",
+        "a": "It has dual side slide adjusters for various chest sizes, and it is made for small, medium, and large cats. Measure your cat's chest before you order."
+      },
+      {
+        "q": "What is it made of?",
+        "a": "The body is 3D air mesh fabric that is breathable and soft. The D-rings are thickened stainless steel."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+      }
+    ],
+    "safety_warning": "Check the fit before every walk and supervise your cat while it wears the harness. No harness can guarantee a pet cannot slip out.",
+    "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
+  },
+  "seo": {
+    "meta_title": "Breathable Mesh Cat Harness | Good Leash Co.",
+    "meta_description": "Adjustable cat vest harness in breathable 3D mesh with stainless steel D-rings, locking side buckles and reflective edging.",
+    "primary_keyword": "cat harness",
+    "secondary_keywords": [
+      "breathable mesh cat harness",
+      "cat walking vest harness",
+      "reflective cat harness"
+    ]
+  },
+  "validation": {},
+  "updated_at": "2026-11-23T04:06:48.262Z",
+  "copy_claims": [
+    "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
+    "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
+    "Dual side slide adjusters for various chest sizes; one-touch side buckle for quick on/off. Source: spec DESCRIPTION paragraph 2 ('Easy On & Quick Adjustment').",
+    "3D air mesh fabric; air permeability; soft touch. Source: spec DESCRIPTION paragraph 3 ('Breathable & Comfortable').",
+    "Reflective edge strips add visibility for night walks. Source: spec DESCRIPTION paragraph 4 ('High Visible Reflection').",
+    "Made for small, medium, and large cats. Source: spec TITLE ('For Small Medium Large Cats').",
+    "Each harness ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/escape-proof-breathable-mesh-harness.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+  ],
+  "previous_slugs": [
+    "escape-proof-breathable-mesh-harness"
+  ],
+  "variant_note": "12 of 24 CJ variants mapped (12 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
+}

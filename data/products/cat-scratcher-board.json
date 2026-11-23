@@ -1,0 +1,146 @@
+{
+  "id": "gl-c02",
+  "slug": "cat-scratcher-board",
+  "status": "dropped",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "cats"
+  ],
+  "score": 6.86,
+  "research": {
+    "name": "multi-position cardboard cat scratcher lounge",
+    "factors": {
+      "demand": 6,
+      "margin": 7.546153846153846,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 5,
+      "problem_solving": 8,
+      "wow_factor": 6
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2607280913391614600.html",
+    "supplier_sku": "2607280913391614600",
+    "unit_cost": 2.7,
+    "ship_cost_us": 6.3,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 35,
+    "flags": [],
+    "cj_title": "Rectangular Cat Scratcher Board with Felt Pads - Durable Corrugated Cardboard Kitten Claw Sharpening Toy for Indoor Pets",
+    "cj_sku": "CJYD3014599"
+  },
+  "pricing": {
+    "retail": 30.95,
+    "compare_at": null,
+    "landed": 18.2,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.49
+  },
+  "variants": [
+    {
+      "sku": "GL-C02",
+      "title": "Default Title",
+      "weight_g": 150,
+      "supplier_variant_id": "2607280913391615200"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/f68010f3-b73f-4588-a9b9-1fdf26027987_trans.jpeg",
+      "alt": "Rectangular corrugated cardboard cat scratcher board with felt pads, 80 by 25 cm, for indoor cats",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/9693bc2e-2fe4-40d7-9fdc-59da4f4bd1b2_trans.jpeg",
+      "alt": "Close-up of the corrugated cardboard scratching surface on a cat scratcher board",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/1bc5393b-7a82-4045-8381-1fce1e416b93_trans.jpeg",
+      "alt": "Cat scratching the corrugated cardboard surface of a scratcher board on the floor",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/2c5cb9e6-8b28-4195-801d-337e36779342_trans.jpeg",
+      "alt": "Felt pad on the base of a corrugated cardboard cat scratcher board",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/497ecb8d-2321-474d-bee9-2708c097a83b_trans.jpeg",
+      "alt": "Cat scratcher board laid on the floor as a lounge for an indoor cat",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/945d07dc-5b70-450d-bdc3-6c80cf892138_trans.jpeg",
+      "alt": "Full-length view of an 80 by 25 cm cardboard scratcher board for claw sharpening",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Rectangular Cat Scratcher Board with Felt Pads, 80 x 25 cm",
+    "bullets": [
+      "80 x 25 cm board gives your cat a clear surface to scratch",
+      "Felt pads included with the board",
+      "Made for indoor pets as a claw sharpening board",
+      "One-piece board keeps setup to a single item",
+      "A simple way to offer a scratching spot away from the sofa"
+    ],
+    "description": "Cats like to scratch, and a board gives them a place to do it instead of the furniture. This rectangular scratcher measures 80 x 25 cm. It is made for indoor pets and works as a claw sharpening board. The board is made of felt and includes felt pads. It arrives as a single piece, so there is one item to set up. Measure your space before you order, since the board is 80 x 25 cm. Pick a spot where your cat already likes to scratch, and set the board there. Give your cat a place to scratch that is not the sofa, and see whether they take to it. If you are a cat parent who wants a simple option for indoor scratching, this board is worth a look. Each board ships in a plastic bag. Check the shipping estimate before you order.",
+    "faq": [
+      {
+        "q": "What size is the scratcher?",
+        "a": "The board measures 80 x 25 cm. Measure your space before you order."
+      },
+      {
+        "q": "Is it made for indoor cats?",
+        "a": "It is made for indoor pets and works as a claw sharpening board."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+      }
+    ],
+    "safety_warning": "Supervise your pet while they use this scratcher. Remove the board if it becomes torn, damaged, or has loose or broken pieces.",
+    "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
+  },
+  "seo": {
+    "meta_title": "Cardboard Cat Scratcher Board for Indoor Cats",
+    "meta_description": "Corrugated cardboard cat scratcher board with felt pads for indoor cats. Rectangular 80 x 25 cm size, sold as one piece.",
+    "primary_keyword": "cardboard cat scratcher",
+    "secondary_keywords": [
+      "corrugated cardboard cat scratcher",
+      "cat scratch board",
+      "cat claw sharpening toy"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  },
+  "updated_at": "2026-11-23T04:06:05.824Z",
+  "copy_claims": [
+    "Rectangular board measuring 80 x 25 cm. Source: spec DESCRIPTION Product information, 'Product Dimensions: 80 * 25 cm'; spec TITLE ('Rectangular').",
+    "Felt pads. Source: spec TITLE ('with Felt Pads').",
+    "Claw sharpening board for indoor pets. Source: spec TITLE ('Claw Sharpening Toy for Indoor Pets').",
+    "Made of felt. Source: spec DESCRIPTION Product information, 'Material: Felt'. Conflicting material fields exist (spec TITLE says corrugated cardboard; spec MATERIAL says Wood); see handback.",
+    "Single piece per package. Source: spec DESCRIPTION Packing list, '1pcs Cat Scratcher'.",
+    "Each board ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Supervision and damaged-item safety warning. Basis: spec TITLE calls the item a toy ('Claw Sharpening Toy'); copy brief rule for toy items.",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/corrugated-cat-scratcher-board.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+  ],
+  "previous_slugs": [
+    "corrugated-cat-scratcher-board"
+  ],
+  "dropped_reason": "claim-fact-checker FAIL: supplier lists three different materials (corrugated cardboard, wood, felt) and decal/set variants; cannot describe truthfully."
+}

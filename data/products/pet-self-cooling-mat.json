@@ -47,46 +47,120 @@
   },
   "variants": [
     {
-      "sku": "GL-C06",
-      "title": "Default Title",
+      "sku": "GL-C06-01",
+      "title": "BLUE-XS",
       "weight_g": 60,
-      "supplier_variant_id": "1734888404347146240"
+      "supplier_variant_id": "1734888404347146240",
+      "unit_cost": 1.14
+    },
+    {
+      "sku": "GL-C06-02",
+      "title": "COFFEE-XS",
+      "weight_g": 60,
+      "supplier_variant_id": "1734888404347146248",
+      "unit_cost": 1.14
+    },
+    {
+      "sku": "GL-C06-03",
+      "title": "GREY-XS",
+      "weight_g": 60,
+      "supplier_variant_id": "1734888404347146256",
+      "unit_cost": 1.14
+    },
+    {
+      "sku": "GL-C06-04",
+      "title": "PINK-XS",
+      "weight_g": 60,
+      "supplier_variant_id": "1734888404347146264",
+      "unit_cost": 1.14
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/10cb8b10-51ae-4fe8-96ae-a75cfa909e6e.jpg",
-      "alt": "",
+      "alt": "Waterproof summer sleeping mat for cats and dogs",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/0f6fb3db-3b52-4866-be7c-5b09aff6cc4a.jpg",
-      "alt": "",
+      "alt": "Top surface of a waterproof self-cooling mat for pets",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/d84a95c4-462e-467d-ae39-75e733e35557.jpg",
-      "alt": "",
+      "alt": "Cat lying on a self-cooling pet mat",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/88b12a6d-6a99-490f-b80e-4c4d641a5211.jpg",
-      "alt": "",
+      "alt": "Dog resting on a self-cooling pet mat on the floor",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/61007496-c874-475d-9f0e-1296b6dc7b7c.jpg",
-      "alt": "",
+      "alt": "Edge of a fabric pet cooling mat",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/a925ed96-5066-4113-ac0d-37f5f6d7253c.jpg",
-      "alt": "",
+      "alt": "Pet cooling mat placed on the floor for a dog to rest on",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Waterproof Summer Sleeping Mat for Cats and Dogs",
+    "bullets": [
+      "Summer sleeping pad the maker lists as self-cooling (no temperature stated).",
+      "Waterproof, so wet paws and small spills are easier to clean up.",
+      "Made of cloth, a simple pad for many spots around the house.",
+      "Size XS in four colors, for cats and small dogs.",
+      "Sleeping pad for the spots your pet already likes to rest."
+    ],
+    "description": "Tired of your pet claiming the warmest spot in the house? This summer sleeping mat gives your cat or dog a spot of their own. The maker lists it as self-cooling but gives no cooling temperature. It is a sleeping pad made of cloth, with a waterproof finish, so wet paws and small spills are easier to clean up. It is made for both cats and dogs, which makes it a practical pick for a home with more than one kind of pet. Set it where your pet already likes to lie, and see whether they settle in. It is a simple, no-fuss addition to the spots you already use. This page does not list exact dimensions or a cooling temperature, so measure your space before you order.",
+    "faq": [
+      {
+        "q": "What size is this mat?",
+        "a": "It is sold in size XS in four colors (blue, coffee, grey, pink). The maker does not list exact dimensions, so it suits small pets and small spaces best."
+      },
+      {
+        "q": "What is it made of?",
+        "a": "It is made of cloth. It is listed as waterproof and self-cooling, but no cooling temperature is listed."
+      },
+      {
+        "q": "How long does shipping take?",
+        "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days"
+  },
+  "seo": {
+    "meta_title": "Waterproof Summer Pet Sleeping Mat | Good Leash Co.",
+    "meta_description": "Waterproof cloth sleeping mat for dogs and cats. Made for summer naps; no cooling temperature is stated by the maker.",
+    "primary_keyword": "pet cooling mat",
+    "secondary_keywords": [
+      "dog cooling mat",
+      "cat cooling pad",
+      "waterproof pet sleeping pad"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.661Z"
+  "updated_at": "2026-11-23T04:06:55.012Z",
+  "copy_claims": [
+    "Self-cooling mat, sleeping pad, for cat and dog, waterproof: TITLE line 'Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat'",
+    "Cloth: MATERIAL line '[\"Cloth\"]'",
+    "Waterproof: TITLE line 'Waterproof Pet Cooling Mat'",
+    "Cats and dogs: TITLE line 'For Cat Dog'",
+    "Sleeping pad: TITLE line 'Sleeping Pad'",
+    "No exact dimensions and no cooling temperature are listed: spec has no size line and no temperature figure (observation, not a claim)",
+    "Single version: data/products/pet-self-cooling-mat.json variants show one 'Default Title' (store record)",
+    "Shipping 3–7 business days plus processing 1–3 days: data/products/pet-self-cooling-mat.json supplier.delivery_days_min=3, supplier.delivery_days_max=7 (processing window from the brief)"
+  ],
+  "variant_note": "4 of 25 CJ variants mapped (21 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }

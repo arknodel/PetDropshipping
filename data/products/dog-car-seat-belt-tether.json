@@ -26,7 +26,7 @@
     "app": "CJ",
     "url": "https://cjdropshipping.com/product/-p-1545285316972654592.html",
     "supplier_sku": "1545285316972654592",
-    "unit_cost": 3.68,
+    "unit_cost": 3.75,
     "ship_cost_us": 6.65,
     "ships_from": "US",
     "shipping_method": "USPS+VIP",
@@ -41,52 +41,112 @@
   "pricing": {
     "retail": 32.95,
     "compare_at": null,
-    "landed": 19.59,
-    "margin_pct": 0.41,
+    "landed": 19.66,
+    "margin_pct": 0.4,
     "breakeven_roas": 1.54
   },
   "variants": [
     {
-      "sku": "GL-C27",
-      "title": "Default Title",
+      "sku": "GL-C27-01",
+      "title": "Black",
       "weight_g": 208,
-      "supplier_variant_id": "1545285317077512192"
+      "supplier_variant_id": "1545285317077512192",
+      "unit_cost": 3.68
+    },
+    {
+      "sku": "GL-C27-02",
+      "title": "Dark Grey",
+      "weight_g": 208,
+      "supplier_variant_id": "1545285317081706496",
+      "unit_cost": 3.75
     }
   ],
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/547dcad1-8b15-4247-8637-89ffc75aa264.jpg",
-      "alt": "",
+      "alt": "Adjustable elastic dog car seat belt made of polyester and zinc alloy",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/5b50f965-fe18-4e13-8a75-71216dfe9052.jpg",
-      "alt": "",
+      "alt": "Close-up of the metal fitting on a dog car seat belt tether",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/00016ed1-5eff-484d-8d1f-bdacc789e7d1.jpg",
-      "alt": "",
+      "alt": "Dog riding in a vehicle wearing a car seat belt tether",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/264c60ab-f00f-4ff3-9d86-850558ce8a64.jpg",
-      "alt": "",
+      "alt": "Dog car seat belt tether attached to a vehicle seat belt",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/f51baf39-814f-40c7-92bc-d24004e3113e.jpg",
-      "alt": "",
+      "alt": "Adjustable section of a dog car seat belt tether showing its stretch length",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/5ebb2e08-4af3-402d-b7d7-f238cb46e194.jpg",
-      "alt": "",
+      "alt": "Dog car seat belt tether shown in use on a car seat",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Adjustable Dog Car Seat Belt, Polyester and Zinc Alloy",
+    "bullets": [
+      "Adjustable, stretchy length for a range of dog sizes",
+      "Length adjusts from a 70 cm minimum to a 125 cm maximum stretch",
+      "Polyester and zinc alloy construction for car rides",
+      "Elastic section between the clip and the seat belt buckle",
+      "One pet car seat belt included in each order"
+    ],
+    "description": "If your dog rides along in the car, you want a belt that adjusts to fit. This elastic, adjustable pet seat belt adjusts for a range of dog sizes. It adjusts from a minimum size of 70 cm and can stretch to a maximum length of 125 cm. The belt is made of polyester and zinc alloy and weighs about 185 g net. Each order includes one pet car seat belt. Each belt ships in a plastic bag. Pet parents who want a simple, adjustable option for everyday car rides will find this belt a practical choice. The adjustable length helps you set the fit. If you travel with more than one dog, you can order a second belt. Ask yourself how often you drive with your dog, and pick a belt that suits your routine. Check the shipping estimate before you order.",
+    "faq": [
+      {
+        "q": "How do I know if it fits my dog?",
+        "a": "The belt has a minimum size of 70 cm and can stretch to 125 cm. Compare these lengths with your car and your dog before you order."
+      },
+      {
+        "q": "What is the belt made of?",
+        "a": "It is made of polyester and zinc alloy, and weighs about 185 g net."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+      }
+    ],
+    "safety_warning": "Attach only to a harness, never a collar. This belt is not a crash-tested restraint. Supervise your dog in the car.",
+    "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
+  },
+  "seo": {
+    "meta_title": "Adjustable Dog Car Seat Belt | Good Leash Co.",
+    "meta_description": "Adjustable stretch seat belt for dogs riding in the car. Length adjusts from 70 cm to 125 cm. Polyester and zinc alloy.",
+    "primary_keyword": "dog car seat belt",
+    "secondary_keywords": [
+      "dog seat belt for car",
+      "adjustable dog car seat belt",
+      "dog seat belt harness clip"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.664Z"
+  "updated_at": "2026-11-23T04:06:51.287Z",
+  "copy_claims": [
+    "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
+    "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
+    "Minimum size 70 cm; maximum stretchable length 125 cm. Source: spec DESCRIPTION Product information, 'Specifications: Minimum size 70cm, maximum stretchable length 125cm'.",
+    "Made of polyester and zinc alloy. Source: spec DESCRIPTION Product information, 'Material: polyester + zinc alloy'; spec MATERIAL: Cloth, Metal.",
+    "Net weight about 185 g. Source: spec DESCRIPTION Product information, 'Weight: net weight 185g'.",
+    "One pet car seat belt per order. Source: spec DESCRIPTION Packing list, 'Pet car seat belt*1'.",
+    "Each belt ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/dog-car-seat-belt-tether.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+  ],
+  "variant_note": "2 of 2 CJ variants mapped; shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }

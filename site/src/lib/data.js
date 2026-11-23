@@ -9,7 +9,9 @@ export { brand, collections };
 export const products = Object.entries(productModules)
   .filter(([path]) => !path.split('/').pop().startsWith('_'))
   .map(([, mod]) => mod.default ?? mod)
-  .filter((p) => p.status === 'active' || (import.meta.env.DEV && p.status === 'draft'));
+  // Shown on the site: validated (all validators passed; buy button disabled until
+  // a Shopify checkout_url exists), draft (synced to Shopify as draft) and active.
+  .filter((p) => ['validated', 'draft', 'active'].includes(p.status));
 
 export const productsIn = (collectionSlug) =>
   products.filter((p) => p.collection === collectionSlug);

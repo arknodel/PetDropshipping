@@ -1,0 +1,38 @@
+{
+  "title": "Waterproof Reflective Dog Raincoat, Sizes S to XL",
+  "bullets": [
+    "Waterproof coat for rainy walks.",
+    "Reflective, so your dog is easier to see on low-light walks.",
+    "Also snowproof, for cold and wet weather.",
+    "Made of polyester.",
+    "Available in sizes S, M, L, and XL."
+  ],
+  "description": "Tired of soggy, muddy dogs after every rainy walk? This waterproof dog raincoat is made for wet days, and it is also snowproof for cold weather. The reflective design helps your dog stand out on low-light walks. The coat is made of polyester and comes in sizes S, M, L, and XL. Choose the size that fits your dog, and measure before you buy, since this page does not list chest, neck, or length measurements. The listed weight range is 57 to 94 grams. Each order includes one dog coat. Keep one by the door so it is ready for the next rainy walk. A snug fit matters most on a wet walk, so take a moment to check your dog's size. It is a practical option for dog parents who walk in all kinds of weather.",
+  "faq": [
+    {
+      "q": "What sizes are available?",
+      "a": "The coat comes in sizes S, M, L, and XL. This page gives no chest, neck, or length measurements, so measure your dog and compare before you order."
+    },
+    {
+      "q": "What is it made of?",
+      "a": "It is made of polyester. It is waterproof, reflective, and snowproof."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days",
+  "claims_used": [
+    "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
+    "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",
+    "Reflective, dog stands out on low-light walks: TITLE line 'Reflective'; 'easier to see in low light' is an inference from 'reflective', not a separate spec claim",
+    "Polyester: DESCRIPTION 'Material: Polyester'",
+    "Sizes S, M, L, XL: DESCRIPTION 'Size: S ,M, L, XL'",
+    "Weight range 57 to 94 grams: WEIGHT_G '57.00-94.00'",
+    "One dog coat per order: DESCRIPTION Packing list 'Dog clothes *1'",
+    "No chest, neck or length measurements: observation, the spec has no measurement lines",
+    "Shipping 3–7 business days plus processing 1–3 days: data/products/waterproof-reflective-dog-raincoat.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+  ]
+}

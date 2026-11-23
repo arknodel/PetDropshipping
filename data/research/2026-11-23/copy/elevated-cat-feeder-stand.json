@@ -1,0 +1,40 @@
+{
+  "title": "Elevated Cat Feeder Stand With Transparent Bowl",
+  "bullets": [
+    "15-degree tilted, elevated design raises the bowl off the floor",
+    "Transparent bowl made of food-grade material",
+    "Bowl and base come apart for easy cleaning",
+    "Built from ABS, PC, and plastic",
+    "Suitable for dogs, cats, puppies, and other small animals"
+  ],
+  "description": "Keep your pet's food and water in one place with this elevated feeder stand. The stand tilts at 15 degrees in an elevated design. The transparent bowl is made of food-grade material. The stand is built from ABS, PC, and plastic. The bowl and base come apart, and the set is washable, portable, and easy to clean. It suits dogs, cats, puppies, and other small animals. Each order includes one base stand and one or two bowls, depending on the version. Packed in a plastic bag for shipping. Shipping comes from a US warehouse. If you are a pet parent who wants a raised feeder, this one is worth a look. The stand is not easy to overturn. Keep the bowl and base clean between meals, and wipe down the stand as needed. A transparent bowl lets you check the food level at a glance.",
+  "faq": [
+    {
+      "q": "Does it come with one bowl or two?",
+      "a": "It includes one base stand and either one or two bowls, depending on the version."
+    },
+    {
+      "q": "Is it easy to clean?",
+      "a": "The bowl and base come apart, and the set is washable, portable, and easy to clean."
+    },
+    {
+      "q": "How long will shipping take?",
+      "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days.",
+  "claims_used": [
+    "15 degree tilted, elevated design. Source: spec DESCRIPTION Overview, 'Unique 15° Tilted elevated design'.",
+    "Transparent bowl, food-grade material. Source: spec DESCRIPTION Specification, 'Environmentally friendly food-grade material' (transparent bowl line).",
+    "Bowl and base come apart; washable, portable, easy to clean. Source: spec DESCRIPTION Overview, 'Durable/washable/portable/practical... Light and easy to clean' and 'Bowl and base stand can be take apart'.",
+    "Built from ABS, PC, and plastic. Source: spec DESCRIPTION Overview, 'Made of ABS+PC+Plastic'.",
+    "Suitable for dogs, cats, puppies, and other small animals. Source: spec DESCRIPTION Overview, 'Suitable for dogs, cats, puppies and other small animal.'",
+    "One base stand and one or two bowls, depending on version. Source: spec DESCRIPTION Package Content ('1 Piece Pet Bowl or 2', '1 Piece Base Stand').",
+    "Not easy to overturn. Source: spec DESCRIPTION Overview, 'not easy to overturn'.",
+    "Transparent bowl lets you see the food level. Physical property of a transparent bowl; spec DESCRIPTION Specification, 'Easy to clean transparent bowl'.",
+    "Each stand ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Ships from a US warehouse. Source: spec DESCRIPTION Shipping & Delivery Info ('USA local warehouse'); data/products/elevated-cat-feeder-stand.json supplier.ships_from (US).",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/elevated-cat-feeder-stand.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); spec DESCRIPTION 'Delivery Time: 3 to 7 Business Days (For USA orders)'; processing window from the copy brief."
+  ]
+}

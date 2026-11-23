@@ -1,0 +1,37 @@
+{
+  "title": "Adjustable Dog Car Seat Belt, Polyester and Zinc Alloy",
+  "bullets": [
+    "Adjustable and stretchy, suited to all dog types",
+    "Length adjusts from a 70 cm minimum to a 125 cm maximum stretch",
+    "Polyester and zinc alloy construction for car rides",
+    "Elastic build gives the belt a bit of give on the ride",
+    "One pet car seat belt included in each order"
+  ],
+  "description": "If your dog rides along in the car, you want a belt that adjusts to fit. This elastic, adjustable pet seat belt is made for all dog types. It adjusts from a minimum size of 70 cm and can stretch to a maximum length of 125 cm. The belt is made of polyester and zinc alloy and weighs about 185 g net. Each order includes one pet car seat belt. Each belt ships in a plastic bag. Pet parents who want a simple, adjustable option for everyday car rides will find this belt a practical choice. Its stretchy design gives the belt some give, while the adjustable length helps you dial in the fit. If you travel with more than one dog, you can order a second belt. Ask yourself how often you drive with your dog, and pick a belt that suits your routine. Check the shipping estimate before you order.",
+  "faq": [
+    {
+      "q": "How do I know if it fits my dog?",
+      "a": "The belt has a minimum size of 70 cm and can stretch to 125 cm. It is made for all dog types, and the length adjusts. Compare these lengths with your dog's needs before you order."
+    },
+    {
+      "q": "What is the belt made of?",
+      "a": "It is made of polyester and zinc alloy, and weighs about 185 g net."
+    },
+    {
+      "q": "How long will shipping take?",
+      "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days.",
+  "claims_used": [
+    "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
+    "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
+    "Minimum size 70 cm; maximum stretchable length 125 cm. Source: spec DESCRIPTION Product information, 'Specifications: Minimum size 70cm, maximum stretchable length 125cm'.",
+    "Made of polyester and zinc alloy. Source: spec DESCRIPTION Product information, 'Material: polyester + zinc alloy'; spec MATERIAL: Cloth, Metal.",
+    "Net weight about 185 g. Source: spec DESCRIPTION Product information, 'Weight: net weight 185g'.",
+    "One pet car seat belt per order. Source: spec DESCRIPTION Packing list, 'Pet car seat belt*1'.",
+    "Each belt ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/dog-car-seat-belt-tether.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+  ]
+}

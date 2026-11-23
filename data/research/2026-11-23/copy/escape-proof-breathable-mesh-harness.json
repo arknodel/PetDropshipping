@@ -1,0 +1,37 @@
+{
+  "title": "Breathable Mesh Cat Harness, Locking Buckles, Reflective Edging",
+  "bullets": [
+    "Dual thickened stainless steel D-rings for attaching a leash",
+    "Locking buckles that stay firmly fastened on walks",
+    "Dual side slide adjusters and a one-touch side buckle for quick fitting",
+    "3D air mesh fabric that is breathable and soft to the touch",
+    "Reflective edge strips add visibility on night walks"
+  ],
+  "description": "Walking a cat on a leash takes a harness that fits and stays put. This vest-style cat harness has locking safety buckles that stay firmly fastened. Dual side slide adjusters let you change the length for a range of chest sizes, and a one-touch side buckle makes it quick to put on and take off. Dual thickened stainless steel D-rings give you two attachment points for a leash. The body is 3D air mesh fabric, which is breathable and soft. Reflective edge strips add visibility on night walks. Each harness ships in a plastic bag. If you want a breathable cat harness with reflective edging, this one is worth a look. Taking your cat for a walk can be simpler with a harness that adjusts and has locking buckles. The adjusters cover various chest sizes across small, medium, and large cats. Check the shipping estimate before you order.",
+  "faq": [
+    {
+      "q": "How do I size the harness?",
+      "a": "It has dual side slide adjusters for various chest sizes, and it is made for small, medium, and large cats. Measure your cat's chest before you order."
+    },
+    {
+      "q": "What is it made of?",
+      "a": "The body is 3D air mesh fabric that is breathable and soft. The D-rings are thickened stainless steel."
+    },
+    {
+      "q": "How long will shipping take?",
+      "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days.",
+  "claims_used": [
+    "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
+    "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
+    "Dual side slide adjusters for various chest sizes; one-touch side buckle for quick on/off. Source: spec DESCRIPTION paragraph 2 ('Easy On & Quick Adjustment').",
+    "3D air mesh fabric; air permeability; soft touch. Source: spec DESCRIPTION paragraph 3 ('Breathable & Comfortable').",
+    "Reflective edge strips add visibility for night walks. Source: spec DESCRIPTION paragraph 4 ('High Visible Reflection').",
+    "Made for small, medium, and large cats. Source: spec TITLE ('For Small Medium Large Cats').",
+    "Each harness ships in a plastic bag. Source: spec PACKING: Plastic bags.",
+    "Shipping: 3–7 business days to the US, plus processing 1–3 days. Source: data/products/escape-proof-breathable-mesh-harness.json supplier.delivery_days_min (3) and supplier.delivery_days_max (7); processing window from the copy brief."
+  ]
+}

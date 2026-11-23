@@ -1,0 +1,142 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "PASS",
+        "evidence": "all fields present"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c02",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "PASS",
+        "evidence": "all fields present"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c22",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "PASS",
+        "evidence": "all fields present"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "PASS",
+        "evidence": "all fields present"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing_completeness",
+        "result": "WARN",
+        "evidence": "single Default Title variant vs multiple supplier variants and/or CJ ID precision loss (IDs ending 00)"
+      }
+    ],
+    "fix_suggestions": [
+      "map CJ variants; re-pull IDs as strings"
+    ]
+  }
+]

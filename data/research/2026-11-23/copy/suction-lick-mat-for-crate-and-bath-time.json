@@ -1,0 +1,40 @@
+{
+  "title": "Suction Cup Silicone Slow Feeder Lick Mat for Dogs and Cats",
+  "bullets": [
+    "64 suction cups on the back help hold the mat on a smooth, clean surface.",
+    "Raised edges help keep food from spreading across the mat.",
+    "Made of food grade silicone.",
+    "20 x 20 x 1 cm, a size that suits cats and small to medium dogs.",
+    "Made for treats like peanut butter, yogurt, and pumpkin puree."
+  ],
+  "description": "Tired of treats ending up all over the floor? A lick mat keeps them in one place. This silicone slow feeder mat measures 20 x 20 x 1 cm and has 64 suction cups on the back to help it stay put on a smooth, clean surface. Its raised edges help keep food from spreading, so the bathroom, shower, or counter stays tidier. Spread peanut butter, yogurt, or pumpkin puree on the mat and let your pet lick it up. The mat is made of food grade silicone and is listed for cats and for small and medium dogs. Choose a spread that is safe for your pet and check the surface before use. It is a simple way to give your pet a treat in a spot that is easy to tidy.",
+  "faq": [
+    {
+      "q": "How big is it, and who is it for?",
+      "a": "It measures 20 x 20 x 1 cm. It is made for cats and small to medium dogs, and it has no separate size options."
+    },
+    {
+      "q": "What is it made of?",
+      "a": "It is made of food grade silicone. Check that any spread you use is safe for your pet."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Estimate: 3–7 business days to the US, plus processing 1–3 days."
+    }
+  ],
+  "safety_warning": "Supervise your pet while they use this lick mat. Stop use and remove the mat if it is torn, cracked, or has damaged or missing suction cups, since loose pieces can be a choking hazard. Check that any spread or treat is safe for your pet before serving.",
+  "shipping_estimate": "3–7 business days to the US, plus processing 1–3 days",
+  "claims_used": [
+    "Suction cup, silicone, slow feeder, lick mat, dogs and cats: TITLE line 'Dog Licking Mat Slow Feeder ... With Suction Cups'. The supplier title's 'Anxiety Relief' wording was intentionally NOT used",
+    "64 suction cups on the back, to help secure on a smooth and clean surface: DESCRIPTION 'There are 64 powerful suction cups on the back of this pet food mat to help secure it on a smooth and clean surface'",
+    "Raised edges prevent food from spreading: DESCRIPTION 'The raised edges of the texture pattern prevent food from spreading'",
+    "Bathroom, shower or counter stays clean: DESCRIPTION 'keep the bathroom, shower or counter clean'",
+    "Food grade silicone: Specifications 'Material: Food grade silicone'",
+    "20 x 20 x 1 cm: Specifications 'Size: 20 x 20 x 1cm'",
+    "Suits cats and small and medium-sized dogs: DESCRIPTION 'ideal size for cats and small and medium-sized dogs'; Specifications 'Suitable for: cats, dogs'",
+    "Treats such as peanut butter, yogurt, pumpkin puree: DESCRIPTION 'lick peanut butter, yogurt, pumpkin puree'",
+    "Excluded on purpose: all anxiety, calming, endorphin, bloating, digestibility, vet-related and 'healthy' or 'non-toxic' statements from the supplier text",
+    "Choking warning: data/products/suction-lick-mat-for-crate-and-bath-time.json research.needs_choking_warning=true and supplier.flags 'choking_hazard'",
+    "Shipping 3–7 business days plus processing 1–3 days: data/products/suction-lick-mat-for-crate-and-bath-time.json supplier.delivery_days_min=3, supplier.delivery_days_max=7"
+  ]
+}

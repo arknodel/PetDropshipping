@@ -47,46 +47,124 @@
   },
   "variants": [
     {
-      "sku": "GL-C04",
-      "title": "Default Title",
+      "sku": "GL-C04-01",
+      "title": "White",
       "weight_g": 123,
-      "supplier_variant_id": "1368888014532644864"
+      "supplier_variant_id": "1368888014532644864",
+      "unit_cost": 1.47
+    },
+    {
+      "sku": "GL-C04-02",
+      "title": "Green",
+      "weight_g": 123,
+      "supplier_variant_id": "1368888014624919552",
+      "unit_cost": 1.47
+    },
+    {
+      "sku": "GL-C04-03",
+      "title": "Pink",
+      "weight_g": 123,
+      "supplier_variant_id": "1368888014692028416",
+      "unit_cost": 1.47
+    },
+    {
+      "sku": "GL-C04-04",
+      "title": "Blue",
+      "weight_g": 123,
+      "supplier_variant_id": "1380458561456443392",
+      "unit_cost": 1.47
     }
   ],
   "images": [
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/10/28/12/c0c773af-e042-4a41-9b98-ef259c5a858e.jpg",
-      "alt": "",
+      "alt": "Reusable 2-in-1 pet hair remover roller with a dust bin for cat and dog fur on furniture",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/11/26/12/a0587817-c0c5-4d0b-ae00-70e5783d83e1.jpg",
-      "alt": "",
+      "alt": "Close-up of the dust bin and press button on a reusable pet hair remover roller",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/1615203197680.jpg",
-      "alt": "",
+      "alt": "Pet hair remover roller swiped across a sofa to collect fur",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2023/11/08/09/358e7ec5-b10c-480b-aefa-071f07c87391.png",
-      "alt": "",
+      "alt": "Pet hair remover roller cleaning fur from a piece of clothing",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/11/14/07/3036c9d2-3762-4a0e-826e-f28f30f03c81.jpg",
-      "alt": "",
+      "alt": "Self-cleaning swivel head of a reusable pet hair remover roller",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/08/23/03/3fc821c4-437e-4985-a226-6f1e25d133f7.jpg",
-      "alt": "",
+      "alt": "Pet hair remover roller about 18 cm long, sized for carrying in a bag",
       "license_ok": true
     }
   ],
-  "copy": {},
-  "seo": {},
+  "copy": {
+    "title": "Reusable Pet Hair Remover Roller for Cat and Dog Fur",
+    "bullets": [
+      "Swipe across the surface and hair collects in the built-in dustbin.",
+      "Press the top button to empty the dustbin without touching the hair.",
+      "Swivel left and right to clear hair from the brush head.",
+      "Use on sofas, clothing, and bedding, including cotton, linen, and wool.",
+      "Compact at 4.3 x 4.3 x 18.3 cm, so it fits in a bag or in the car."
+    ],
+    "description": "Pet hair on the couch, your clothes, and the bed can build up fast. If you are a pet parent, you know the struggle. This reusable roller lifts hair with a simple swipe. Swipe across the surface and the hair collects in the dustbin. When the bin is full, press the top button to empty it without touching the hair. The brush head swivels left and right to clear hair from itself, so cleanup is quick. It uses static to lift hair, and it is easy to store. It works on most surfaces, including cotton, linen, and wool, and on sofas, clothing, bedding, and comforters. At 4.3 x 4.3 x 18.3 cm, it fits in a bag or in the car, and the dimensions are approximate. Keep one handy for quick clean-ups around the house.",
+    "faq": [
+      {
+        "q": "How big is it?",
+        "a": "It measures about 4.3 x 4.3 x 18.3 cm. The measurement is approximate."
+      },
+      {
+        "q": "What is it made of?",
+        "a": "It is made of plastic and is reusable."
+      },
+      {
+        "q": "How long does shipping take?",
+        "a": "Estimate: 3–8 business days to the US, plus processing 1–3 days."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "3–8 business days to the US, plus processing 1–3 days"
+  },
+  "seo": {
+    "meta_title": "Reusable Pet Hair Remover Roller Brush | Good Leash Co.",
+    "meta_description": "Reusable 2-in-1 pet hair brush with a self-cleaning roller and dustbin for sofas, clothes, and bedding. Easy to carry.",
+    "primary_keyword": "pet hair remover roller",
+    "secondary_keywords": [
+      "reusable lint roller for pet hair",
+      "pet hair remover brush",
+      "self cleaning pet hair brush"
+    ]
+  },
   "validation": {},
-  "updated_at": "2026-11-23T03:52:55.659Z"
+  "updated_at": "2026-11-23T04:06:58.098Z",
+  "copy_claims": [
+    "Reusable, pet hair remover, cat and dog fur, self cleaning: TITLE line '2-1 Reusable Pet Hair Remover Brush Lint Roller ... Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush'",
+    "Swipe, hair collects in dustbin: DESCRIPTION 'Just swipe on the surface, all the hair is collected in the dustbin'",
+    "Press top button to empty, no need to touch the dirty surface: DESCRIPTION 'just press the top button to empty it'",
+    "Swivel to remove hair from brush: DESCRIPTION 'Just swivel left and right to quickly remove the hair on the brush'",
+    "Static to lift hair, easy storage: DESCRIPTION Specification 'Features: easy storage, no damage to clothing, electrostatic adsorption' (plain-language rewrite of 'electrostatic adsorption'; 'no damage to clothing' intentionally left out)",
+    "Most surfaces incl. cotton, linen, wool: DESCRIPTION 'Use on most surfaces like cotton, linen, wool, etc.'",
+    "Sofas, clothes, bedding, comforters: DESCRIPTION 'Clean up pet hair on your sofas, Clothes, bedding, comforters'",
+    "Size 4.3 x 4.3 x 18.3 cm, approximate: DESCRIPTION 'Product size: 4.3 * 4.3 * 18.3cm (slight error in manual measurement)'",
+    "Fits in bag or car: DESCRIPTION 'fits perfectly in the bag or in the car'",
+    "Reusable: DESCRIPTION 'Advantage: Reusable'",
+    "Plastic material: MATERIAL line '[\"Plastic\"]'",
+    "Shipping 3–8 business days plus processing 1–3 days: data/products/reusable-pet-hair-remover-roller.json supplier.delivery_days_min=3, supplier.delivery_days_max=8"
+  ],
+  "variant_note": "4 of 51 CJ variants mapped (47 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "validation_r1": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    }
+  }
 }
