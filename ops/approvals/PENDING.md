@@ -60,8 +60,13 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 
 ## APR-007 — Custom domain (optional)
 - Gate: #1 spending
-- Action: Buy **goodleashco.com** (~$10–20/yr; was unregistered 2026-11-22 — buy soon), point to Shopify checkout + GitHub Pages site.
-- Status: PENDING
+- Purchase: DONE — goodleashco.com registered at NameSilo 2026-11-23 by owner.
+- Remaining: DNS at NameSilo. Delete 6 parking A records (@ and www → 172.232.24.235/.161, 172.234.25.42),
+  then add: @ A 185.199.108.153 / .109.153 / .110.153 / .111.153;
+  @ AAAA 2606:50c0:8000::153 / 8001::153 / 8002::153 / 8003::153; www CNAME arknodel.github.io.
+  Then: gh api -X PUT repos/arknodel/PetDropshipping/pages -f cname=goodleashco.com, enforce HTTPS once cert issues.
+  Later: shop.goodleashco.com CNAME → Shopify (after APR-002).
+- Status: IN PROGRESS (DNS)
 
 ## APR-008 — Enable scheduled workflows
 - Gate: #1 spending (Anthropic API usage for headless runs, Actions minutes)

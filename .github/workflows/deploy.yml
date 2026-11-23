@@ -42,5 +42,15 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site/dist
-      - id: deployment
+      # deploy-pages sometimes can't see a just-uploaded artifact ("Fetching artifact
+      # metadata failed"). Retry once after a pause instead of failing the run.
+      - id: deploy1
         uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - if: steps.deploy1.outcome == 'failure'
+        run: sleep 30
+      - id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        uses: actions/deploy-pages@v5
+      - id: deployment
+        run: echo "page_url=${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url }}" >> "$GITHUB_OUTPUT"
