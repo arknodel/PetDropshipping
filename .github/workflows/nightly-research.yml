@@ -1,0 +1,15 @@
+name: nightly-research
+# Schedule disabled: headless Opus runs cost money -> approval gate APR-008.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 2 * * *"
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "TODO claude -p --model claude-opus-5-5 with Phase 1 prompt, then open PR"

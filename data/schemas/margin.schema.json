@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "margin",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["product", "landed", "retail", "margin_pct", "breakeven_roas"],
+    "properties": {
+      "product": { "type": "string" },
+      "landed": { "type": "number" },
+      "retail": { "type": "number", "minimum": 15, "maximum": 80 },
+      "margin_pct": { "type": "number", "description": "(retail - landed) / retail, as 0-1" },
+      "breakeven_roas": { "type": "number" }
+    }
+  }
+}

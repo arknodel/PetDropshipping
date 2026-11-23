@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "validator",
+  "title": "Validator output contract (all validators)",
+  "type": "object",
+  "required": ["item_id", "verdict", "checks", "fix_suggestions"],
+  "properties": {
+    "item_id": { "type": "string" },
+    "verdict": { "enum": ["PASS", "FAIL", "WARN"] },
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "result", "evidence"],
+        "properties": {
+          "name": { "type": "string" },
+          "result": { "enum": ["PASS", "FAIL", "WARN"] },
+          "evidence": { "type": "string" }
+        }
+      }
+    },
+    "fix_suggestions": { "type": "array", "items": { "type": "string" } }
+  }
+}

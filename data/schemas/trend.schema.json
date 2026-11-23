@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trend",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "category", "signal_source", "signal_strength_1to10", "evidence_url"],
+    "properties": {
+      "name": { "type": "string" },
+      "category": { "type": "string" },
+      "signal_source": { "type": "string" },
+      "signal_strength_1to10": { "type": "integer", "minimum": 1, "maximum": 10 },
+      "evidence_url": { "type": "string" },
+      "price_range_seen": { "type": "string" }
+    }
+  }
+}

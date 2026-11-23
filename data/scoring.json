@@ -1,0 +1,25 @@
+{
+  "_note": "Opus may retune weights monthly from sales data; commit with reasoning. Weights sum to 1.00. Each factor scored 0-10.",
+  "weights": {
+    "demand": 0.25,
+    "margin": 0.20,
+    "shipping_speed": 0.15,
+    "supplier_quality": 0.15,
+    "low_competition": 0.10,
+    "problem_solving": 0.10,
+    "wow_factor": 0.05
+  },
+  "hard_filters": {
+    "min_margin_pct": 0.40,
+    "price_min": 15,
+    "price_max": 80,
+    "max_delivery_days": 12,
+    "preferred_delivery_days": 7,
+    "min_supplier_rating": 4.6,
+    "min_orders_or_reviews": 100,
+    "reject_flags": ["fragile", "oversized"],
+    "reject_safety_flags": true
+  },
+  "launch": { "initial_count": 10, "weekly_new_min": 3, "weekly_new_max": 5 },
+  "kill_rules": { "min_sales_30d": 2, "max_refund_rate": 0.08 }
+}

@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "product",
+  "title": "Canonical product record (data/products/<slug>.json)",
+  "type": "object",
+  "required": ["id", "slug", "status", "category", "supplier", "pricing"],
+  "properties": {
+    "id": { "type": "string" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "status": { "enum": ["candidate", "validated", "draft", "active", "archived", "dropped"] },
+    "category": { "enum": ["dog", "cat", "small-pet", "aquarium"] },
+    "collection": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "score": { "type": "number", "minimum": 0, "maximum": 10 },
+    "supplier": {
+      "type": "object",
+      "required": ["name", "url", "unit_cost", "ship_cost_us", "delivery_days_min", "delivery_days_max"],
+      "properties": {
+        "name": { "type": "string" },
+        "app": { "type": "string", "description": "DSers | Spocket | CJ | Zendrop" },
+        "url": { "type": "string" },
+        "supplier_sku": { "type": "string" },
+        "unit_cost": { "type": "number" },
+        "ship_cost_us": { "type": "number" },
+        "ships_from": { "type": "string" },
+        "delivery_days_min": { "type": "integer" },
+        "delivery_days_max": { "type": "integer" },
+        "rating": { "type": "number" },
+        "orders_count": { "type": "integer" },
+        "flags": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "pricing": {
+      "type": "object",
+      "required": ["retail", "landed", "margin_pct"],
+      "properties": {
+        "retail": { "type": "number" },
+        "compare_at": { "type": ["number", "null"], "description": "Only if truthful" },
+        "landed": { "type": "number" },
+        "margin_pct": { "type": "number" },
+        "breakeven_roas": { "type": "number" }
+      }
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sku", "title"],
+        "properties": {
+          "sku": { "type": "string" },
+          "title": { "type": "string" },
+          "weight_g": { "type": "number" },
+          "supplier_variant_id": { "type": "string" }
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["src", "alt", "license_ok"],
+        "properties": {
+          "src": { "type": "string" },
+          "alt": { "type": "string", "maxLength": 125 },
+          "license_ok": { "type": "boolean" }
+        }
+      }
+    },
+    "copy": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string", "maxLength": 70 },
+        "bullets": { "type": "array", "items": { "type": "string" }, "minItems": 5, "maxItems": 5 },
+        "description": { "type": "string" },
+        "faq": {
+          "type": "array",
+          "items": { "type": "object", "properties": { "q": { "type": "string" }, "a": { "type": "string" } } }
+        },
+        "safety_warning": { "type": "string" },
+        "shipping_estimate": { "type": "string" }
+      }
+    },
+    "seo": {
+      "type": "object",
+      "properties": {
+        "meta_title": { "type": "string", "maxLength": 60 },
+        "meta_description": { "type": "string", "maxLength": 155 },
+        "primary_keyword": { "type": "string" },
+        "secondary_keywords": { "type": "array", "items": { "type": "string" }, "maxItems": 3 }
+      }
+    },
+    "shopify": {
+      "type": "object",
+      "properties": {
+        "product_gid": { "type": "string" },
+        "handle": { "type": "string" },
+        "checkout_url": { "type": "string" }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "description": "Latest verdict per validator, plus WARN justifications",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "verdict": { "enum": ["PASS", "FAIL", "WARN"] },
+          "log_path": { "type": "string" },
+          "warn_justification": { "type": "string" }
+        }
+      }
+    },
+    "updated_at": { "type": "string", "format": "date-time" }
+  }
+}

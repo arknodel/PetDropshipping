@@ -1,0 +1,17 @@
+name: hourly-ops
+# Schedule disabled until store is live and APR-008 approved.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 * * * *"
+permissions:
+  contents: write
+jobs:
+  ops:
+    runs-on: ubuntu-latest
+    env:
+      SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
+      SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "TODO scripts/orders-check + inventory-sync; Haiku agents (claude-haiku-5-5); escalate to Opus only on alert"

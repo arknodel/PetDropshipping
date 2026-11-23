@@ -1,0 +1,17 @@
+{
+  "_note": "Inputs for margin-calc and margin-validator. Both must use these exact formulas.",
+  "formulas": {
+    "landed": "unit_cost + ship_cost_us + payment_fee_pct * retail + payment_fee_fixed + est_cac",
+    "margin_pct": "(retail - landed) / retail",
+    "breakeven_roas": "retail / (retail - (landed - est_cac))"
+  },
+  "currency": "USD",
+  "payment_fee_pct": 0.029,
+  "payment_fee_fixed": 0.30,
+  "est_cac": 8.00,
+  "est_cac_note": "Placeholder blended CAC until real ad data. Retune in Phase 4.",
+  "refund_reserve_pct": 0.03,
+  "charm_endings": [0.99, 0.95],
+  "price_band": { "min": 15, "max": 80 },
+  "min_margin_pct": 0.40
+}

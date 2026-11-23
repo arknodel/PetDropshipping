@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+.auth/
+*.pem
+
+# Build / deps
+node_modules/
+site/dist/
+site/_site/
+.lighthouseci/
+playwright-report/
+test-results/

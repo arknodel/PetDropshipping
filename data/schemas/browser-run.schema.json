@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "browser-run",
+  "type": "object",
+  "required": ["flow", "steps_done", "stopped_at", "reason"],
+  "properties": {
+    "flow": { "type": "string" },
+    "steps_done": { "type": "array", "items": { "type": "string" } },
+    "stopped_at": { "type": ["string", "null"], "description": "URL + step where human handoff needed" },
+    "reason": { "enum": ["completed", "login", "oauth_consent", "2fa", "payment_or_tax", "captcha", "paid_plan", "terms", "publish", "error"] },
+    "screenshot_path": { "type": ["string", "null"] },
+    "script_path": { "type": ["string", "null"] }
+  }
+}

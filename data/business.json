@@ -1,0 +1,11 @@
+{
+  "_note": "Placeholders. Human fills in. AI uses these for form fills only.",
+  "legal_name": "",
+  "store_name": "",
+  "contact_email": "",
+  "support_email": "",
+  "business_address": { "line1": "", "line2": "", "city": "", "region": "", "postal_code": "", "country": "US" },
+  "currency": "USD",
+  "timezone": "",
+  "primary_market": "US"
+}

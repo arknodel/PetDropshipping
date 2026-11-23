@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "review",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["product", "complaint", "frequency", "opportunity"],
+    "properties": {
+      "product": { "type": "string" },
+      "complaint": { "type": "string", "description": "Paraphrase; no quote over 15 words" },
+      "frequency": { "enum": ["low", "medium", "high"] },
+      "opportunity": { "type": "string" }
+    }
+  }
+}

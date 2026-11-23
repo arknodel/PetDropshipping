@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "order-alert",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["order_id", "issue", "age_hours", "suggested_action"],
+    "properties": {
+      "order_id": { "type": "string" },
+      "issue": { "enum": ["unfulfilled_48h", "missing_tracking", "stuck_at_supplier", "other"] },
+      "age_hours": { "type": "number" },
+      "suggested_action": { "type": "string" }
+    }
+  }
+}

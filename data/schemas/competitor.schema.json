@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "competitor",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["product", "store", "price"],
+    "properties": {
+      "product": { "type": "string" },
+      "store": { "type": "string" },
+      "price": { "type": "number" },
+      "review_count": { "type": "integer" },
+      "rating": { "type": "number" },
+      "angle_used": { "type": "string" }
+    }
+  }
+}

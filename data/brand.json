@@ -1,0 +1,32 @@
+{
+  "_note": "DRAFT. Name is pending approval (APR-001). Copywriter uses voice rules below.",
+  "name": null,
+  "name_candidates": [
+    { "name": "Pawsmith", "rationale": "Crafted, practical tools for pets", "status": "pending_approval" },
+    { "name": "Good Leash Co.", "rationale": "Friendly, trustworthy; dog-leaning but broad", "status": "pending_approval" },
+    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "pending_approval" },
+    { "name": "Petwise Supply", "rationale": "Practical, problem-solving angle", "status": "pending_approval" },
+    { "name": "Kindred Paws", "rationale": "Warm, pet-parent community feel", "status": "pending_approval" }
+  ],
+  "name_check_required": "Trademark search (USPTO TESS), .com availability, social handles — before approval",
+  "audience": "US pet parents of dogs and cats who want practical products that solve everyday problems",
+  "voice": {
+    "personality": ["friendly", "trustworthy", "practical", "warm without being cutesy"],
+    "do": [
+      "Lead with the everyday problem the product solves",
+      "Use plain, specific language and real specs",
+      "State honest shipping windows",
+      "Address the reader as a fellow pet parent"
+    ],
+    "dont": [
+      "No health, vet, cure, or anxiety-treatment claims",
+      "No fake urgency, countdowns, or invented stock levels",
+      "No made-up reviews or testimonials",
+      "No competitor brand names or trademarks",
+      "No excessive puns or emoji"
+    ],
+    "reading_level": "Grade 6-8",
+    "sample_line": "Tired of muddy paws on the couch? This mat traps dirt and water at the door, so the mess stays put."
+  },
+  "visual": { "palette": "TBD", "logo": "TBD after name approval" }
+}

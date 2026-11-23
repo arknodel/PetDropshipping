@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "metrics",
+  "type": "object",
+  "required": ["date", "revenue", "orders", "aov", "cvr", "contribution_margin", "refund_rate"],
+  "properties": {
+    "date": { "type": "string", "format": "date" },
+    "revenue": { "type": "number" },
+    "orders": { "type": "integer" },
+    "aov": { "type": "number" },
+    "cvr": { "type": "number" },
+    "contribution_margin": { "type": "number", "description": "revenue - COGS - shipping - fees - ad_spend - refunds" },
+    "refund_rate": { "type": "number" },
+    "top_skus": { "type": "array", "items": { "type": "string" }, "maxItems": 5 },
+    "bottom_skus": { "type": "array", "items": { "type": "string" }, "maxItems": 5 }
+  }
+}

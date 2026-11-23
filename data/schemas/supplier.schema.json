@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "supplier",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["product", "supplier", "unit_cost", "ship_cost_us", "delivery_days_min", "delivery_days_max", "supplier_rating", "orders_count", "image_license_ok", "flags"],
+    "properties": {
+      "product": { "type": "string" },
+      "supplier": { "type": "string" },
+      "supplier_url": { "type": "string" },
+      "unit_cost": { "type": "number" },
+      "ship_cost_us": { "type": "number" },
+      "ships_from": { "type": "string" },
+      "delivery_days_min": { "type": "integer" },
+      "delivery_days_max": { "type": "integer" },
+      "supplier_rating": { "type": "number" },
+      "orders_count": { "type": "integer" },
+      "image_license_ok": { "type": "boolean" },
+      "flags": {
+        "type": "array",
+        "items": { "enum": ["fragile", "oversized", "battery_lithium", "chemical", "ingestible", "choking_hazard", "trademark_risk"] }
+      }
+    }
+  }
+}
