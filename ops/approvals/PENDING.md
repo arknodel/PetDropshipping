@@ -74,6 +74,18 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   NameSilo DNS records no longer used. GitHub Pages site deleted.
 - Status: APPROVED (complete)
 
+## APR-010 — CJdropshipping account + API key (supplier data)
+- Gate: #2 account creation / ToS; secrets handling (human only)
+- Why: Phase 1 run 2026-11-23 scored 0/30 candidates. Public supplier sites block automated access
+  (CJ CAPTCHA, Spocket 403, AliExpress JS-only) and AliExpress cards lack delivery days / ratings.
+  Official CJ API gives cost, US-warehouse freight quotes, delivery windows, resale-licensed images.
+- Action (you): sign up free at https://cjdropshipping.com (accept terms), then CJ dashboard →
+  Authorization → API → generate key. Put it in local `.env` as CJ_API_KEY=… and run:
+  `gh secret set CJ_API_KEY -R arknodel/PetDropshipping` (paste when prompted). AI never reads the value.
+- Then AI runs: `node scripts/cj-vet.mjs data/research/2026-11-23` → `node scripts/score.mjs …`.
+- Also: CJ's Shopify app can be the dropshipping app for APR-005 (free).
+- Status: PENDING
+
 ## APR-009 — Storefront hosting (replaces GitHub Pages for the public site)
 - Decision (owner, chat 2026-11-23): Cloudflare Pages, Free plan.
 - Cloudflare account (owner sign-in), zone goodleashco.com (Free), Pages project `goodleashco`

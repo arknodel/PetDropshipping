@@ -20,6 +20,8 @@
     "reject_flags": ["fragile", "oversized"],
     "reject_safety_flags": true
   },
+  "rating_exempt_suppliers": ["CJdropshipping"],
+  "rating_exempt_note": "CJ is supplier of record and publishes no seller star rating; min_supplier_rating is skipped for it, orders_count (CJ listedNum) still applies, supplier_quality fixed at 7. Opus 2026-11-23.",
   "launch": { "initial_count": 10, "weekly_new_min": 3, "weekly_new_max": 5 },
   "kill_rules": { "min_sales_30d": 2, "max_refund_rate": 0.08 }
 }

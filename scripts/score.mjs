@@ -10,9 +10,12 @@ if (!dir) { console.error('usage: node scripts/score.mjs data/research/<date>');
 const A = JSON.parse(readFileSync('data/assumptions.json', 'utf8'));
 const S = JSON.parse(readFileSync('data/scoring.json', 'utf8'));
 const candidates = JSON.parse(readFileSync(join(dir, 'candidates.json'), 'utf8'));
-const suppliers = readdirSync(dir).filter((f) => /^supplier-batch\d+\.json$/.test(f))
+const suppliers = readdirSync(dir).filter((f) => /^supplier-batch.*\.json$/.test(f)).sort()
   .flatMap((f) => JSON.parse(readFileSync(join(dir, f), 'utf8')));
-const byId = Object.fromEntries(suppliers.map((s) => [s.id, s]));
+// Later files win, but only when they actually have a verified unit cost.
+const byId = {};
+for (const s of suppliers) if (!byId[s.id] || s.unit_cost != null) byId[s.id] = s;
+const RATING_EXEMPT = new Set(S.rating_exempt_suppliers ?? []);
 
 const F = S.hard_filters;
 const SAFETY_REJECT = ['battery_lithium', 'chemical', 'ingestible', 'trademark_risk'];
@@ -38,7 +41,8 @@ function charmRetail(unit, ship) {
 const rows = candidates.map((c) => {
   const s = byId[c.id] ?? {};
   const reasons = [];
-  const req = ['unit_cost', 'ship_cost_us', 'delivery_days_max', 'supplier_rating', 'orders_count'];
+  const exempt = RATING_EXEMPT.has(s.supplier);
+  const req = ['unit_cost', 'ship_cost_us', 'delivery_days_max', 'orders_count', ...(exempt ? [] : ['supplier_rating'])];
   for (const k of req) if (s[k] === null || s[k] === undefined) reasons.push(`unverified ${k}`);
   const flags = s.flags ?? [];
   if (flags.some((f) => F.reject_flags.includes(f))) reasons.push(`flag ${flags.filter((f) => F.reject_flags.includes(f))}`);
@@ -55,7 +59,7 @@ const rows = candidates.map((c) => {
     }
   }
   if (s.delivery_days_max != null && s.delivery_days_max > F.max_delivery_days) reasons.push(`delivery ${s.delivery_days_max}d > ${F.max_delivery_days}`);
-  if (s.supplier_rating != null && s.supplier_rating < F.min_supplier_rating) reasons.push(`rating ${s.supplier_rating} < ${F.min_supplier_rating}`);
+  if (!exempt && s.supplier_rating != null && s.supplier_rating < F.min_supplier_rating) reasons.push(`rating ${s.supplier_rating} < ${F.min_supplier_rating}`);
   if (s.orders_count != null && s.orders_count < F.min_orders_or_reviews) reasons.push(`orders ${s.orders_count} < ${F.min_orders_or_reviews}`);
 
   const d = s.delivery_days_max;
@@ -63,7 +67,7 @@ const rows = candidates.map((c) => {
     demand: c.demand,
     margin: retail ? clamp(10 - (retail - 15) / 6.5) : 0,
     shipping_speed: d == null ? 0 : d <= 5 ? 10 : d <= F.preferred_delivery_days ? 8 : d <= 10 ? 5 : 3,
-    supplier_quality: s.supplier_rating == null ? 0 : clamp((s.supplier_rating - 4.0) * 20),
+    supplier_quality: s.supplier_rating != null ? clamp((s.supplier_rating - 4.0) * 20) : exempt ? 7 : 0,
     low_competition: c.competition,
     problem_solving: c.problem_solving,
     wow_factor: c.wow,
