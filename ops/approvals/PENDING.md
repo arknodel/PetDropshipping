@@ -66,7 +66,18 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   @ AAAA 2606:50c0:8000::153 / 8001::153 / 8002::153 / 8003::153; www CNAME arknodel.github.io.
   Then: gh api -X PUT repos/arknodel/PetDropshipping/pages -f cname=goodleashco.com, enforce HTTPS once cert issues.
   Later: shop.goodleashco.com CNAME → Shopify (after APR-002).
-- Status: IN PROGRESS (DNS)
+- Progress 2026-11-23: 6 parking A records deleted; added @ A 185.199.108.153 and 185.199.109.153. Paused.
+- BLOCKER: GitHub Pages usage limits forbid using Pages to run an online business / e-commerce site
+  (docs: pages/getting-started-with-github-pages/github-pages-limits). Plan tier doesn't change this.
+  Decide storefront host (APR-009) before finishing DNS. Pages custom domain NOT set.
+- Status: PAUSED (hosting decision)
+
+## APR-009 — Storefront hosting (replaces GitHub Pages for the public site)
+- Gate: business decision; #1 if a paid host is chosen
+- Options: (a) Shopify Online Store theme at goodleashco.com (Shopify plan already needed);
+  (b) Astro site on a host that allows commercial use (e.g. Cloudflare Pages), checkout on Shopify.
+  GitHub keeps: repo, Actions jobs, data/agents. Verify chosen host's ToS before switching.
+- Status: PENDING
 
 ## APR-008 — Enable scheduled workflows
 - Gate: #1 spending (Anthropic API usage for headless runs, Actions minutes)
