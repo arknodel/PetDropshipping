@@ -71,7 +71,8 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   not needed while the static site links to Shopify product pages.
   BLOCKED: Dev Dashboard requires owner to verify fondlypetstore@gmail.com (email link).
 - Owner go-ahead in chat 2026-11-23 ("finish the shopify setup").
-- Status: APPROVED (in progress)
+- Done 2026-11-23: app Fondly Pet Ops (Dev Dashboard) released + installed on fondlypet-store; granted scopes verified via API = read_products, write_products, read_orders, read_inventory, read_fulfillments.
+- Status: APPROVED (complete)
 
 ## APR-005 — Dropshipping app install (free plan)
 - Gate: #2 terms acceptance, OAuth scopes; #1 if any paid plan
@@ -82,7 +83,9 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 - 2026-11-23: chosen CJdropshipping (all 8 products are CJ-sourced). Listing https://apps.shopify.com/cucheng
   (free to install; CJ charges product/shipping per order). Install button opens a new tab, which the AI
   browser can't open -> owner clicks Install, reviews the permission list, approves, links CJ account.
-- Status: PENDING (owner click)
+- Done 2026-11-23: installed via Claude in Chrome; Shopify authorized on the Install click (no separate
+  scope screen). Owner confirmed in chat ("Authorized, installed"). CJ user agreement handled by owner.
+- Status: APPROVED (complete)
 
 ## APR-006 — Secrets into GitHub
 - Gate: secrets handling (human only)
@@ -93,7 +96,8 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   Same three names in local `.env` for `node scripts/shopify-sync.mjs --apply`.
   (Updated 2026-11-23 for Dev Dashboard client-credentials auth; ADMIN/STOREFRONT tokens no longer used.)
 - Depends on: APR-004
-- Status: PENDING
+- Done 2026-11-23 by owner via scripts/set-shopify-creds.ps1 (clipboard mode); auth smoke test OK.
+- Status: APPROVED (complete)
 
 ## APR-007 — Custom domain (optional)
 - Gate: #1 spending

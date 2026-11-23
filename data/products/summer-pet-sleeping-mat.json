@@ -1,7 +1,7 @@
 {
   "id": "gl-c06",
   "slug": "summer-pet-sleeping-mat",
-  "status": "validated",
+  "status": "draft",
   "category": "dog",
   "collection": "dogs",
   "tags": [
@@ -164,7 +164,7 @@
       "warn_justification": "Repetitive bullet replaced (weight from CJ variant data); copy_claims provenance note is internal only."
     }
   },
-  "updated_at": "2026-11-23T04:21:48.775Z",
+  "updated_at": "2026-11-23T12:50:53.310Z",
   "copy_claims": [
     "Self-cooling mat, sleeping pad, for cat and dog, waterproof: TITLE line 'Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat'",
     "Cloth: MATERIAL line '[\"Cloth\"]'",
@@ -188,5 +188,9 @@
   "gate": {
     "checked_at": "2026-11-23T04:24:21.879Z",
     "problems": []
+  },
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517433888995",
+    "handle": "summer-pet-sleeping-mat"
   }
 }

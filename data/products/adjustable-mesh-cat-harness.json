@@ -1,7 +1,7 @@
 {
   "id": "gl-c24",
   "slug": "adjustable-mesh-cat-harness",
-  "status": "validated",
+  "status": "draft",
   "category": "cat",
   "collection": "cats",
   "tags": [
@@ -219,7 +219,7 @@
       "warn_justification": "Copy said small/medium/large while variants run S–XL; FAQ now states S to XL. No other issue."
     }
   },
-  "updated_at": "2026-11-23T04:21:48.775Z",
+  "updated_at": "2026-11-23T12:50:47.727Z",
   "copy_claims": [
     "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
     "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
@@ -243,5 +243,9 @@
   "gate": {
     "checked_at": "2026-11-23T04:24:21.873Z",
     "problems": []
+  },
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517433200867",
+    "handle": "adjustable-mesh-cat-harness"
   }
 }

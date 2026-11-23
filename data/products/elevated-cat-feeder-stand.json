@@ -1,7 +1,7 @@
 {
   "id": "gl-c20",
   "slug": "elevated-cat-feeder-stand",
-  "status": "validated",
+  "status": "draft",
   "category": "cat",
   "collection": "cats",
   "tags": [
@@ -162,7 +162,7 @@
       "warn_justification": "Same variant-label issue, fixed; title now says \"Bowls\" to match one/two-bowl versions."
     }
   },
-  "updated_at": "2026-11-23T04:21:48.774Z",
+  "updated_at": "2026-11-23T12:50:50.670Z",
   "copy_claims": [
     "15 degree tilted, elevated design. Source: spec DESCRIPTION Overview, 'Unique 15° Tilted elevated design'.",
     "Transparent bowl, food-grade material. Source: spec DESCRIPTION Specification, 'Environmentally friendly food-grade material' (transparent bowl line).",
@@ -186,5 +186,9 @@
   "gate": {
     "checked_at": "2026-11-23T04:24:21.876Z",
     "problems": []
+  },
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517433626851",
+    "handle": "elevated-cat-feeder-stand"
   }
 }

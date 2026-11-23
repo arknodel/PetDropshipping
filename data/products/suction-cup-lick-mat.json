@@ -1,7 +1,7 @@
 {
   "id": "gl-c11",
   "slug": "suction-cup-lick-mat",
-  "status": "validated",
+  "status": "draft",
   "category": "dog",
   "collection": "dogs",
   "tags": [
@@ -165,7 +165,7 @@
       "log_path": "data/research/2026-11-23/validators/listing-qa.json"
     }
   },
-  "updated_at": "2026-11-23T04:21:48.776Z",
+  "updated_at": "2026-11-23T12:50:52.360Z",
   "copy_claims": [
     "Suction cup, silicone, slow feeder, lick mat, dogs and cats: TITLE line 'Dog Licking Mat Slow Feeder ... With Suction Cups'. The supplier title's 'Anxiety Relief' wording was intentionally NOT used",
     "64 suction cups on the back, to help secure on a smooth and clean surface: DESCRIPTION 'There are 64 powerful suction cups on the back of this pet food mat to help secure it on a smooth and clean surface'",
@@ -192,5 +192,9 @@
   "gate": {
     "checked_at": "2026-11-23T04:24:21.878Z",
     "problems": []
+  },
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517433856227",
+    "handle": "suction-cup-lick-mat"
   }
 }
