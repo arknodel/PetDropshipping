@@ -6,29 +6,33 @@ updated: 2026-11-23
 
 **Draft, not in effect.** Items in `[[double brackets]]` need the owner's input.
 
-## Damaged, defective or wrong items
+## If something is wrong with your order
 
-If your item arrives damaged, defective, or is not what you ordered, email us within **30 days of delivery** with:
+Email us within **30 days of delivery** with your order number and the details below. In most cases you will **not** need to send anything back.
 
-- your order number
-- photos showing the problem (and the shipping label, if the package was damaged)
+| Problem | What to send us | What we do |
+|---|---|---|
+| Item badly damaged | Photos (or a short video if photos don't show it) | Full refund or a replacement |
+| Item partly damaged | Photos or video | Partial refund or a replacement |
+| Wrong item | Photo of what you received | Full refund or a replacement |
+| Wrong color or size | Photo of the item; for size, a photo of it being measured | Refund or a replacement |
+| Missing part | Photo of what arrived | We send the missing part, or give a partial refund |
 
-We will send a replacement or a full refund, including any shipping you paid. In most cases you will not need to send the item back.
+Small cosmetic marks that don't affect use (a light scratch, a loose thread, creases from packing) and damage to the outer shipping box alone are not treated as damage.
 
 ## Changed your mind
 
-`[[Owner decision: choose one]]`
+`[[Owner decision: choose one. Our supplier does not accept change-of-mind returns, so Option A is paid for by the store.]]`
 
-- **Option A (recommended):** You can return unused items in their original packaging within **30 days of delivery**. Email us first for a return authorization and return address; returns sent without one cannot be processed. Return shipping is paid by the customer. We refund the item price once the return is received and checked.
-- **Option B:** We do not accept change-of-mind returns. Please check sizes and measurements before ordering.
+- **Option B (no cost to the store):** We do not accept returns for change of mind, including ordering the wrong size or item. Please check sizes, measurements and details on the product page before you order. If you have a question, email us before you buy.
+- **Option A (store pays):** You can return unused items in their original packaging within **30 days of delivery**. Email us first for a return authorization and our return address `[[US return address]]`; returns sent without one cannot be processed. Return shipping is paid by the customer. We refund the item price once the return arrives and is checked.
 
-## Items we cannot accept back
+## What we can't refund or replace
 
-For hygiene and safety reasons, we cannot accept change-of-mind returns of items that have been used with a pet, such as lick mats, bowls, grooming tools and harnesses that have been worn. This does not affect your right to a refund or replacement for damaged, defective or wrong items.
-
-## Sizing
-
-For harnesses and raincoats, please measure your pet and check the size information on the product page before you order. If the size you receive does not match the listed measurements, it counts as a wrong item.
+- Orders sent to an incorrect or incomplete address entered at checkout
+- Packages refused, not picked up from the post office, or returned to the sender because of an address problem
+- Items ordered in the wrong size, color or quantity (unless you chose Option A above)
+- Items used with a pet, for hygiene reasons, unless they arrived damaged, defective or wrong
 
 ## Refund timing
 
@@ -36,7 +40,7 @@ Approved refunds go back to your original payment method within **5–10 busines
 
 ## Cancellations
 
-You can cancel within **12 hours** of placing your order for a full refund. After an order has been processed for shipping, it can no longer be canceled. Follow the return steps above instead.
+You can cancel for a full refund if your order has **not yet been processed** for shipping, usually within **12 hours** of ordering. Email us as soon as possible. Once an order is processed it can no longer be canceled.
 
 ## Contact
 

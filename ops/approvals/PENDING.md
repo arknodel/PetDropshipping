@@ -15,6 +15,13 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   choose returns Option A or B, and have privacy + terms reviewed (not legal advice).
 - Then AI: set `approved: true` per file (site renders it), paste the same text into Shopify Settings > Policies,
   and make the Shopify shipping-zone rate match the Shipping Policy (you set zones/rates; gate #5).
+- 2026-11-23: returns + shipping drafts aligned with CJ's Refund, Resend and Returns Policy
+  (cjdropshipping.com/dispute-policy.html, last edited 2026-05-06): damage/wrong/missing within 30 days
+  with photos/video; US delay refund/resend 45 days after shipping; delivered-not-received may need a
+  post-office non-delivery statement; unclaimed/returned-to-sender and customer address errors not covered;
+  CJ does not accept change-of-mind and only takes returns to China, so returns Option A is paid by the store
+  (Option B recommended). Risk: CJ "service products" (third-party supplier items) may not be refunded for
+  damage/delay/quality; check whether any US-warehouse items are service products before launch.
 - Status: PENDING
 
 ## APR-011 — Rebrand to Fondly Pet + buy fondlypet.com

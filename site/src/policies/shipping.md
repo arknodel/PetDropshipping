@@ -39,13 +39,14 @@ When your order ships, we email you a tracking number. Tracking can take 24–48
 
 ## Lost, late or damaged packages
 
-- **Late:** if your package has not arrived 10 days after the latest estimated date on your order, email us and we will investigate with the carrier.
-- **Marked delivered but not received:** check with neighbors and your local post office, then email us within 7 days of the delivery scan.
+- **Late:** if your package has not arrived 10 days after the latest estimated date, email us and we will check with the carrier. If it has still not been delivered **45 days after it shipped**, we will send a replacement or refund your order.
+- **Marked delivered but not received:** check with neighbors and around your property, and ask your local post office. Then email us within 7 days of the delivery scan. Because the carrier shows it as delivered, we may ask for a statement from your local post office confirming it was not delivered before we can replace or refund it.
+- **Waiting at the post office:** if the carrier could not deliver (for example, no safe place to leave it), the package is usually held at your local post office for a few days. Please pick it up there. Packages not collected are returned to the sender and cannot be refunded.
 - **Damaged in transit:** email us photos within 30 days of delivery. See our Returns & Refunds policy.
 
 ## Address changes
 
-Email us within 12 hours of placing your order to change the shipping address. After an order is processed we may not be able to change it. We are not responsible for orders shipped to an incorrect address entered at checkout, but we will help where we can.
+Email us within 12 hours of placing your order to change the shipping address. After an order is processed we may not be able to change it. Orders shipped to an incorrect or incomplete address entered at checkout cannot be refunded or replaced, but we will help where we can.
 
 ## Contact
 
