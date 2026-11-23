@@ -221,7 +221,7 @@
       "warn_justification": "Trailing-00 ids verified live (pid resolves to CJGD2058064, all 12 variants present). Variant weights are CJ API data; spec weight range not used in copy."
     }
   },
-  "updated_at": "2026-11-23T12:50:54.328Z",
+  "updated_at": "2026-11-23T13:17:20.045Z",
   "copy_claims": [
     "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
     "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",
@@ -246,6 +246,7 @@
   },
   "shopify": {
     "product_gid": "gid://shopify/Product/15517434020067",
-    "handle": "waterproof-reflective-dog-raincoat"
+    "handle": "waterproof-reflective-dog-raincoat",
+    "status": "ACTIVE"
   }
 }

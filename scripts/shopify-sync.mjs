@@ -38,7 +38,8 @@ function toInput(p) {
     descriptionHtml: html,
     productType: p.category,
     tags: [...(p.tags ?? []), p.collection].filter(Boolean),
-    status: 'DRAFT',
+    // New products start as DRAFT; never downgrade a product already set ACTIVE (CJ linking needs ACTIVE).
+    status: p.shopify?.status === 'ACTIVE' ? 'ACTIVE' : 'DRAFT',
     seo: { title: p.seo?.meta_title, description: p.seo?.meta_description },
     productOptions: [{ name: 'Title', values: variants.map((v) => ({ name: v.title })) }],
     variants: variants.map((v) => ({

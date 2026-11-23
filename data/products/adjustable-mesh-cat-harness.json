@@ -219,7 +219,7 @@
       "warn_justification": "Copy said small/medium/large while variants run S–XL; FAQ now states S to XL. No other issue."
     }
   },
-  "updated_at": "2026-11-23T12:50:47.727Z",
+  "updated_at": "2026-11-23T13:17:17.269Z",
   "copy_claims": [
     "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
     "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
@@ -246,6 +246,7 @@
   },
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433200867",
-    "handle": "adjustable-mesh-cat-harness"
+    "handle": "adjustable-mesh-cat-harness",
+    "status": "ACTIVE"
   }
 }

@@ -85,6 +85,7 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   browser can't open -> owner clicks Install, reviews the permission list, approves, links CJ account.
 - Done 2026-11-23: installed via Claude in Chrome; Shopify authorized on the Install click (no separate
   scope screen). Owner confirmed in chat ("Authorized, installed"). CJ user agreement handled by owner.
+- 2026-11-23: owner approved in chat setting the 8 products ACTIVE but unpublished (no sales channel; onlineStoreUrl null) so CJ can link them (relates to gate #3). Done via scripts/shopify-set-status.mjs. CJ sync still returns 0 products; CJ store binding verified Authorized/Activated. Likely needs Online Store publication = gate #3, asked separately.
 - Status: APPROVED (complete)
 
 ## APR-006 — Secrets into GitHub

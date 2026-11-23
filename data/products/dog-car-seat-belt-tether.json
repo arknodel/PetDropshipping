@@ -149,7 +149,7 @@
       "warn_justification": "Duplicate stretch bullet replaced with colour options (Black/Dark Grey, supplier variants)."
     }
   },
-  "updated_at": "2026-11-23T12:50:49.737Z",
+  "updated_at": "2026-11-23T13:17:18.138Z",
   "copy_claims": [
     "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
     "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
@@ -173,6 +173,7 @@
   },
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433430243",
-    "handle": "dog-car-seat-belt-tether"
+    "handle": "dog-car-seat-belt-tether",
+    "status": "ACTIVE"
   }
 }

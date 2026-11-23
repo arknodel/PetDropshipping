@@ -162,7 +162,7 @@
       "warn_justification": "Same variant-label issue, fixed; title now says \"Bowls\" to match one/two-bowl versions."
     }
   },
-  "updated_at": "2026-11-23T12:50:50.670Z",
+  "updated_at": "2026-11-23T13:17:18.522Z",
   "copy_claims": [
     "15 degree tilted, elevated design. Source: spec DESCRIPTION Overview, 'Unique 15° Tilted elevated design'.",
     "Transparent bowl, food-grade material. Source: spec DESCRIPTION Specification, 'Environmentally friendly food-grade material' (transparent bowl line).",
@@ -189,6 +189,7 @@
   },
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433626851",
-    "handle": "elevated-cat-feeder-stand"
+    "handle": "elevated-cat-feeder-stand",
+    "status": "ACTIVE"
   }
 }
