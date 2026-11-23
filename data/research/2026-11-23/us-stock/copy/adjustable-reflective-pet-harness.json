@@ -1,0 +1,41 @@
+{
+  "title": "Adjustable Reflective Pet Harness for Dogs and Cats",
+  "bullets": [
+    "Hook-and-loop strap and quick-release buckle; the maker says it goes on in two steps.",
+    "Reflective strips are listed to help your pet stand out in dim light and at night, per the maker.",
+    "Polyester mesh vest; the maker describes the outer fabric as breathable and the inner fabric as soft.",
+    "Sizes S, M, L, and XL with chest and neck measurements listed. If between sizes, the maker suggests the larger size.",
+    "Includes a 1.2 m (48 in) leash. Available in black, pink, green, blue, orange, and red, in listed combinations."
+  ],
+  "description": "Finding a harness that fits is a daily task for many pet parents. This adjustable vest-style harness is made for dogs and cats, and the maker lists sizes S, M, L, and XL. Measure your pet's chest and neck before you order. If your pet's chest falls between two sizes, the maker suggests choosing the larger size and adjusting the straps. The harness closes with a hook-and-loop strap and a quick-release buckle. The maker describes the polyester mesh as breathable on the outside and soft on the inside. Reflective strips are included, and the maker says they improve visibility in dark and low-light conditions. The package includes the harness and a 1.2 m (48 in) leash. Available colors are black, pink, green, blue, orange, and red, in the size and color combinations listed. Reflective strips help others see your pet, but they are not a safety guarantee. Supervise your pet, check the fit before every walk, and read the safety notes on this page.",
+  "faq": [
+    {
+      "q": "How do I choose a size?",
+      "a": "Measure your pet's chest and neck. The maker lists S (chest 34 cm, neck 24 cm), M (39 cm, 30 cm), L (46 cm, 34 cm), and XL (57 cm, 38 cm). The maker's reference weights are 3.3–5.5 lb for S, 5.5–8.8 lb for M, 8.8–13.2 lb for L, and 13.2–16.5 lb for XL. If your pet's chest falls between two sizes, choose the larger size and adjust the straps."
+    },
+    {
+      "q": "Can my pet slip out of this harness?",
+      "a": "No harness can guarantee that a pet cannot slip out. Check the fit before every walk, make sure the hook-and-loop strap and buckle are fully fastened, and supervise your pet at all times."
+    },
+    {
+      "q": "How long will shipping take?",
+      "a": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+    }
+  ],
+  "safety_warning": "Supervise your pet at all times while the harness is on. Check the fit before every walk, including the chest and neck straps, and make sure the hook-and-loop strap and buckle are fully fastened. No harness can guarantee that a pet cannot slip out. Do not leave a pet unattended while it wears a harness. Stop using the harness if the straps, buckle, or stitching are damaged.",
+  "shipping_estimate": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse.",
+  "claims_used": [
+    "made for dogs and cats - spec TITLE 'Cat Dog Pet Harness'",
+    "adjustable vest-style harness - spec TITLE 'Adjustable Control Vest'",
+    "sizes S, M, L, XL - spec Specifications 'Size(s)'; record variants (S, M, L, XL)",
+    "chest and neck measurements S 34/24 cm, M 39/30 cm, L 46/34 cm, XL 57/38 cm - spec Specifications 'Size(s)'",
+    "reference weights 3.3-5.5, 5.5-8.8, 8.8-13.2, 13.2-16.5 lb (maker reference) - spec Specifications 'Size(s)'",
+    "measure before ordering; between sizes choose larger and adjust strap - spec DESCRIPTION 'Suitable Size'",
+    "hook-and-loop strap and quick-release buckle; two-step put on - spec DESCRIPTION 'Easy to Put on and Take off'",
+    "reflective strips, visibility in dark and low light (maker) - spec DESCRIPTION 'Reflective & Safe'",
+    "polyester mesh; front breathable, inside soft (maker) - spec DESCRIPTION 'Soft & Comfortable'",
+    "items included: harness and leash; leash 1.2 M / 48 in - spec Specifications 'Items Included' and 'Leash/Rope Length'",
+    "colors black, pink, green, blue, orange, red - spec Specifications 'Color'; record variants (Pink, Black, Red, Orange, Blue, Green)",
+    "shipping estimate text - record copy.shipping_estimate; ships from US warehouse - record supplier.ships_from 'US'"
+  ]
+}

@@ -193,7 +193,7 @@
       "warn_justification": "Internal-note sentence rewritten, 'spot' repetition reduced, copy_claims fixed (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:32:28.924Z",
+  "updated_at": "2026-11-23T15:00:07.194Z",
   "copy_claims": [
     "Self-cooling mat, sleeping pad, for cat and dog, waterproof: TITLE line 'Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat'",
     "Cloth: MATERIAL line '[\"Cloth\"]'",

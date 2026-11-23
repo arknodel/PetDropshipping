@@ -1,0 +1,25 @@
+{
+ "_note": "Opus fit review of 53 US-stock candidates (2026-11-23). Shortlist = practical everyday pet gear, no brand names, no batteries/electrics, not fragile/oversized, no health or safety-guarantee framing in the core benefit.",
+ "shortlist": [
+  {"cj_sku": "CJJT1705040", "slug": "dog-pooper-scooper-with-bag-dispenser", "collection": "dogs", "why": "high demand (5562 stores), practical"},
+  {"cj_sku": "CJHS1704134", "slug": "foldable-dog-water-bottle", "collection": "dogs", "why": "3079 stores, walks/travel"},
+  {"cj_sku": "CJPL2458437", "slug": "car-seat-leash-for-dogs-and-cats", "collection": "dogs", "why": "US-stock version of our car belt; 3/3 variants US"},
+  {"cj_sku": "CJJT2334420", "slug": "mini-pet-hair-remover-tool", "collection": "cats", "why": "US-stock hair remover"},
+  {"cj_sku": "CJHR2994197", "slug": "self-cleaning-slicker-brush", "collection": "cats", "why": "grooming staple"},
+  {"cj_sku": "CJPL2422930", "slug": "pet-car-seatbelt-2-pack", "collection": "dogs", "why": "low cost 2-pack"},
+  {"cj_sku": "CJPB3207940", "slug": "four-zone-silicone-lick-mat", "collection": "dogs", "why": "US-stock lick mat"},
+  {"cj_sku": "CJFU2651741", "slug": "six-foot-rope-dog-leash", "collection": "dogs", "why": "staple, fast US shipping"},
+  {"cj_sku": "CJPB2835255", "slug": "two-mode-cat-slow-feeder-bowl", "collection": "cats", "why": "4/4 variants US"},
+  {"cj_sku": "CJPC3147743", "slug": "adjustable-reflective-pet-harness", "collection": "dogs", "why": "8/12 variants US"},
+  {"cj_sku": "CJPL2662514", "slug": "kitten-harness-vest-with-leash", "collection": "cats", "why": "8/8 variants US"},
+  {"cj_sku": "CJYZ3560724", "slug": "dog-snuffle-mat", "collection": "dogs", "why": "enrichment toy; supervision warning needed"}
+ ],
+ "rejected": {
+  "brand_in_name": ["CJCC1285699 Ihrtrade", "CJJT2340001 VEVOR", "CJST3022430 Kitty Kurlz"],
+  "battery_or_electric": ["CJYD2222742 LED dispenser", "CJHR2966388 steam brush", "CJQX3140283 steam brush", "CJMJ2456927 electric nail clipper", "CJTE2898996 smart feeder"],
+  "fragile_or_oversized": ["CJJT2105301 ceramic bowl", "CJSP2334644 mushroom cat bed (7-15d)", "CJPT3139231 wood hammock"],
+  "claim_risk": ["CJJT1006521 cooling mat", "CJJT2457720 no-pull", "CJFT2715367 anti-choking feeder"],
+  "off_topic": ["CJLY2800981 human raincoat", "CJCS2590091 cartoon bedding"],
+  "weak_value_or_overlap": "remaining: >$50 retail with <200 stores, duplicates of shortlisted types"
+ }
+}

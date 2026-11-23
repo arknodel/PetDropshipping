@@ -1,0 +1,37 @@
+{
+  "title": "Mini Pet Hair Remover Tool for Couches and Rugs, Reusable",
+  "bullets": [
+    "Made for quick pet hair clean-ups on couches and rugs, per the maker's listing.",
+    "Reusable: clear the hair off and use it again, per the maker's listing.",
+    "Mini size, per the maker's listing, for smaller jobs.",
+    "Plastic construction, per the maker's material listing.",
+    "Red unit; listed weight of 200 g (about 7 oz)."
+  ],
+  "description": "Pet hair on the couch and rugs is a daily job for many dog and cat parents. This mini pet hair remover tool, per the maker, is a reusable option for quick clean-ups on couches and rugs.\n\nIt is made of plastic and has a listed weight of about 7 oz (200 g) in the red version. Check the photos and product details to confirm it suits your fabric and the amount of hair you need to clear.\n\nBecause the maker lists it as reusable, you can clear the hair from it and use it again. For large rooms or heavy shedding, a full-size brush or roller may be a better fit.\n\nShips from a US warehouse, and the shipping window is listed in the FAQ below. Each unit arrives in a plastic bag, per the maker's packing listing.",
+  "faq": [
+    {
+      "q": "Is it reusable?",
+      "a": "Yes. The maker's listing describes it as reusable. Clear the hair from the tool and use it again."
+    },
+    {
+      "q": "What is it made of?",
+      "a": "The maker's material listing gives plastic."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Estimate: 2–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimate: 2–5 days to the US after 1–3 days of processing. Ships from a US warehouse.",
+  "claims_used": [
+    "Mini size — spec TITLE line 1 ('Mini Pet Hair Remover'); maker listing",
+    "Reusable — spec TITLE line 1 ('Reusable')",
+    "For couches and rugs — spec TITLE line 1 ('For Couch Rugs')",
+    "Plastic construction — spec MATERIAL line 3 ['Plastic']",
+    "Red, listed weight 200 g (about 7 oz) — spec VARIANT KEYS line 6 ('Red'), spec WEIGHT line 5 (200); record variants[0].supplier_title = Red, weight_g = 200 (conversion is arithmetic)",
+    "Plastic bag packing — spec PACKING line 4 ['Plastic bags']",
+    "Ships from US warehouse; 2–5 days to the US after 1–3 days processing — record copy.shipping_estimate and supplier.ships_from",
+    "Gap: spec has no description block; record variant title is 'Default Title' with supplier_title Red. No function, cleaning-performance, or durability claims made."
+  ]
+}

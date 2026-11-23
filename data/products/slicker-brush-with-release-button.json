@@ -1,0 +1,181 @@
+{
+  "id": "gl-u03",
+  "slug": "slicker-brush-with-release-button",
+  "status": "draft",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "dogs",
+    "cats"
+  ],
+  "research": {
+    "name": "self cleaning slicker brush",
+    "source": "cj-us-search 2026-11-23",
+    "listed_stores": 416,
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2079054336562954242.html",
+    "supplier_sku": "2079054336562954242",
+    "cj_sku": "CJHR2994197",
+    "cj_title": "Pet Slicker Brush For Cats & Dogs, Self-Cleaning Grooming Brush With One-Click Hair Removal, Gentle Deshedding Tool For Long & Short Hair, Skin-Friendly Pet Grooming Comb",
+    "unit_cost": 9,
+    "ship_cost_us": 0,
+    "ships_from": "US",
+    "warehouse": "CJ US Warehouse",
+    "shipping_method": "USPS US to US",
+    "shipping_note": "CJ US-to-US quote returned $0 freight (shipping included in CJ unit price).",
+    "transit_days_min": 3,
+    "transit_days_max": 7,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "delivery_days_min": 4,
+    "delivery_days_max": 10,
+    "orders_count": 416,
+    "rating": null,
+    "flags": [],
+    "stock_checked_at": "2026-11-23",
+    "spec_path": "data/research/2026-11-23/us-stock/specs/CJHR2994197.txt"
+  },
+  "pricing": {
+    "retail": 33.95,
+    "compare_at": null,
+    "landed": 18.28,
+    "margin_pct": 0.461,
+    "margin_basis": "worst variant, US->US freight 2026-11-23",
+    "breakeven_roas": 1.43
+  },
+  "variants": [
+    {
+      "sku": "GL-U03-01",
+      "title": "White",
+      "supplier_title": "White",
+      "weight_g": 90,
+      "supplier_variant_id": "2079054336743309313",
+      "cj_variant_sku": "CJHR299419701AZ",
+      "unit_cost": 9,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US",
+      "us_stock": 30,
+      "landed": 18.28,
+      "margin_pct": 0.461
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/80494cc3-cae3-43eb-98db-62de80b6b63e.jpg",
+      "alt": "White brush with metal bristles and a handle with a hanging hole",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/d68b83fe-f015-4145-be58-c9eebd461fff.jpg",
+      "alt": "White metal slicker brush with a button for releasing collected hair",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/d77bb12b-cbf9-401f-b748-f99cb7703f6f.jpg",
+      "alt": "White grooming brush with fine stainless steel bristles",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/ad1201ef-fe5a-411b-86d9-8b479336254d.jpg",
+      "alt": "White pet slicker brush with a non-slip handle",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/0cd3d1ff-ece2-4b90-8e18-eaeb91ea83ea.jpg",
+      "alt": "White pet slicker brush with metal bristles",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/b40cde30-7a0c-4956-b5ef-f5b7b17dba1c.jpg",
+      "alt": "White metal pet grooming brush, 90 g listed weight",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Slicker Brush for Cats and Dogs with Hair Release Button",
+    "bullets": [
+      "Per the maker, a one-click button releases trapped hair, so you do not need to pull it off by hand.",
+      "Rounded tips that the maker says are gentle on skin.",
+      "Fine stainless steel bristles that the maker says reach the undercoat to remove loose hair.",
+      "The maker lists a lightweight handle with a non-slip grip. The handle has a hanging hole for storage.",
+      "Listed as washable with a one-piece design; listed weight of 90 g, in white."
+    ],
+    "description": "Shedding is a constant job for many dog and cat parents. This slicker brush for cats and dogs has a one-click button that, per the maker, releases hair from the bristles, so you do not need to pull the hair off by hand.\n\nPer the maker's listing, the fine stainless steel bristles reach the undercoat to remove loose hair and tangles, and the rounded tips are meant to be gentle on skin. Per the maker, the handle is lightweight with a non-slip grip, and a hanging hole helps with storage.\n\nThe brush is listed as washable with a one-piece design, and its listed weight is about 90 g (3.2 oz). It comes in white. Rinse it and let it air dry after use.\n\nShips from a US warehouse, and the shipping window is listed in the FAQ below.",
+    "faq": [
+      {
+        "q": "Do I need to pull the hair off the brush by hand?",
+        "a": "No. The maker describes a one-click button that releases trapped hair from the bristles."
+      },
+      {
+        "q": "Is it for both cats and dogs?",
+        "a": "The maker lists it for cats and dogs, with long and short hair."
+      },
+      {
+        "q": "How long does shipping take?",
+        "a": "Estimate: 3–7 days to the US after 1–3 days of processing. Ships from a US warehouse."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "Estimate: 3–7 days to the US after 1–3 days of processing. Ships from a US warehouse."
+  },
+  "seo": {
+    "meta_title": "Slicker Brush for Cats & Dogs | Fondly Pet",
+    "meta_description": "Stainless steel slicker brush for cats and dogs with one-click hair release, per the maker. Hanging hole for storage. Ships from a US warehouse.",
+    "primary_keyword": "slicker brush for cats",
+    "secondary_keywords": [
+      "cat deshedding brush",
+      "dog slicker brush",
+      "pet grooming brush with hair release"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/margin-validator.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "CJ US-to-US quote is $0 because shipping is built into the CJ unit price (verified per variant in us-detail.json); margin uses that unit price. Fulfil on the pinned $0 method."
+    },
+    "compliance-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/compliance-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Bullet 4 now attributed to the maker (fixes-r1)."
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/claim-fact-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "All performance claims attributed to the maker; no health claims."
+    },
+    "listing-qa": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/listing-qa.json",
+      "round": "us-r1/r2 2026-11-23"
+    }
+  },
+  "updated_at": "2026-11-23T15:00:05.834Z",
+  "copy_claims": [
+    "One-click button releases trapped hair, no hand-pulling (maker claim) — spec DESCRIPTION item 1",
+    "Rounded tips, gentle on skin (maker claim) — spec DESCRIPTION item 2",
+    "Fine stainless steel bristles reach undercoat, remove loose hair and tangles (maker claim) — spec DESCRIPTION item 3",
+    "Lightweight handle, non-slip grip (maker claim) — spec DESCRIPTION item 4",
+    "Hanging hole for storage — spec DESCRIPTION item 5",
+    "Washable, one-piece design; rinse and air dry — spec DESCRIPTION item 8",
+    "For cats and dogs; long and short hair — spec TITLE line 1 and DESCRIPTION item 6",
+    "Stainless steel — spec DESCRIPTION item 7 (spec MATERIAL line 3 is Metal, which is consistent)",
+    "Listed weight 90 g, white — spec WEIGHT line 5 (90) and VARIANT KEYS line 6 (White); record variants[0].weight_g = 90",
+    "Ships from US warehouse; 3–7 days to the US after 1–3 days processing — record copy.shipping_estimate",
+    "Omitted from copy as unsupported health or coat-condition claims in spec DESCRIPTION items 9 and 10 (reduces shedding, healthier coat, circulation, bond)"
+  ],
+  "previous_slugs": [
+    "self-cleaning-slicker-brush"
+  ],
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517577347299",
+    "handle": "slicker-brush-with-release-button"
+  }
+}

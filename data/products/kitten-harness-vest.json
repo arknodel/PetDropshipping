@@ -1,0 +1,278 @@
+{
+  "id": "gl-u09",
+  "slug": "kitten-harness-vest",
+  "status": "draft",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "cats",
+    "dogs"
+  ],
+  "research": {
+    "name": "kitten harness vest",
+    "source": "cj-us-search 2026-11-23",
+    "listed_stores": 142,
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2001958940467044353.html",
+    "supplier_sku": "2001958940467044353",
+    "cj_sku": "CJPL2662514",
+    "cj_title": "Kitten Harness Vest With Wing Decoration, Strap Set For Cats And Small Dogs, Adjustable Pet Cat Harness Accessories",
+    "unit_cost": 10.28,
+    "ship_cost_us": 0,
+    "ships_from": "US",
+    "warehouse": "CJ US Warehouse",
+    "shipping_method": "DHL US to US",
+    "shipping_note": "CJ US-to-US quote returned $0 freight (shipping included in CJ unit price).",
+    "transit_days_min": 3,
+    "transit_days_max": 5,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "delivery_days_min": 4,
+    "delivery_days_max": 8,
+    "orders_count": 142,
+    "rating": null,
+    "flags": [],
+    "stock_checked_at": "2026-11-23",
+    "spec_path": "data/research/2026-11-23/us-stock/specs/CJPL2662514.txt"
+  },
+  "pricing": {
+    "retail": 35.95,
+    "compare_at": null,
+    "landed": 19.62,
+    "margin_pct": 0.454,
+    "margin_basis": "worst variant, US->US freight 2026-11-23",
+    "breakeven_roas": 1.48
+  },
+  "variants": [
+    {
+      "sku": "GL-U09-01",
+      "title": "Yellow / S",
+      "supplier_title": "Yellow-S",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290561",
+      "cj_variant_sku": "CJPL266251401AZ",
+      "unit_cost": 9.43,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 228,
+      "landed": 18.77,
+      "margin_pct": 0.478
+    },
+    {
+      "sku": "GL-U09-02",
+      "title": "Yellow / M",
+      "supplier_title": "Yellow-M",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290562",
+      "cj_variant_sku": "CJPL266251402BY",
+      "unit_cost": 10.28,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 19.62,
+      "margin_pct": 0.454
+    },
+    {
+      "sku": "GL-U09-03",
+      "title": "Pink / S",
+      "supplier_title": "Pink-S",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290563",
+      "cj_variant_sku": "CJPL266251403CX",
+      "unit_cost": 9.43,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 18.77,
+      "margin_pct": 0.478
+    },
+    {
+      "sku": "GL-U09-04",
+      "title": "Pink / M",
+      "supplier_title": "Pink-M",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290564",
+      "cj_variant_sku": "CJPL266251404DW",
+      "unit_cost": 10.28,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 19.62,
+      "margin_pct": 0.454
+    },
+    {
+      "sku": "GL-U09-05",
+      "title": "Blue / S",
+      "supplier_title": "Blue-S",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290565",
+      "cj_variant_sku": "CJPL266251405EV",
+      "unit_cost": 9.43,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 18.77,
+      "margin_pct": 0.478
+    },
+    {
+      "sku": "GL-U09-06",
+      "title": "Blue / M",
+      "supplier_title": "Blue-M",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290566",
+      "cj_variant_sku": "CJPL266251406FU",
+      "unit_cost": 10.28,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 19.62,
+      "margin_pct": 0.454
+    },
+    {
+      "sku": "GL-U09-07",
+      "title": "Purple / S",
+      "supplier_title": "Purple-S",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290567",
+      "cj_variant_sku": "CJPL266251407GT",
+      "unit_cost": 9.43,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 18.77,
+      "margin_pct": 0.478
+    },
+    {
+      "sku": "GL-U09-08",
+      "title": "Purple / M",
+      "supplier_title": "Purple-M",
+      "weight_g": 150,
+      "supplier_variant_id": "2001958940580290568",
+      "cj_variant_sku": "CJPL266251408HS",
+      "unit_cost": 10.28,
+      "ship_cost_us": 0,
+      "shipping_method": "DHL US to US",
+      "us_stock": 230,
+      "landed": 19.62,
+      "margin_pct": 0.454
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/779ab356-61ec-4241-95bb-a4892ecafed4.jpg",
+      "alt": "Adjustable vest-style harness for kittens and small dogs, in yellow, pink, blue, or purple",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/19aea307-45ef-41a2-af10-a651c4328b51.jpg",
+      "alt": "Small adjustable harness vest, in one of the listed colors",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/8f595cca-816a-470d-b08a-16d033d2a029.jpg",
+      "alt": "Adjustable harness vest with buckle closure, in one of the listed colors",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/c93c80c2-7b8f-4766-a082-5d4a069d0dc7.jpg",
+      "alt": "Adjustable harness vest, in one of the listed colors",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/308bc114-2ea2-46c2-ac87-58c13b1c2c01.jpg",
+      "alt": "Harness vest with decorative wing detail",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/3b60b38c-d7f0-401c-ad4e-5580d0d596bf.jpg",
+      "alt": "Kitten harness vest, sizes S and M listed",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Adjustable Kitten Harness Vest with Wing Decoration",
+    "bullets": [
+      "Vest-style harness listed for cats and small dogs, per the maker.",
+      "Buckle closure with a nylon fastener, per the maker's listing.",
+      "Listed material is polyester; the maker describes it as comfortable, adjustable, durable, and breathable.",
+      "Sizes S and M, in yellow, pink, blue, or purple, as listed for this product.",
+      "Weighs 150 g (0.33 lb). The maker lists machine wash as the care method."
+    ],
+    "description": "This vest-style kitten harness has a wing decoration and is listed for cats and small dogs. The maker lists it in sizes S and M, in yellow, pink, blue, and purple. The harness has a buckle closure and a nylon fastener, per the maker's listing. The maker describes it as comfortable, adjustable, durable, and breathable, and lists the material as polyester. It weighs 150 g (0.33 lb). The maker lists machine wash as the care method. Measure your pet before you order and check the fit before every use. Supervise your pet while the harness is on, and do not rely on any harness to keep a pet from slipping out. Stop using it if the straps, buckle, or stitching are damaged.",
+    "faq": [
+      {
+        "q": "What sizes are available?",
+        "a": "This listing offers sizes S and M. Measure your pet before you order and check the fit before each use."
+      },
+      {
+        "q": "Is it machine washable?",
+        "a": "The maker lists machine wash as the care method. Check the fit again after washing before you put the harness on your pet."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+      }
+    ],
+    "safety_warning": "Supervise your pet at all times while the harness is on. Check the fit before every use. No harness can guarantee that a pet cannot slip out. Do not leave a pet unattended while it wears a harness. Stop using the harness if the straps, buckle, or stitching are damaged.",
+    "shipping_estimate": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+  },
+  "seo": {
+    "meta_title": "Kitten Harness Vest with Wing Detail | Fondly Pet",
+    "meta_description": "Adjustable kitten harness vest for cats and small dogs. Sizes S and M in four colors. Check fit before walks. Ships from a US warehouse.",
+    "primary_keyword": "kitten harness vest",
+    "secondary_keywords": [
+      "cat walking vest",
+      "small dog harness vest",
+      "adjustable kitten harness"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/margin-validator.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "CJ US-to-US quote is $0 because shipping is built into the CJ unit price (verified per variant in us-detail.json); margin uses that unit price. Fulfil on the pinned $0 method."
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/compliance-checker.json",
+      "round": "us-r1/r2 2026-11-23"
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/claim-fact-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Copy follows the sold variants (S/M, 4 colours) and listed polyester; spec inconsistencies not repeated."
+    },
+    "listing-qa": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/listing-qa.json",
+      "round": "us-r1/r2 2026-11-23"
+    }
+  },
+  "updated_at": "2026-11-23T15:00:01.709Z",
+  "copy_claims": [
+    "wing decoration - spec TITLE 'Kitten Harness Vest With Wing Decoration'",
+    "vest-style harness - spec TITLE 'Kitten Harness Vest'; Specifications 'Type: Harness'",
+    "listed for cats and small dogs - spec TITLE 'For Cats And Small Dogs'; Important Attributes 'Category: Dog, Cat'",
+    "sizes S and M - record variants (Yellow-S, Yellow-M, Pink-S, Pink-M, Blue-S, Blue-M, Purple-S, Purple-M); spec Important Attributes 'Size: S, M'",
+    "colors yellow, pink, blue, purple - record variants; spec Important Attributes 'Color: Yellow, Pink, Blue, Purple'",
+    "buckle closure, nylon fastener (maker listing) - spec Important Attributes 'Closure Type: Buckle' and 'Decoration: Nylon Fastener'",
+    "comfortable, adjustable, durable, breathable (maker) - spec Important Attributes 'Features'",
+    "material polyester - spec Important Attributes 'Material: Polyester'",
+    "weight 150 g / 0.33 lb - record variants weight_g 150; spec WEIGHT 150 (0.33 lb is a unit conversion of 150 g)",
+    "machine wash (maker) - spec Important Attributes 'Washing Instructions: Machine Wash'",
+    "shipping estimate text - record copy.shipping_estimate; ships from US warehouse - record supplier.ships_from 'US'"
+  ],
+  "previous_slugs": [
+    "kitten-harness-vest-with-leash"
+  ],
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517577019619",
+    "handle": "kitten-harness-vest"
+  }
+}

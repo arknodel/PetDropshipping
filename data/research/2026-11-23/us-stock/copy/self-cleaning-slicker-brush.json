@@ -1,0 +1,40 @@
+{
+  "title": "One-Click Hair Release Slicker Brush for Cats and Dogs",
+  "bullets": [
+    "Per the maker, a one-click button releases trapped hair, so you do not need to pull it off by hand.",
+    "Rounded tips that the maker says are gentle on skin.",
+    "Fine stainless steel bristles that the maker says reach the undercoat to remove loose hair.",
+    "Lightweight handle with a non-slip grip and a hanging hole for storage.",
+    "Listed as washable with a one-piece design; listed weight of 90 g, in white."
+  ],
+  "description": "Shedding is a constant job for many dog and cat parents. This slicker brush for cats and dogs has a one-click button that, per the maker, releases hair from the bristles, so you do not need to pull the hair off by hand.\n\nPer the maker's listing, the fine stainless steel bristles reach the undercoat to remove loose hair and tangles, and the rounded tips are meant to be gentle on skin. Per the maker, the handle is lightweight with a non-slip grip, and a hanging hole helps with storage.\n\nThe brush is listed as washable with a one-piece design, and its listed weight is about 90 g (3.2 oz). It comes in white. Rinse it and let it air dry after use.\n\nShips from a US warehouse, and the shipping window is listed in the FAQ below.",
+  "faq": [
+    {
+      "q": "Do I need to pull the hair off the brush by hand?",
+      "a": "No. The maker describes a one-click button that releases trapped hair from the bristles."
+    },
+    {
+      "q": "Is it for both cats and dogs?",
+      "a": "The maker lists it for cats and dogs, with long and short hair."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Estimate: 3–7 days to the US after 1–3 days of processing. Ships from a US warehouse."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimate: 3–7 days to the US after 1–3 days of processing. Ships from a US warehouse.",
+  "claims_used": [
+    "One-click button releases trapped hair, no hand-pulling (maker claim) — spec DESCRIPTION item 1",
+    "Rounded tips, gentle on skin (maker claim) — spec DESCRIPTION item 2",
+    "Fine stainless steel bristles reach undercoat, remove loose hair and tangles (maker claim) — spec DESCRIPTION item 3",
+    "Lightweight handle, non-slip grip (maker claim) — spec DESCRIPTION item 4",
+    "Hanging hole for storage — spec DESCRIPTION item 5",
+    "Washable, one-piece design; rinse and air dry — spec DESCRIPTION item 8",
+    "For cats and dogs; long and short hair — spec TITLE line 1 and DESCRIPTION item 6",
+    "Stainless steel — spec DESCRIPTION item 7 (spec MATERIAL line 3 is Metal, which is consistent)",
+    "Listed weight 90 g, white — spec WEIGHT line 5 (90) and VARIANT KEYS line 6 (White); record variants[0].weight_g = 90",
+    "Ships from US warehouse; 3–7 days to the US after 1–3 days processing — record copy.shipping_estimate",
+    "Omitted from copy as unsupported health or coat-condition claims in spec DESCRIPTION items 9 and 10 (reduces shedding, healthier coat, circulation, bond)"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Two-Mode Cat Slow Feeder Bowl with Non-Slip Base",
+  "bullets": [
+    "Switch between slow feeder mode and regular mode to fit how your cat eats.",
+    "Molded maze ridges mark the slow feeder side, which the maker says are tailored to cat mouth size.",
+    "Non-slip base is listed to keep the bowl from sliding and reduce spills, per the maker.",
+    "Detachable, smooth inner surface is listed as easy to clean, per the maker.",
+    "Available in white, green, blue, and pink. Measures 8.27 x 8.27 x 3.15 in (21 x 21 x 8 cm)."
+  ],
+  "description": "Mealtime can get messy, and some cats eat faster than others. This two-mode bowl lets you switch between slow feeder mode and regular mode, so you can pick the setting that fits the meal. Slow feeder mode uses molded maze ridges, which the maker says are tailored to cat mouth size. The non-slip base is listed to keep the bowl from sliding and to reduce spills, so cleanup is quicker. The inner surface is smooth and detachable, which makes it easier to clean. The bowl is sold in white, green, blue, and pink, and measures 8.27 x 8.27 x 3.15 inches (21 x 21 x 8 cm). It weighs about 304 g (0.67 lb), and the maker describes it as easy to store. The maker says the compact size suits small apartments and multi-cat households.",
+  "faq": [
+    {
+      "q": "How do the two modes work?",
+      "a": "Slow feeder mode uses molded maze ridges that the maker says are tailored to cat mouth size. Regular mode is for everyday feeding. You can switch between the two modes on the same bowl."
+    },
+    {
+      "q": "Can I remove the inner bowl for cleaning?",
+      "a": "Yes. The maker describes the inner surface as detachable and smooth, which makes cleaning easier. The base is non-slip."
+    },
+    {
+      "q": "How long will shipping take?",
+      "a": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+    }
+  ],
+  "safety_warning": null,
+  "shipping_estimate": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse.",
+  "claims_used": [
+    "two modes: switch between slow feeder and regular feeding mode - spec DESCRIPTION 'Highlights' paragraph ('Seamlessly switch between slow feeder mode ... and regular feeding mode')",
+    "molded maze ridges tailored to cat mouth size (maker) - spec DESCRIPTION 'Precision-molded maze ridges are tailored to cat mouth size'",
+    "non-slip base locks bowl in place, reduces sliding and spills (maker) - spec DESCRIPTION 'Non-slip base locks the bowl in place'",
+    "detachable, smooth inner surface, easy cleaning (maker) - spec DESCRIPTION 'The detachable, smooth inner surface'",
+    "colors white, green, blue, pink - spec DESCRIPTION; record variants (White, Green, Blue, Pink)",
+    "dimensions 8.27 x 8.27 x 3.15 in / 21x21x8 cm - spec DESCRIPTION 'SpecificationDimensions:8.27 in. * 8.27 in. * 3.15 in.' and '21x21x8cm'",
+    "weight 304 g / 0.67 lb - record variants weight_g 304; spec WEIGHT 304 and DESCRIPTION 'Weight:0.67 lbs'",
+    "easy to store, compact size suits small apartments and multi-cat households (maker) - spec DESCRIPTION 'easy to move, store, and clean' and 'ideal for small apartments, multi-cat households'",
+    "designed for cats - spec DESCRIPTION 'Designed exclusively for cats'",
+    "shipping estimate text - record copy.shipping_estimate; ships from US warehouse - record supplier.ships_from 'US'"
+  ]
+}

@@ -1,0 +1,11 @@
+[
+ {"item_id":"gl-u01","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4558"},{"name":"ship_zero","result":"WARN","evidence":"$0 US-to-US freight"}],"fix_suggestions":[]},
+ {"item_id":"gl-u02","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4605"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u03","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4614"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u04","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4615"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u05","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4585"},{"name":"ship_zero","result":"WARN","evidence":"$0; at USPS $2.30 margin ~0.404"}],"fix_suggestions":["fulfil on the $0 GOFO EXPRESS US to US #2 lane"]},
+ {"item_id":"gl-u06","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4584"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u07","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4555"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u08","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4539"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]},
+ {"item_id":"gl-u09","verdict":"WARN","checks":[{"name":"margin_floor","result":"PASS","evidence":"0.4542"},{"name":"ship_zero","result":"WARN","evidence":"$0"}],"fix_suggestions":[]}
+]

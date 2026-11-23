@@ -1,0 +1,11 @@
+[
+ {"item_id":"gl-u01","verdict":"WARN","checks":[{"name":"spec_sparsity","result":"WARN","evidence":"spec DESCRIPTION empty; all facts from TITLE/MATERIAL/WEIGHT/VARIANT KEYS"}],"fix_suggestions":[],"note":"r2 re-check after fixes-r1"},
+ {"item_id":"gl-u02","verdict":"WARN","checks":[{"name":"quick_claim","result":"PASS","evidence":"removed (r1 FAIL resolved)"},{"name":"reuse_mechanism","result":"WARN","evidence":"attributed, not in spec"}],"fix_suggestions":[]},
+ {"item_id":"gl-u03","verdict":"WARN","checks":[{"name":"maker_claims","result":"WARN","evidence":"one-click, gentle tips, undercoat attributed"}],"fix_suggestions":[]},
+ {"item_id":"gl-u04","verdict":"WARN","checks":[{"name":"material_conflict","result":"WARN","evidence":"spec MATERIAL Cloth vs description Nylon; copy attributes nylon"}],"fix_suggestions":[]},
+ {"item_id":"gl-u05","verdict":"WARN","checks":[{"name":"maker_claims","result":"WARN","evidence":"food-grade, suction, dishwasher attributed"}],"fix_suggestions":[]},
+ {"item_id":"gl-u06","verdict":"WARN","checks":[{"name":"maker_claims","result":"WARN","evidence":"tangle/comfort/visibility attributed"}],"fix_suggestions":[]},
+ {"item_id":"gl-u07","verdict":"WARN","checks":[{"name":"maker_claims","result":"WARN","evidence":"mouth-size, non-slip, cleanup attributed"}],"fix_suggestions":[]},
+ {"item_id":"gl-u08","verdict":"WARN","checks":[{"name":"leash_length","result":"WARN","evidence":"about 47 in vs spec 48 in (changed to 48 in per the maker after this pass)"}],"fix_suggestions":[]},
+ {"item_id":"gl-u09","verdict":"WARN","checks":[{"name":"spec_conflicts","result":"WARN","evidence":"spec size/material lists inconsistent; copy follows variants"}],"fix_suggestions":[]}
+]

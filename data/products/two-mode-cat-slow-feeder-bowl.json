@@ -1,0 +1,217 @@
+{
+  "id": "gl-u07",
+  "slug": "two-mode-cat-slow-feeder-bowl",
+  "status": "draft",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "cats"
+  ],
+  "research": {
+    "name": "two mode cat slow feeder bowl",
+    "source": "cj-us-search 2026-11-23",
+    "listed_stores": 166,
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2044312503208022017.html",
+    "supplier_sku": "2044312503208022017",
+    "cj_sku": "CJPB2835255",
+    "cj_title": "2-in-1 Dual Mode Large Plastic Cat Slow Feeder Bowl, Switchable Fast&Slow Feed",
+    "unit_cost": 16.42,
+    "ship_cost_us": 0,
+    "ships_from": "US",
+    "warehouse": "CJ US Warehouse",
+    "shipping_method": "USPS US to US #7",
+    "shipping_note": "CJ US-to-US quote returned $0 freight (shipping included in CJ unit price).",
+    "transit_days_min": 3,
+    "transit_days_max": 5,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "delivery_days_min": 4,
+    "delivery_days_max": 8,
+    "orders_count": 166,
+    "rating": null,
+    "flags": [],
+    "stock_checked_at": "2026-11-23",
+    "spec_path": "data/research/2026-11-23/us-stock/specs/CJPB2835255.txt"
+  },
+  "pricing": {
+    "retail": 47.95,
+    "compare_at": null,
+    "landed": 26.11,
+    "margin_pct": 0.455,
+    "margin_basis": "worst variant, US->US freight 2026-11-23",
+    "breakeven_roas": 1.61
+  },
+  "variants": [
+    {
+      "sku": "GL-U07-01",
+      "title": "White",
+      "supplier_title": "White",
+      "weight_g": 304,
+      "supplier_variant_id": "2044312503350628353",
+      "cj_variant_sku": "CJPB28352550001",
+      "unit_cost": 16.42,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 100,
+      "landed": 26.11,
+      "margin_pct": 0.455
+    },
+    {
+      "sku": "GL-U07-02",
+      "title": "Green",
+      "supplier_title": "Green",
+      "weight_g": 304,
+      "supplier_variant_id": "2044312503350628354",
+      "cj_variant_sku": "CJPB28352550002",
+      "unit_cost": 16.42,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 230,
+      "landed": 26.11,
+      "margin_pct": 0.455
+    },
+    {
+      "sku": "GL-U07-03",
+      "title": "Blue",
+      "supplier_title": "Blue",
+      "weight_g": 304,
+      "supplier_variant_id": "2044312503350628355",
+      "cj_variant_sku": "CJPB28352550003",
+      "unit_cost": 16.42,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 230,
+      "landed": 26.11,
+      "margin_pct": 0.455
+    },
+    {
+      "sku": "GL-U07-04",
+      "title": "Pink",
+      "supplier_title": "Pink",
+      "weight_g": 304,
+      "supplier_variant_id": "2044312503350628356",
+      "cj_variant_sku": "CJPB28352550004",
+      "unit_cost": 16.42,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 230,
+      "landed": 26.11,
+      "margin_pct": 0.455
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/80a84330-11a2-4f49-b06a-d050cf449c1f.jpg",
+      "alt": "Plastic cat bowl with molded maze ridges for slow feeding and a regular bowl mode, in white, green, blue, or pink",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/3a34d34e-5be1-4183-9bfa-7d942d3ed4ca.jpg",
+      "alt": "Plastic cat bowl with a switchable slow-feeder design",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/50c3e591-5819-473b-9109-06251fea3754.jpg",
+      "alt": "Cat bowl with a detachable inner bowl",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/528d1ff2-619a-4988-bb64-02339f79c6da.jpg",
+      "alt": "Plastic cat feeding bowl with a non-slip base",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/2a52ab45-15c3-43fa-898e-83b56bb682ac.jpg",
+      "alt": "Cat bowl in one of the listed colors, white, green, blue, or pink",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17762112/91eaf5f5-5756-4645-b2ce-d77f2351a3bb.jpg",
+      "alt": "Cat slow feeder bowl listed at about 8.3 by 8.3 by 3.2 inches",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Two-Mode Cat Slow Feeder Bowl with Non-Slip Base",
+    "bullets": [
+      "Switch between slow feeder mode and regular mode to fit how your cat eats.",
+      "Molded maze ridges mark the slow feeder side, which the maker says are tailored to cat mouth size.",
+      "Non-slip base is listed to keep the bowl from sliding and reduce spills, per the maker.",
+      "Detachable, smooth inner surface is listed as easy to clean, per the maker.",
+      "Available in white, green, blue, and pink. Measures 8.27 x 8.27 x 3.15 in (21 x 21 x 8 cm)."
+    ],
+    "description": "Mealtime can get messy, and some cats eat faster than others. This two-mode bowl lets you switch between slow feeder mode and regular mode, so you can pick the setting that fits the meal. Slow feeder mode uses molded maze ridges, which the maker says are tailored to cat mouth size. The non-slip base is listed to keep the bowl from sliding and to reduce spills and cleanup, per the maker. The inner surface is smooth and detachable, which makes it easier to clean. The bowl is sold in white, green, blue, and pink, and measures 8.27 x 8.27 x 3.15 inches (21 x 21 x 8 cm). It weighs about 304 g (0.67 lb), and the maker describes it as easy to store. The maker says the compact size suits small apartments and multi-cat households.",
+    "faq": [
+      {
+        "q": "How do the two modes work?",
+        "a": "Slow feeder mode uses molded maze ridges that the maker says are tailored to cat mouth size. Regular mode is for everyday feeding. You can switch between the two modes on the same bowl."
+      },
+      {
+        "q": "Can I remove the inner bowl for cleaning?",
+        "a": "Yes. The maker describes the inner surface as detachable and smooth, which makes cleaning easier. The base is non-slip."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+  },
+  "seo": {
+    "meta_title": "Two-Mode Cat Slow Feeder Bowl, 4 Colors | Fondly Pet",
+    "meta_description": "Two-mode cat bowl with slow-feed and regular modes, non-slip base, detachable inner bowl. White, green, blue, or pink. Ships from a US warehouse.",
+    "primary_keyword": "two mode cat bowl",
+    "secondary_keywords": [
+      "cat slow feeder bowl",
+      "non-slip cat food bowl",
+      "detachable cat feeding bowl"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/margin-validator.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "CJ US-to-US quote is $0 because shipping is built into the CJ unit price (verified per variant in us-detail.json); margin uses that unit price. Fulfil on the pinned $0 method."
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/compliance-checker.json",
+      "round": "us-r1/r2 2026-11-23"
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/claim-fact-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Performance claims attributed; spec health claims excluded."
+    },
+    "listing-qa": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/listing-qa.json",
+      "round": "us-r1/r2 2026-11-23"
+    }
+  },
+  "updated_at": "2026-11-23T15:00:08.086Z",
+  "copy_claims": [
+    "two modes: switch between slow feeder and regular feeding mode - spec DESCRIPTION 'Highlights' paragraph ('Seamlessly switch between slow feeder mode ... and regular feeding mode')",
+    "molded maze ridges tailored to cat mouth size (maker) - spec DESCRIPTION 'Precision-molded maze ridges are tailored to cat mouth size'",
+    "non-slip base locks bowl in place, reduces sliding and spills (maker) - spec DESCRIPTION 'Non-slip base locks the bowl in place'",
+    "detachable, smooth inner surface, easy cleaning (maker) - spec DESCRIPTION 'The detachable, smooth inner surface'",
+    "colors white, green, blue, pink - spec DESCRIPTION; record variants (White, Green, Blue, Pink)",
+    "dimensions 8.27 x 8.27 x 3.15 in / 21x21x8 cm - spec DESCRIPTION 'SpecificationDimensions:8.27 in. * 8.27 in. * 3.15 in.' and '21x21x8cm'",
+    "weight 304 g / 0.67 lb - record variants weight_g 304; spec WEIGHT 304 and DESCRIPTION 'Weight:0.67 lbs'",
+    "easy to store, compact size suits small apartments and multi-cat households (maker) - spec DESCRIPTION 'easy to move, store, and clean' and 'ideal for small apartments, multi-cat households'",
+    "designed for cats - spec DESCRIPTION 'Designed exclusively for cats'",
+    "shipping estimate text - record copy.shipping_estimate; ships from US warehouse - record supplier.ships_from 'US'"
+  ],
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517577511139",
+    "handle": "two-mode-cat-slow-feeder-bowl"
+  }
+}

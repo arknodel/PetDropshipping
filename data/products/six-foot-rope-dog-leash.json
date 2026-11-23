@@ -1,0 +1,172 @@
+{
+  "id": "gl-u06",
+  "slug": "six-foot-rope-dog-leash",
+  "status": "draft",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs"
+  ],
+  "research": {
+    "name": "six foot rope dog leash",
+    "source": "cj-us-search 2026-11-23",
+    "listed_stores": 167,
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2001195413216223233.html",
+    "supplier_sku": "2001195413216223233",
+    "cj_sku": "CJFU2651741",
+    "cj_title": "Rope Dog Leash, 6ft Heavy Duty Dog Leash With Comfortable Padded Handle, Strong Nylon Thick Leash With Reflective Threads, Dog Walking And Training Leash, For Medium Large Dogs (1/2 In, Black)",
+    "unit_cost": 8.59,
+    "ship_cost_us": 0,
+    "ships_from": "US",
+    "warehouse": "CJ US Warehouse",
+    "shipping_method": "Fedex US to US",
+    "shipping_note": "CJ US-to-US quote returned $0 freight (shipping included in CJ unit price).",
+    "transit_days_min": 2,
+    "transit_days_max": 5,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "delivery_days_min": 3,
+    "delivery_days_max": 8,
+    "orders_count": 167,
+    "rating": null,
+    "flags": [],
+    "stock_checked_at": "2026-11-23",
+    "spec_path": "data/research/2026-11-23/us-stock/specs/CJFU2651741.txt"
+  },
+  "pricing": {
+    "retail": 32.95,
+    "compare_at": null,
+    "landed": 17.85,
+    "margin_pct": 0.458,
+    "margin_basis": "worst variant, US->US freight 2026-11-23",
+    "breakeven_roas": 1.43
+  },
+  "variants": [
+    {
+      "sku": "GL-U06-01",
+      "title": "Black",
+      "supplier_title": "Black",
+      "weight_g": 200,
+      "supplier_variant_id": "2001195413648236546",
+      "cj_variant_sku": "CJFU26517410001",
+      "unit_cost": 8.59,
+      "ship_cost_us": 0,
+      "shipping_method": "Fedex US to US",
+      "us_stock": 512,
+      "landed": 17.85,
+      "margin_pct": 0.458
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/17659296/b5841476-34de-4e29-9bb6-4e4a3b512577.jpg",
+      "alt": "Black nylon rope leash with a padded foam handle and a swivel clasp",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17659296/8645457d-2a95-46b3-9d3e-faed0b432a74.jpg",
+      "alt": "Black six-foot nylon leash with a padded handle",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17659296/2b74c5e1-cdc2-4c98-8fbf-f4e871f690ea.jpg",
+      "alt": "Black rope leash with an open waste bag holder",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17659296/7da13782-2e8f-44f2-b349-be64c3d580c0.jpg",
+      "alt": "Black nylon leash, 1/2 inch wide",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/17659296/be3a4129-9c14-4bb9-a172-e87b5ca20b78.jpg",
+      "alt": "Black six-foot dog leash with reflective threads woven into the nylon",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "6 ft Rope Dog Leash with Padded Handle and Reflective Line",
+    "bullets": [
+      "6-foot nylon leash gives your dog room to move while you keep hold of the handle.",
+      "360° swivel clasp attaches to a harness or collar and helps avoid tangles, per the maker.",
+      "Soft foam handle is padded to reduce friction and help you keep a comfortable grip, per the maker.",
+      "Embedded reflective line adds visibility on night walks, per the maker.",
+      "Open-design waste bag holder carries multiple bags. Waste bags are not included."
+    ],
+    "description": "Walking your dog should feel simple. This 6-foot rope leash gives your dog room to move while you keep a firm hold. The maker lists it for medium and large dogs and describes the nylon as durable, wear-resistant, and lightweight. The leash is 1/2 inch wide and comes in black. A 360° swivel clasp attaches to a harness or collar, and the maker says it helps avoid tangles during your walk. The soft foam handle is padded to reduce friction in your hand, per the maker. A reflective line is embedded in the nylon to add visibility on night walks, though reflective material helps others see you and does not replace watching your dog. An open-design waste bag holder carries multiple bags so they are ready when you need them. Waste bags are not included. Before each walk, check the clasp and the handle stitching, and replace the leash if you see fraying.",
+    "faq": [
+      {
+        "q": "What size dog is this leash for?",
+        "a": "The maker lists this leash for medium and large dogs. It is 6 feet long and 1/2 inch wide. Check that the clasp fits your dog's harness or collar before you walk."
+      },
+      {
+        "q": "Does it come with waste bags?",
+        "a": "No. The leash has an open-design waste bag holder that can carry multiple bags. Waste bags are not included."
+      },
+      {
+        "q": "How long will shipping take?",
+        "a": "Estimate: 2–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+      }
+    ],
+    "safety_warning": null,
+    "shipping_estimate": "Estimate: 2–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+  },
+  "seo": {
+    "meta_title": "6 ft Rope Dog Leash with Padded Handle | Fondly Pet",
+    "meta_description": "6-foot nylon rope dog leash with padded handle, reflective threads, and 360° swivel clasp. Waste bags not included. Ships from a US warehouse.",
+    "primary_keyword": "6 ft rope dog leash",
+    "secondary_keywords": [
+      "nylon dog leash with padded handle",
+      "reflective dog leash",
+      "dog leash with waste bag holder"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/margin-validator.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "CJ US-to-US quote is $0 because shipping is built into the CJ unit price (verified per variant in us-detail.json); margin uses that unit price. Fulfil on the pinned $0 method."
+    },
+    "compliance-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/compliance-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Tangle claim now attributed (fixes-r1)."
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/claim-fact-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Performance claims attributed to the maker."
+    },
+    "listing-qa": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/listing-qa.json",
+      "round": "us-r1/r2 2026-11-23"
+    }
+  },
+  "updated_at": "2026-11-23T15:00:05.054Z",
+  "copy_claims": [
+    "6-foot length, room to move (maker) - spec DESCRIPTION '6FT Length Leash'; spec TITLE '6ft'",
+    "nylon described as durable, wear-resistant, lightweight (maker) - spec DESCRIPTION 'made from high-quality nylon, it is durable, wear-resistant, and lightweight'",
+    "for medium and large dogs (maker) - spec TITLE 'For Medium Large Dogs'",
+    "1/2 inch wide, black - spec TITLE '(1/2 In, Black)'; record variants supplier_title 'black'",
+    "360° swivel clasp, attaches to harness or collar, helps avoid tangling (maker) - spec DESCRIPTION",
+    "soft foam handle, padded, reduces friction, comfortable grip (maker) - spec DESCRIPTION 'Comfortable Handle'",
+    "reflective line embedded in nylon, visibility on night walks (maker) - spec DESCRIPTION 'Nighttime Reflective'",
+    "open-design waste bag holder, holds multiple bags - spec DESCRIPTION 'Waste Bag Holder'",
+    "waste bags not included - spec DESCRIPTION 'Note: Waste bags are not included.'",
+    "shipping estimate text - record copy.shipping_estimate; ships from US warehouse - record supplier.ships_from 'US'",
+    "2-5 days transit, 1-3 days processing - record supplier.transit_days_min/max and processing_days_min/max"
+  ],
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517577281763",
+    "handle": "six-foot-rope-dog-leash"
+  }
+}

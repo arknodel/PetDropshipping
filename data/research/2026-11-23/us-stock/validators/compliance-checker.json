@@ -1,0 +1,11 @@
+[
+ {"item_id":"car-seat-leash-for-dogs-and-cats","verdict":"PASS","checks":[{"name":"all","result":"PASS","evidence":"no health/brand/guarantee; restraint wording present; shipping matches"}],"fix_suggestions":[]},
+ {"item_id":"mini-pet-hair-remover-tool","verdict":"PASS","checks":[{"name":"all","result":"PASS","evidence":"attributed; shipping matches"}],"fix_suggestions":[]},
+ {"item_id":"self-cleaning-slicker-brush","verdict":"WARN","checks":[{"name":"maker_claim_attribution","result":"WARN","evidence":"bullet 4 lightweight/non-slip unattributed"}],"fix_suggestions":["attribute bullet 4"]},
+ {"item_id":"pet-car-seatbelt-2-pack","verdict":"WARN","checks":[{"name":"image_alt_accuracy","result":"WARN","evidence":"alt '1 inch' vs spec 0.98 in"}],"fix_suggestions":["alt width"]},
+ {"item_id":"four-zone-silicone-lick-mat","verdict":"WARN","checks":[{"name":"record_field_health_text","result":"WARN","evidence":"supplier.cj_title has 'Anxiety Relief' (internal field)"},{"name":"choking_supervision_warning","result":"PASS","evidence":"present"}],"fix_suggestions":["ensure cj_title never rendered"]},
+ {"item_id":"six-foot-rope-dog-leash","verdict":"WARN","checks":[{"name":"maker_claim_attribution","result":"WARN","evidence":"tangle claim unattributed in description"}],"fix_suggestions":["attribute"]},
+ {"item_id":"two-mode-cat-slow-feeder-bowl","verdict":"PASS","checks":[{"name":"all","result":"PASS","evidence":"health claims omitted"}],"fix_suggestions":[]},
+ {"item_id":"adjustable-reflective-pet-harness","verdict":"PASS","checks":[{"name":"all","result":"PASS","evidence":"no escape-proof; supervision warning"}],"fix_suggestions":[]},
+ {"item_id":"kitten-harness-vest","verdict":"PASS","checks":[{"name":"all","result":"PASS","evidence":"no brand; warning; sizes match"}],"fix_suggestions":[]}
+]

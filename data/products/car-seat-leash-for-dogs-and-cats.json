@@ -1,0 +1,200 @@
+{
+  "id": "gl-u01",
+  "slug": "car-seat-leash-for-dogs-and-cats",
+  "status": "draft",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs",
+    "cats"
+  ],
+  "research": {
+    "name": "car seat leash for dogs and cats",
+    "source": "cj-us-search 2026-11-23",
+    "listed_stores": 447,
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1956654039511355394.html",
+    "supplier_sku": "1956654039511355394",
+    "cj_sku": "CJPL2458437",
+    "cj_title": "High Quality Durable Pet Cat Dog Vehicle Leash Nylon Adjustable Car Seat Dog Safety Belt Pet Leashes",
+    "unit_cost": 10.22,
+    "ship_cost_us": 0,
+    "ships_from": "US",
+    "warehouse": "CJ US Warehouse",
+    "shipping_method": "USPS US to US #7",
+    "shipping_note": "CJ US-to-US quote returned $0 freight (shipping included in CJ unit price).",
+    "transit_days_min": 3,
+    "transit_days_max": 5,
+    "processing_days_min": 1,
+    "processing_days_max": 3,
+    "delivery_days_min": 4,
+    "delivery_days_max": 8,
+    "orders_count": 447,
+    "rating": null,
+    "flags": [],
+    "stock_checked_at": "2026-11-23",
+    "spec_path": "data/research/2026-11-23/us-stock/specs/CJPL2458437.txt"
+  },
+  "pricing": {
+    "retail": 35.95,
+    "compare_at": null,
+    "landed": 19.56,
+    "margin_pct": 0.456,
+    "margin_basis": "worst variant, US->US freight 2026-11-23",
+    "breakeven_roas": 1.47
+  },
+  "variants": [
+    {
+      "sku": "GL-U01-01",
+      "title": "Blue",
+      "supplier_title": "Blue",
+      "weight_g": 100,
+      "supplier_variant_id": "1956654039968534531",
+      "cj_variant_sku": "CJPL245843703CX",
+      "unit_cost": 10.22,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 159,
+      "landed": 19.56,
+      "margin_pct": 0.456
+    },
+    {
+      "sku": "GL-U01-02",
+      "title": "Black",
+      "supplier_title": "Black",
+      "weight_g": 100,
+      "supplier_variant_id": "1956654039968534532",
+      "cj_variant_sku": "CJPL245843704DW",
+      "unit_cost": 10.22,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 159,
+      "landed": 19.56,
+      "margin_pct": 0.456
+    },
+    {
+      "sku": "GL-U01-03",
+      "title": "Red",
+      "supplier_title": "Red",
+      "weight_g": 100,
+      "supplier_variant_id": "1956654039968534533",
+      "cj_variant_sku": "CJPL245843705EV",
+      "unit_cost": 10.22,
+      "ship_cost_us": 0,
+      "shipping_method": "USPS US to US #7",
+      "us_stock": 158,
+      "landed": 19.56,
+      "margin_pct": 0.456
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/802d7b66-0145-4057-8472-8f172ede190d.jpg",
+      "alt": "Adjustable nylon car seat leash with metal hardware, offered in blue, black, and red",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/ee61be12-a611-4e5c-ad32-5bc0af2b6fc6.jpg",
+      "alt": "Adjustable nylon car seat leash with metal hardware",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/6461574c-c778-4ecb-802f-f9b36955cbc4.jpg",
+      "alt": "Nylon car seat leash in blue, black, or red",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/bb9840b8-d6c5-441b-9750-89881295d850.jpg",
+      "alt": "Nylon car seat leash with adjustable length and metal hardware",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/03cd8feb-462f-4fa1-bd91-1722d54298ff.png",
+      "alt": "Nylon car seat leash with metal hardware",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/bbc9537b-d830-4f70-82c2-1f28c769273c.jpg",
+      "alt": "Car seat leash in one of the listed colors, blue, black, or red",
+      "license_ok": true
+    }
+  ],
+  "copy": {
+    "title": "Car Seat Leash for Dogs and Cats, Adjustable Nylon Vehicle Tether",
+    "bullets": [
+      "Adjustable nylon design, per the maker's product listing.",
+      "Available in blue, black, and red.",
+      "Cloth and metal construction, per the maker's material listing.",
+      "Listed weight of 100 g (about 3.5 oz) per unit.",
+      "Attach to a harness, not a collar. This is not a crash restraint."
+    ],
+    "description": "Riding with a pet in the car is easier when the leash is set up before you pull out of the driveway. The maker describes this adjustable car seat leash as a nylon leash for dogs and cats, with cloth and metal materials. It comes in blue, black, and red, and the listed weight is 100 g.\n\nAttach it to a well-fitted harness, never to a collar, and check the fit before every ride. Keep your pet supervised in the vehicle at all times. Look over the leash for wear before each trip and replace it if it looks worn.\n\nThis is not a crash restraint. Read the safety warning before use. Orders ship from a US warehouse, and the shipping window is listed in the FAQ below.",
+    "faq": [
+      {
+        "q": "Is this a crash restraint?",
+        "a": "No. It is not a crash restraint. Attach it to a well-fitted harness and keep your pet supervised in the vehicle."
+      },
+      {
+        "q": "Can I clip it to my pet's collar?",
+        "a": "No. Attach it to a well-fitted harness, not a collar."
+      },
+      {
+        "q": "How long does shipping take?",
+        "a": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+      }
+    ],
+    "safety_warning": "Attach to a well-fitted harness, not a collar. This product is not a crash restraint. Check the fit before every trip and supervise your pet in the vehicle at all times.",
+    "shipping_estimate": "Estimate: 3–5 days to the US after 1–3 days of processing. Ships from a US warehouse."
+  },
+  "seo": {
+    "meta_title": "Car Seat Leash for Dogs & Cats | Fondly Pet",
+    "meta_description": "Adjustable nylon car seat leash for dogs and cats in three colors. Attach to a harness, not a collar. Not a crash restraint. Ships from a US warehouse.",
+    "primary_keyword": "car seat leash for dogs",
+    "secondary_keywords": [
+      "dog car seat leash",
+      "cat car seat leash",
+      "pet car seat belt tether"
+    ]
+  },
+  "validation": {
+    "margin-validator": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/margin-validator.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "CJ US-to-US quote is $0 because shipping is built into the CJ unit price (verified per variant in us-detail.json); margin uses that unit price. Fulfil on the pinned $0 method."
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/compliance-checker.json",
+      "round": "us-r1/r2 2026-11-23"
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/us-stock/validators/claim-fact-checker.json",
+      "round": "us-r1/r2 2026-11-23",
+      "warn_justification": "Sparse spec; copy limited to title, material, weight and colour facts."
+    },
+    "listing-qa": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/us-stock/validators/listing-qa.json",
+      "round": "us-r1/r2 2026-11-23"
+    }
+  },
+  "updated_at": "2026-11-23T14:59:58.246Z",
+  "copy_claims": [
+    "Adjustable nylon, car seat dog safety belt leash (maker title) — spec TITLE line 1 (CJPL2458437.txt); record cj_title",
+    "Cloth and metal materials — spec MATERIAL line 3 ['Cloth','Metal']",
+    "Blue, black, red colours — spec VARIANT KEYS line 6; record variants[0..2] titles Blue/Black/Red",
+    "Weight 100 g (about 3.5 oz) per unit, listed — spec WEIGHT line 5; record variants[].weight_g = 100 (unit conversion is arithmetic)",
+    "Ships from US warehouse; 3–5 days to the US after 1–3 days processing — record copy.shipping_estimate and supplier.ships_from",
+    "Attach to harness not collar; not a crash restraint — INPUT.md rule for car seat restraints (no spec support; required wording)"
+  ],
+  "shopify": {
+    "product_gid": "gid://shopify/Product/15517576757475",
+    "handle": "car-seat-leash-for-dogs-and-cats"
+  }
+}
