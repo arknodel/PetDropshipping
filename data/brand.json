@@ -1,10 +1,10 @@
 {
-  "_note": "DRAFT. Name is pending approval (APR-001). Copywriter uses voice rules below.",
-  "name": null,
+  "_note": "Name approved in chat 2026-11-22 (APR-001). Copywriter uses voice rules below.",
+  "name": "Whisker & Wag",
   "name_candidates": [
     { "name": "Pawsmith", "rationale": "Crafted, practical tools for pets", "status": "pending_approval" },
     { "name": "Good Leash Co.", "rationale": "Friendly, trustworthy; dog-leaning but broad", "status": "pending_approval" },
-    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "pending_approval" },
+    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "approved" },
     { "name": "Petwise Supply", "rationale": "Practical, problem-solving angle", "status": "pending_approval" },
     { "name": "Kindred Paws", "rationale": "Warm, pet-parent community feel", "status": "pending_approval" }
   ],

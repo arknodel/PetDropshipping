@@ -10,7 +10,8 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 - Gate: business decision (no spend)
 - Action: Pick one name from `data/brand.json` → `name_candidates` (or supply your own).
 - Before approving: USPTO trademark search, .com availability, social handles.
-- Status: PENDING
+- Decision: **Whisker & Wag** (chosen in chat 2026-11-22). Trademark / domain check still recommended before APR-007.
+- Status: APPROVED
 
 ## APR-002 — Shopify account + plan
 - Gate: #2 account creation / ToS, #1 spending (plan subscription), #5 payment/tax settings

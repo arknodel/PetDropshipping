@@ -1,22 +1,33 @@
 name: deploy
-# Stub. Enable the push trigger once site/ has a real build (Phase 2).
+# Publishes site/public as-is for now (static placeholder).
+# Phase 2: replace the "Prepare site" step with the Astro/Eleventy build into site/dist.
 on:
   workflow_dispatch:
-  # push:
-  #   branches: [main]
+  push:
+    branches: [main]
+    paths: ["site/**", ".github/workflows/deploy.yml"]
 permissions:
   contents: read
   pages: write
   id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    environment: github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
-      - run: echo "TODO build /site (Astro or Eleventy) into site/dist"
-      # - uses: actions/upload-pages-artifact@v3
-      #   with: { path: site/dist }
-      # - uses: actions/deploy-pages@v4
+      - name: Prepare site
+        run: |
+          mkdir -p site/dist
+          cp -r site/public/. site/dist/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
