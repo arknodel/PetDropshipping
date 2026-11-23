@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+
+// Placeholders only. Final policy text is a gated item (legal-policy settings) and
+// must match the Shopify store's policies before launch. Pages are noindex until then.
+export function getStaticPaths() {
+  const policies = [
+    { slug: 'shipping', title: 'Shipping Policy' },
+    { slug: 'returns', title: 'Returns & Refunds' },
+    { slug: 'privacy', title: 'Privacy Policy' },
+    { slug: 'terms', title: 'Terms of Service' },
+  ];
+  return policies.map((p) => ({ params: { slug: p.slug }, props: { policy: p } }));
+}
+
+const { policy } = Astro.props;
+---
+<Base title={policy.title} noindex>
+  <article class="prose">
+    <h1>{policy.title}</h1>
+    <p class="empty">This policy will be published here before the store opens.</p>
+  </article>
+</Base>

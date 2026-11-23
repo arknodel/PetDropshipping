@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "dogs",
+    "title": "For Dogs",
+    "category": "dog",
+    "intro": "Practical gear for walks, mealtimes, and keeping the house in one piece."
+  },
+  {
+    "slug": "cats",
+    "title": "For Cats",
+    "category": "cat",
+    "intro": "Everyday helpers for scratching, play, litter, and calm, comfy cats."
+  }
+]

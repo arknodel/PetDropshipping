@@ -1,0 +1,9 @@
+---
+// Phase 2: checkout_url is written by scripts/shopify-sync (Shopify cart permalink or
+// Storefront API checkout). Until the store is live the button is disabled — no fake buy flow.
+const { product } = Astro.props;
+const checkout = product.shopify?.checkout_url;
+---
+{checkout
+  ? <a class="btn" href={checkout} rel="nofollow">Buy now — secure checkout</a>
+  : <span class="btn" aria-disabled="true">Available soon</span>}

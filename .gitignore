@@ -9,6 +9,7 @@
 node_modules/
 site/dist/
 site/_site/
+site/.astro/
 .lighthouseci/
 playwright-report/
 test-results/

@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { collections, products, productsIn, url } from '../lib/data.js';
+---
+<Base>
+  <section>
+    <span class="pill">{products.length ? 'Now open' : 'Coming soon'}</span>
+    <h1>Practical gear for dog and cat parents.</h1>
+    <p class="lede">
+      We pick everyday products that solve the small, real problems of living with pets —
+      with honest descriptions and real shipping times.
+    </p>
+  </section>
+
+  {collections.map((c) => (
+    <section>
+      <h2><a href={url(`/collections/${c.slug}/`)}>{c.title}</a></h2>
+      {productsIn(c.slug).length
+        ? <div class="grid">{productsIn(c.slug).slice(0, 4).map((p) => <ProductCard product={p} />)}</div>
+        : <p class="empty">{c.intro} Products coming soon.</p>}
+    </section>
+  ))}
+</Base>

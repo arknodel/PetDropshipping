@@ -1,0 +1,7 @@
+# Pre-launch: keep search engines out until the store opens (launch checklist item).
+# At launch replace with:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://goodleashco.com/sitemap-index.xml
+User-agent: *
+Disallow: /

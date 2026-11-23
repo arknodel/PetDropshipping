@@ -1,0 +1,9 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/data.js';
+---
+<Base title="Page not found" noindex>
+  <h1>That page wandered off.</h1>
+  <p class="lede">It might have moved, or never existed.</p>
+  <p><a class="btn" href={url('/')}>Back to home</a></p>
+</Base>

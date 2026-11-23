@@ -1,0 +1,13 @@
+---
+import { url, money } from '../lib/data.js';
+const { product } = Astro.props;
+const img = product.images?.[0];
+const title = product.copy?.title ?? product.slug;
+---
+<a class="card" href={url(`/products/${product.slug}/`)}>
+  {img && <img src={img.src} alt={img.alt} loading="lazy" width="400" height="400" />}
+  <div class="body">
+    <h3>{title}</h3>
+    <span class="muted">{money(product.pricing.retail)}</span>
+  </div>
+</a>

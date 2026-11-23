@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/data.js';
+
+// seo-writer adds posts as src/pages/blog/<slug>.md with frontmatter:
+// layout, title, description, date (YYYY-MM-DD), collection.
+const posts = Object.values(import.meta.glob('./*.md', { eager: true }))
+  .map((m) => ({ ...m.frontmatter, href: m.url }))
+  .sort((a, b) => String(b.date).localeCompare(String(a.date)));
+---
+<Base title="Blog" description="Practical guides for dog and cat parents.">
+  <h1>Blog</h1>
+  <p class="lede">Practical guides for everyday life with dogs and cats.</p>
+  {posts.length
+    ? <ul class="posts">{posts.map((p) => (
+        <li><a href={p.href}>{p.title}</a><br /><span class="muted">{p.description}</span></li>
+      ))}</ul>
+    : <p class="empty">First guides coming soon.</p>}
+</Base>
+
+<style>
+  .posts { list-style: none; padding: 0; display: grid; gap: 18px; }
+  .posts a { font-weight: 600; font-size: 1.1rem; }
+</style>

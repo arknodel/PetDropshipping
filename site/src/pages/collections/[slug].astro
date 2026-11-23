@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { collections, productsIn } from '../../lib/data.js';
+
+export function getStaticPaths() {
+  return collections.map((c) => ({ params: { slug: c.slug }, props: { collection: c } }));
+}
+
+const { collection } = Astro.props;
+const items = productsIn(collection.slug);
+---
+<Base title={collection.title} description={collection.intro}>
+  <h1>{collection.title}</h1>
+  <p class="lede">{collection.intro}</p>
+  {items.length
+    ? <div class="grid">{items.map((p) => <ProductCard product={p} />)}</div>
+    : <p class="empty">Products coming soon.</p>}
+</Base>

@@ -1,0 +1,71 @@
+---
+import Base from '../../layouts/Base.astro';
+import BuyButton from '../../components/BuyButton.astro';
+import { products, collections, url, money } from '../../lib/data.js';
+
+export function getStaticPaths() {
+  return products.map((p) => ({ params: { slug: p.slug }, props: { product: p } }));
+}
+
+const { product: p } = Astro.props;
+const c = p.copy ?? {};
+const collection = collections.find((x) => x.slug === p.collection);
+const days = `${p.supplier.delivery_days_min}–${p.supplier.delivery_days_max}`;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: c.title,
+  description: p.seo?.meta_description,
+  image: (p.images ?? []).map((i) => i.src),
+  sku: p.variants?.[0]?.sku,
+  offers: {
+    '@type': 'Offer',
+    price: p.pricing.retail,
+    priceCurrency: 'USD',
+    availability: p.shopify?.checkout_url ? 'https://schema.org/InStock' : 'https://schema.org/PreOrder',
+  },
+};
+---
+<Base title={p.seo?.meta_title ?? c.title} description={p.seo?.meta_description}>
+  {collection && <p class="muted"><a href={url(`/collections/${collection.slug}/`)}>{collection.title}</a></p>}
+  <div class="product">
+    <div class="gallery">
+      {(p.images ?? []).map((img, i) => (
+        <img src={img.src} alt={img.alt} width="600" height="600" loading={i === 0 ? 'eager' : 'lazy'} />
+      ))}
+    </div>
+    <div>
+      <h1>{c.title}</h1>
+      <p class="price">
+        {money(p.pricing.retail)}
+        {p.pricing.compare_at && <s class="muted">{money(p.pricing.compare_at)}</s>}
+      </p>
+      <BuyButton product={p} />
+      <p class="muted">Ships in about {days} days to the US.</p>
+      {c.bullets && <ul>{c.bullets.map((b) => <li>{b}</li>)}</ul>}
+      {c.safety_warning && <p class="warn"><strong>Safety:</strong> {c.safety_warning}</p>}
+    </div>
+  </div>
+
+  {c.description && <section class="prose"><h2>Details</h2><p>{c.description}</p></section>}
+
+  {c.faq?.length > 0 && (
+    <section class="prose">
+      <h2>FAQ</h2>
+      {c.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+    </section>
+  )}
+
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+</Base>
+
+<style>
+  .product { display: grid; gap: 32px; grid-template-columns: 1fr; }
+  @media (min-width: 800px) { .product { grid-template-columns: 1.1fr 1fr; } }
+  .gallery { display: grid; gap: 12px; }
+  .gallery img { border-radius: var(--radius); border: 1px solid var(--line); }
+  .price { font-size: 1.4rem; font-weight: 600; display: flex; gap: 12px; align-items: baseline; }
+  .warn { border-left: 3px solid var(--accent); padding-left: 12px; }
+  details { border-bottom: 1px solid var(--line); padding: 10px 0; }
+  summary { cursor: pointer; font-weight: 600; }
+</style>
