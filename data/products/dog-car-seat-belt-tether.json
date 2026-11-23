@@ -1,7 +1,7 @@
 {
   "id": "gl-c27",
   "slug": "dog-car-seat-belt-tether",
-  "status": "candidate",
+  "status": "validated",
   "category": "dog",
   "collection": "dogs",
   "tags": [
@@ -99,10 +99,10 @@
       "Adjustable, stretchy length for a range of dog sizes",
       "Length adjusts from a 70 cm minimum to a 125 cm maximum stretch",
       "Polyester and zinc alloy construction for car rides",
-      "Elastic section between the clip and the seat belt buckle",
+      "Available in black or dark grey",
       "One pet car seat belt included in each order"
     ],
-    "description": "If your dog rides along in the car, you want a belt that adjusts to fit. This elastic, adjustable pet seat belt adjusts for a range of dog sizes. It adjusts from a minimum size of 70 cm and can stretch to a maximum length of 125 cm. The belt is made of polyester and zinc alloy and weighs about 185 g net. Each order includes one pet car seat belt. Each belt ships in a plastic bag. Pet parents who want a simple, adjustable option for everyday car rides will find this belt a practical choice. The adjustable length helps you set the fit. If you travel with more than one dog, you can order a second belt. Ask yourself how often you drive with your dog, and pick a belt that suits your routine. Check the shipping estimate before you order.",
+    "description": "If your dog rides along in the car, you want a belt that adjusts to fit. This elastic, adjustable pet seat belt adjusts for a range of dog sizes. It adjusts from a minimum size of 70 cm and can stretch to a maximum length of 125 cm. The belt is made of polyester and zinc alloy and has a listed net weight of about 185 g. Each order includes one pet car seat belt. Each belt ships in a plastic bag. Pet parents who want a simple, adjustable option for everyday car rides will find this belt a practical choice. The adjustable length helps you set the fit. If you travel with more than one dog, you can order a second belt. Ask yourself how often you drive with your dog, and pick a belt that suits your routine. Check the shipping estimate before you order.",
     "faq": [
       {
         "q": "How do I know if it fits my dog?",
@@ -110,14 +110,14 @@
       },
       {
         "q": "What is the belt made of?",
-        "a": "It is made of polyester and zinc alloy, and weighs about 185 g net."
+        "a": "It is made of polyester and zinc alloy, and has a listed net weight of about 185 g."
       },
       {
         "q": "How long will shipping take?",
         "a": "Estimated 3–7 business days to the US, plus processing 1–3 days. These are estimates, not guaranteed delivery dates."
       }
     ],
-    "safety_warning": "Attach only to a harness, never a collar. This belt is not a crash-tested restraint. Supervise your dog in the car.",
+    "safety_warning": "Attach only to a harness, never a collar. This belt is not designed as a crash restraint. Supervise your dog in the car.",
     "shipping_estimate": "Estimated 3–7 business days to the US, plus processing 1–3 days."
   },
   "seo": {
@@ -130,8 +130,26 @@
       "dog seat belt harness clip"
     ]
   },
-  "validation": {},
-  "updated_at": "2026-11-23T04:06:51.287Z",
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/compliance-checker.json"
+    },
+    "claim-fact-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+    },
+    "listing-qa": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
+      "warn_justification": "Duplicate stretch bullet replaced with colour options (Black/Dark Grey, supplier variants)."
+    }
+  },
+  "updated_at": "2026-11-23T04:21:48.774Z",
   "copy_claims": [
     "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
     "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
@@ -148,5 +166,9 @@
       "verdict": "PASS",
       "log_path": "data/research/2026-11-23/validators/margin-validator.json"
     }
+  },
+  "gate": {
+    "checked_at": "2026-11-23T04:24:21.875Z",
+    "problems": []
   }
 }

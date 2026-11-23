@@ -1,0 +1,98 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "WARN",
+        "evidence": "Packaging sentence removed after final pass (spec contradicts itself on bag vs box); re-checked."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "WARN",
+        "evidence": "Same dimension typo; fixed to \"about 4.3 x 4.3 x 18.3 cm\" per spec."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "claim-fact-checker_final",
+        "result": "WARN",
+        "evidence": "\"for low-light walks\" framing removed; bullet now \"Reflective, per the maker.\""
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

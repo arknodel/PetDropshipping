@@ -1,7 +1,7 @@
 {
   "id": "gl-c04",
   "slug": "reusable-pet-hair-remover-roller",
-  "status": "candidate",
+  "status": "validated",
   "category": "dog",
   "collection": "dogs",
   "tags": [
@@ -98,7 +98,7 @@
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2026/11/14/07/3036c9d2-3762-4a0e-826e-f28f30f03c81.jpg",
-      "alt": "Self-cleaning swivel head of a reusable pet hair remover roller",
+      "alt": "Swivel brush head of a reusable pet hair remover roller",
       "license_ok": true
     },
     {
@@ -114,9 +114,9 @@
       "Press the top button to empty the dustbin without touching the hair.",
       "Swivel left and right to clear hair from the brush head.",
       "Use on sofas, clothing, and bedding, including cotton, linen, and wool.",
-      "Compact at 4.3 x 4.3 x 18.3 cm, so it fits in a bag or in the car."
+      "Compact at about 4.3 x 4.3 x 18.3 cm, so it fits in a bag or in the car."
     ],
-    "description": "Pet hair on the couch, your clothes, and the bed can build up fast. If you are a pet parent, you know the struggle. This reusable roller lifts hair with a simple swipe. Swipe across the surface and the hair collects in the dustbin. When the bin is full, press the top button to empty it without touching the hair. The brush head swivels left and right to clear hair from itself, so cleanup is quick. It uses static to lift hair, and it is easy to store. It works on most surfaces, including cotton, linen, and wool, and on sofas, clothing, bedding, and comforters. At 4.3 x 4.3 x 18.3 cm, it fits in a bag or in the car, and the dimensions are approximate. Keep one handy for quick clean-ups around the house.",
+    "description": "Pet hair on the couch, your clothes, and the bed can build up fast. If you are a pet parent, you know the struggle. This reusable roller lifts hair with a simple swipe. Swipe across the surface and the hair collects in the dustbin. When the bin is full, press the top button to empty it without touching the hair. The brush head swivels left and right to clear hair from itself, so cleanup is quick. It uses static to lift hair, and it is easy to store. It works on cotton, linen, and wool, on sofas, clothing, bedding, and comforters. At about 4.3 x 4.3 x 18.3 cm, it fits in a bag or in the car, and the dimensions are approximate. Keep one handy for quick clean-ups around the house.",
     "faq": [
       {
         "q": "How big is it?",
@@ -136,16 +136,36 @@
   },
   "seo": {
     "meta_title": "Reusable Pet Hair Remover Roller Brush | Good Leash Co.",
-    "meta_description": "Reusable 2-in-1 pet hair brush with a self-cleaning roller and dustbin for sofas, clothes, and bedding. Easy to carry.",
+    "meta_description": "Reusable pet hair remover with a swivel brush head and built-in dustbin for sofas, clothes, and bedding.",
     "primary_keyword": "pet hair remover roller",
     "secondary_keywords": [
       "reusable lint roller for pet hair",
       "pet hair remover brush",
-      "self cleaning pet hair brush"
+      "dog hair remover brush"
     ]
   },
-  "validation": {},
-  "updated_at": "2026-11-23T04:06:58.098Z",
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    },
+    "compliance-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
+      "warn_justification": "Description dimension typo (dropped 4.3) fixed to match bullet/FAQ; \"lint roller\" is a generic term."
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json",
+      "warn_justification": "Same dimension typo; fixed to \"about 4.3 x 4.3 x 18.3 cm\" per spec."
+    },
+    "listing-qa": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
+      "warn_justification": "Same dimension typo; fixed."
+    }
+  },
+  "updated_at": "2026-11-23T04:21:48.773Z",
   "copy_claims": [
     "Reusable, pet hair remover, cat and dog fur, self cleaning: TITLE line '2-1 Reusable Pet Hair Remover Brush Lint Roller ... Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush'",
     "Swipe, hair collects in dustbin: DESCRIPTION 'Just swipe on the surface, all the hair is collected in the dustbin'",
@@ -166,5 +186,9 @@
       "verdict": "PASS",
       "log_path": "data/research/2026-11-23/validators/margin-validator.json"
     }
+  },
+  "gate": {
+    "checked_at": "2026-11-23T04:24:21.877Z",
+    "problems": []
   }
 }

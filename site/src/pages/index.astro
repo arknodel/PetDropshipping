@@ -5,7 +5,7 @@ import { collections, products, productsIn, url } from '../lib/data.js';
 ---
 <Base>
   <section>
-    <span class="pill">{products.length ? 'Now open' : 'Coming soon'}</span>
+    <span class="pill">{products.some((p) => p.shopify?.checkout_url) ? 'Now open' : 'Coming soon'}</span>
     <h1>Practical gear for dog and cat parents.</h1>
     <p class="lede">
       We pick everyday products that solve the small, real problems of living with pets —

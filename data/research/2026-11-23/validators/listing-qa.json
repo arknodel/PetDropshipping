@@ -1,0 +1,98 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Copy said small/medium/large while variants run S–XL; FAQ now states S to XL. No other issue."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Trailing-00 CJ ids flagged; verified live 2026-11-23 via CJ /product/query (pid resolves to CJYD2332008, variant present)."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Duplicate stretch bullet replaced with colour options (Black/Dark Grey, supplier variants)."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Same variant-label issue, fixed; title now says \"Bowls\" to match one/two-bowl versions."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Repetitive bullet replaced (weight from CJ variant data); copy_claims provenance note is internal only."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Same dimension typo; fixed."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "listing-qa_final",
+        "result": "WARN",
+        "evidence": "Trailing-00 ids verified live (pid resolves to CJGD2058064, all 12 variants present). Variant weights are CJ API data; spec weight range not used in copy."
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

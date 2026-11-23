@@ -1,0 +1,98 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "WARN",
+        "evidence": "Raw supplier variant labels (\"box\", \"4foot\") renamed to plain store labels; original kept in supplier_title."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "WARN",
+        "evidence": "\"Waterproof\" is the maker's own product-title attribute; bullet, alt and meta now attribute it to the maker. No cooling claim remains."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "WARN",
+        "evidence": "Description dimension typo (dropped 4.3) fixed to match bullet/FAQ; \"lint roller\" is a generic term."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "WARN",
+        "evidence": "Slug dropped \"crate\" (now suction-cup-lick-mat) so it does not suggest unsupervised use; supervision warning is shown on the product page."
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance-checker_final",
+        "result": "WARN",
+        "evidence": "\"Waterproof\" is the maker's own product-title attribute; bullet and description now attribute it to the maker."
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

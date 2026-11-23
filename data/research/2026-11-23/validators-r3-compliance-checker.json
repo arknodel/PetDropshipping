@@ -1,0 +1,98 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "WARN",
+        "evidence": "unattributed waterproof (supplier title states Waterproof)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "PASS",
+        "evidence": "clean"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "WARN",
+    "checks": [
+      {
+        "name": "compliance_r3",
+        "result": "WARN",
+        "evidence": "unattributed waterproof (supplier title states Waterproof)"
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

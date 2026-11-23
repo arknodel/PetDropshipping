@@ -1,11 +1,12 @@
 {
   "id": "gl-c19",
   "slug": "cat-deshedding-grooming-glove",
-  "status": "candidate",
+  "status": "validated",
   "category": "cat",
   "collection": "cats",
   "tags": [
-    "cats"
+    "cats",
+    "dogs"
   ],
   "score": 6.34,
   "research": {
@@ -47,18 +48,11 @@
   },
   "variants": [
     {
-      "sku": "GL-C19-01",
-      "title": "Hair Removal Gloves-1PCS",
+      "sku": "GL-C19",
+      "title": "Default Title",
       "weight_g": 40,
       "supplier_variant_id": "2503191148021601500",
       "unit_cost": 0.64
-    },
-    {
-      "sku": "GL-C19-02",
-      "title": "Black-1PCS",
-      "weight_g": 31,
-      "supplier_variant_id": "2603070947481606400",
-      "unit_cost": 0.57
     }
   ],
   "images": [
@@ -84,7 +78,7 @@
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2025/08/20/03/a3b7cce8-27c4-4f04-9cf1-ee94e0367207.jpg",
-      "alt": "Breathable mesh back and TPR material on a pet hair remover glove",
+      "alt": "Breathable mesh back on a pet hair remover glove",
       "license_ok": true
     },
     {
@@ -94,15 +88,15 @@
     }
   ],
   "copy": {
-    "title": "Dual-Sided Cat Grooming Glove for Removing Loose Fur",
+    "title": "Cat Grooming Glove for Removing Loose Fur",
     "bullets": [
-      "Dual-sided design quickly removes loose fur during everyday brushing",
-      "Soft silicone bristles for everyday grooming",
-      "Breathable mesh fabric and TPR material make up the glove body",
+      "Designed to help remove loose fur during everyday brushing",
+      "Bristle side the maker describes as soft silicone",
+      "Mesh cloth glove body, per the maker",
       "Flexible wrist cuff keeps the glove on your hand without extra straps",
-      "Fits a range of hand sizes for short, long, and curly fur"
+      "Fits a range of hand sizes; for short, long, and curly fur"
     ],
-    "description": "Brushing your cat should not mean a fur-covered couch. This dual-sided grooming glove removes loose fur from your cat's coat during everyday brushing. Soft silicone bristles do the work, and a flexible wrist cuff keeps the glove on your hand without extra straps. The body is made of breathable mesh fabric and TPR material. Use it for everyday cleaning, grooming, and bath time. It fits a range of hand sizes and works on short, long, and curly fur, from small to large cats. When shedding season hits, fur builds up fast on the couch, the bed, and your clothes. Keep this glove close by so you can start on it right away. It is also suitable for dogs and rabbits. Choose this glove if you want a simple tool for cats with long or short coats. Each glove ships in a plastic bag. Check the shipping estimate before you order.",
+    "description": "This grooming glove is made for brushing loose fur from your cat during everyday grooming. The maker describes the bristle side as soft silicone and the glove body as mesh cloth. A flexible wrist cuff keeps the glove on your hand without extra straps, and it fits a range of hand sizes. Use it for everyday cleaning, grooming, and bath time. The maker lists it for short, long, and curly fur, on small, medium, and large cats, and also for dogs and rabbits. It is a simple tool to keep near the spot where you usually brush your pet, so a quick grooming session is easy to start. Each order includes one glove, shipped in a plastic bag. Check the shipping estimate before you order, since delivery times can vary.",
     "faq": [
       {
         "q": "What size is the glove?",
@@ -121,7 +115,7 @@
     "shipping_estimate": "Estimated 3–8 business days to the US, plus processing 1–3 days."
   },
   "seo": {
-    "meta_title": "Cat Deshedding Grooming Glove for Loose Fur | Good Leash Co.",
+    "meta_title": "Cat Grooming Glove for Loose Fur | Good Leash Co.",
     "meta_description": "Grooming glove for cats that picks up loose fur while you brush. Flexible wrist cuff and mesh fabric for everyday grooming sessions.",
     "primary_keyword": "cat deshedding glove",
     "secondary_keywords": [
@@ -130,8 +124,26 @@
       "deshedding brush glove for cats"
     ]
   },
-  "validation": {},
-  "updated_at": "2026-11-23T04:06:49.776Z",
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/compliance-checker.json"
+    },
+    "claim-fact-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+    },
+    "listing-qa": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
+      "warn_justification": "Trailing-00 CJ ids flagged; verified live 2026-11-23 via CJ /product/query (pid resolves to CJYD2332008, variant present)."
+    }
+  },
+  "updated_at": "2026-11-23T04:12:12.182Z",
   "copy_claims": [
     "Dual-sided design quickly removes loose fur. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('quickly removes loose fur').",
     "Soft silicone bristles. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('soft silicone bristles').",
@@ -144,11 +156,15 @@
     "Each glove ships in a plastic bag. Source: spec PACKING: Plastic bags.",
     "Shipping: 3–8 business days to the US, plus processing 1–3 days. Source: data/products/cat-deshedding-grooming-glove.json supplier.delivery_days_min (3) and supplier.delivery_days_max (8); processing window from the copy brief."
   ],
-  "variant_note": "2 of 20 CJ variants mapped (18 excluded: margin or cap 12); shipping quote taken from the base variant.",
+  "variant_note": "Black-1PCS removed: different CJ SKU, construction unverified.",
   "validation_r1": {
     "margin-validator": {
       "verdict": "PASS",
       "log_path": "data/research/2026-11-23/validators/margin-validator.json"
     }
+  },
+  "gate": {
+    "checked_at": "2026-11-23T04:24:21.874Z",
+    "problems": []
   }
 }

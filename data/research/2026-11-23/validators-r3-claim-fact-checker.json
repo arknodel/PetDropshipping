@@ -1,0 +1,34 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "WARN"
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "FAIL"
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "FAIL"
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "PASS"
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "WARN"
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "WARN"
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS"
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "PASS"
+  }
+]

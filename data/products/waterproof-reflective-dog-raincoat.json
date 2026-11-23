@@ -1,7 +1,7 @@
 {
   "id": "gl-c09",
   "slug": "waterproof-reflective-dog-raincoat",
-  "status": "candidate",
+  "status": "validated",
   "category": "dog",
   "collection": "dogs",
   "tags": [
@@ -134,7 +134,7 @@
   "images": [
     {
       "src": "https://cf.cjdropshipping.com/quick/product/8e7ce0be-54a6-43a6-b17d-4195c5c57eac.jpg",
-      "alt": "Waterproof reflective polyester dog raincoat with hook-and-loop closure, sizes S to XL",
+      "alt": "Reflective polyester dog raincoat with hook-and-loop closure, sizes S to XL",
       "license_ok": true
     },
     {
@@ -144,17 +144,17 @@
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/46ebf6e9-8192-4478-8019-bb66344a177c.jpg",
-      "alt": "Small dog wearing a waterproof raincoat outdoors in the rain",
+      "alt": "Small dog wearing a raincoat outdoors in the rain",
       "license_ok": true
     },
     {
       "src": "https://oss-cf.cjdropshipping.com/product/2024/06/12/03/dc2e56e1-e49c-4adb-82f4-7394733f2a5e_trans.jpeg",
-      "alt": "Buckle on a dog raincoat",
+      "alt": "Dog raincoat shown from another angle",
       "license_ok": true
     },
     {
       "src": "https://cf.cjdropshipping.com/quick/product/a08e366e-12c6-49fb-92e5-420ef6f7a11e.jpg",
-      "alt": "Reflective strip detail on a dog raincoat",
+      "alt": "Dog raincoat shown from the side",
       "license_ok": true
     },
     {
@@ -166,13 +166,13 @@
   "copy": {
     "title": "Waterproof Reflective Dog Raincoat, Sizes S to XL",
     "bullets": [
-      "Waterproof coat for rainy walks.",
-      "Reflective trim for low-light walks.",
-      "Also snowproof, for cold and wet weather.",
+      "Raincoat the maker lists as waterproof, for rainy walks.",
+      "Reflective, per the maker.",
+      "Comes in three colors, with a hook-and-loop closure.",
       "Made of polyester.",
       "Available in sizes S, M, L, and XL."
     ],
-    "description": "Tired of soggy, muddy dogs after every rainy walk? This waterproof dog raincoat is made for wet days, and it is also snowproof for cold weather. It has reflective trim for low-light walks. The coat is made of polyester and comes in sizes S, M, L, and XL. Choose the size that fits your dog, and measure before you buy, since this page does not list chest, neck, or length measurements. The listed weight range is 57 to 94 grams. Each order includes one dog coat. Keep one by the door so it is ready for the next rainy walk. A snug fit matters most on a wet walk, so take a moment to check your dog's size. It is a practical option for dog parents who walk in all kinds of weather.",
+    "description": "Tired of soggy, muddy dogs after every rainy walk? This dog raincoat, which the maker lists as waterproof, is made for wet days. The maker lists it as reflective. The coat is made of polyester and comes in sizes S, M, L, and XL. Choose the size that fits your dog, and measure before you buy, since this page does not list chest, neck, or length measurements. Each order includes one dog coat. Keep one by the door so it is ready for the next rainy walk. A snug fit matters most on a wet walk, so take a moment to check your dog's size. It is a practical option for dog parents who walk in all kinds of weather. Choose from rose red, green, or blue, each with a hook-and-loop closure.",
     "faq": [
       {
         "q": "What sizes are available?",
@@ -180,7 +180,7 @@
       },
       {
         "q": "What is it made of?",
-        "a": "It is made of polyester. It is waterproof, reflective, and snowproof."
+        "a": "It is made of polyester. The maker lists it as waterproof and reflective."
       },
       {
         "q": "How long does shipping take?",
@@ -192,7 +192,7 @@
   },
   "seo": {
     "meta_title": "Waterproof Reflective Dog Raincoat | Good Leash Co.",
-    "meta_description": "Waterproof dog raincoat with reflective trim and hook-and-loop closure, in sizes S to XL. Made of polyester.",
+    "meta_description": "Waterproof dog raincoat with a reflective finish (per the maker) and hook-and-loop closure, in sizes S to XL. Made of polyester.",
     "primary_keyword": "dog raincoat",
     "secondary_keywords": [
       "waterproof dog rain jacket",
@@ -200,8 +200,28 @@
       "small dog rain coat"
     ]
   },
-  "validation": {},
-  "updated_at": "2026-11-23T04:07:01.144Z",
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    },
+    "compliance-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/compliance-checker.json",
+      "warn_justification": "\"Waterproof\" is the maker's own product-title attribute; bullet and description now attribute it to the maker."
+    },
+    "claim-fact-checker": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json",
+      "warn_justification": "\"for low-light walks\" framing removed; bullet now \"Reflective, per the maker.\""
+    },
+    "listing-qa": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
+      "warn_justification": "Trailing-00 ids verified live (pid resolves to CJGD2058064, all 12 variants present). Variant weights are CJ API data; spec weight range not used in copy."
+    }
+  },
+  "updated_at": "2026-11-23T04:21:48.776Z",
   "copy_claims": [
     "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
     "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",
@@ -219,5 +239,9 @@
       "verdict": "PASS",
       "log_path": "data/research/2026-11-23/validators/margin-validator.json"
     }
+  },
+  "gate": {
+    "checked_at": "2026-11-23T04:24:21.880Z",
+    "problems": []
   }
 }

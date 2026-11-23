@@ -1,0 +1,114 @@
+[
+  {
+    "item_id": "gl-c24",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c19",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c27",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c20",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c06",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c22",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  },
+  {
+    "item_id": "gl-c04",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": [
+      "thin headroom (~0.3pt); reprice on any cost rise"
+    ]
+  },
+  {
+    "item_id": "gl-c11",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": [
+      "thin headroom (~0.3pt); reprice on any cost rise"
+    ]
+  },
+  {
+    "item_id": "gl-c09",
+    "verdict": "PASS",
+    "checks": [
+      {
+        "name": "per_variant_margin",
+        "result": "PASS",
+        "evidence": "all variants >= 0.40 (round 2, worst 0.4030 gl-c11)"
+      }
+    ],
+    "fix_suggestions": []
+  }
+]

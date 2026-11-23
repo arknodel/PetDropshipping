@@ -1,11 +1,11 @@
 {
   "id": "gl-c24",
   "slug": "adjustable-mesh-cat-harness",
-  "status": "candidate",
+  "status": "validated",
   "category": "cat",
   "collection": "cats",
   "tags": [
-    "dogs-and-cats"
+    "cats"
   ],
   "score": 6.69,
   "research": {
@@ -159,7 +159,7 @@
     },
     {
       "src": "https://cf.cjdropshipping.com/8884cdd4-aa64-4f2e-80cd-96c197c8e8a5.jpg",
-      "alt": "Cat walking outdoors in a mesh harness with a leash attached",
+      "alt": "Cat walking outdoors in a mesh harness",
       "license_ok": true
     }
   ],
@@ -176,7 +176,7 @@
     "faq": [
       {
         "q": "How do I size the harness?",
-        "a": "It has dual side slide adjusters for various chest sizes, and it is made for small, medium, and large cats. Measure your cat's chest before you order."
+        "a": "It has dual side slide adjusters for various chest sizes, and it comes in sizes S to XL for small to large cats. Measure your cat's chest before you order."
       },
       {
         "q": "What is it made of?",
@@ -200,8 +200,26 @@
       "reflective cat harness"
     ]
   },
-  "validation": {},
-  "updated_at": "2026-11-23T04:06:48.262Z",
+  "validation": {
+    "margin-validator": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/margin-validator.json"
+    },
+    "compliance-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/compliance-checker.json"
+    },
+    "claim-fact-checker": {
+      "verdict": "PASS",
+      "log_path": "data/research/2026-11-23/validators/claim-fact-checker.json"
+    },
+    "listing-qa": {
+      "verdict": "WARN",
+      "log_path": "data/research/2026-11-23/validators/listing-qa.json",
+      "warn_justification": "Copy said small/medium/large while variants run S–XL; FAQ now states S to XL. No other issue."
+    }
+  },
+  "updated_at": "2026-11-23T04:21:48.775Z",
   "copy_claims": [
     "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
     "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
@@ -221,5 +239,9 @@
       "verdict": "PASS",
       "log_path": "data/research/2026-11-23/validators/margin-validator.json"
     }
+  },
+  "gate": {
+    "checked_at": "2026-11-23T04:24:21.873Z",
+    "problems": []
   }
 }
