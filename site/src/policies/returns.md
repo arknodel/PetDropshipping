@@ -22,16 +22,15 @@ Small cosmetic marks that don't affect use (a light scratch, a loose thread, cre
 
 ## Changed your mind
 
-`[[Owner decision: choose one. Our supplier does not accept change-of-mind returns, so Option A is paid for by the store.]]`
+We do not accept returns or give refunds for change of mind, including ordering the wrong size, color or item. Please check sizes, measurements and details on the product page before you order. If you have a question, email us before you buy and we will help you choose.
 
-- **Option B (no cost to the store):** We do not accept returns for change of mind, including ordering the wrong size or item. Please check sizes, measurements and details on the product page before you order. If you have a question, email us before you buy.
-- **Option A (store pays):** You can return unused items in their original packaging within **30 days of delivery**. Email us first for a return authorization and our return address `[[US return address]]`; returns sent without one cannot be processed. Return shipping is paid by the customer. We refund the item price once the return arrives and is checked.
+This does not affect your right to a refund or replacement if your item arrives damaged, defective or wrong (see above).
 
 ## What we can't refund or replace
 
 - Orders sent to an incorrect or incomplete address entered at checkout
 - Packages refused, not picked up from the post office, or returned to the sender because of an address problem
-- Items ordered in the wrong size, color or quantity (unless you chose Option A above)
+- Items ordered in the wrong size, color or quantity
 - Items used with a pet, for hygiene reasons, unless they arrived damaged, defective or wrong
 
 ## Refund timing

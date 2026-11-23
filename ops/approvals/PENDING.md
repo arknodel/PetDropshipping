@@ -20,7 +20,7 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   with photos/video; US delay refund/resend 45 days after shipping; delivered-not-received may need a
   post-office non-delivery statement; unclaimed/returned-to-sender and customer address errors not covered;
   CJ does not accept change-of-mind and only takes returns to China, so returns Option A is paid by the store
-  (Option B recommended). Risk: CJ "service products" (third-party supplier items) may not be refunded for
+  (Option B recommended). Owner chose Option B (no change-of-mind returns) in chat 2026-11-23; draft updated. Risk: CJ "service products" (third-party supplier items) may not be refunded for
   damage/delay/quality; check whether any US-warehouse items are service products before launch.
 - Status: PENDING
 
