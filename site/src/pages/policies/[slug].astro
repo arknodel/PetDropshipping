@@ -1,23 +1,38 @@
 ---
 import Base from '../../layouts/Base.astro';
 
-// Placeholders only. Final policy text is a gated item (legal-policy settings) and
-// must match the Shopify store's policies before launch. Pages are noindex until then.
+// Policy text lives in src/policies/<slug>.md. A policy renders only when its frontmatter has
+// `approved: true` (legal-policy settings are an owner approval gate, APR-012). Until then the
+// page shows a placeholder. Pages stay noindex until launch.
 export function getStaticPaths() {
+  const files = import.meta.glob('../../policies/*.md', { eager: true });
+  const bySlug = Object.fromEntries(Object.entries(files).map(([path, mod]) => [path.split('/').pop().replace(/\.md$/, ''), mod]));
   const policies = [
     { slug: 'shipping', title: 'Shipping Policy' },
     { slug: 'returns', title: 'Returns & Refunds' },
     { slug: 'privacy', title: 'Privacy Policy' },
     { slug: 'terms', title: 'Terms of Service' },
   ];
-  return policies.map((p) => ({ params: { slug: p.slug }, props: { policy: p } }));
+  return policies.map((p) => ({ params: { slug: p.slug }, props: { policy: p, mod: bySlug[p.slug] ?? null } }));
 }
 
-const { policy } = Astro.props;
+const { policy, mod } = Astro.props;
+const approved = mod?.frontmatter?.approved === true;
+const Content = approved ? mod.Content : null;
 ---
 <Base title={policy.title} noindex>
   <article class="prose">
-    <h1>{policy.title}</h1>
-    <p class="empty">This policy will be published here before the store opens.</p>
+    {approved && Content ? (
+      <>
+        <h1>{policy.title}</h1>
+        <p class="muted">Last updated {mod.frontmatter.updated}</p>
+        <Content />
+      </>
+    ) : (
+      <>
+        <h1>{policy.title}</h1>
+        <p class="empty">This policy will be published here before the store opens.</p>
+      </>
+    )}
   </article>
 </Base>

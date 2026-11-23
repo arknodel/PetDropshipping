@@ -6,6 +6,17 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 
 ---
 
+## APR-012 — Store policies (shipping, returns, privacy, terms)
+- Gate: #5 legal-policy settings
+- Drafts: site/src/policies/{shipping,returns,privacy,terms}.md (2026-11-23), all `approved: false`.
+  Facts used: processing 1–3 business days; US-warehouse items 2–7 days after processing; China-warehouse
+  items 5–11 days; US-only shipping; fulfillment partner CJdropshipping; Shopify checkout; Cloudflare hosting.
+- You: fill every `[[...]]` (legal name, address, emails, state, shipping rate, cutoff time, retention period),
+  choose returns Option A or B, and have privacy + terms reviewed (not legal advice).
+- Then AI: set `approved: true` per file (site renders it), paste the same text into Shopify Settings > Policies,
+  and make the Shopify shipping-zone rate match the Shipping Policy (you set zones/rates; gate #5).
+- Status: PENDING
+
 ## APR-011 — Rebrand to Fondly Pet + buy fondlypet.com
 - Gate: #1 spending (domain), brand change
 - Why: owner found an existing "thegoodleashco"; Good Leash also leans dog-only. Owner chose
