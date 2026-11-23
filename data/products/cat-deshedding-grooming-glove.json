@@ -63,7 +63,8 @@
       "unit_cost": 0.64,
       "ship_cost_us": 5.23,
       "landed": 14.89,
-      "margin_pct": 0.403
+      "margin_pct": 0.403,
+      "cj_variant_sku": "CJYD233200801AZ"
     }
   ],
   "images": [
@@ -160,7 +161,7 @@
       "warn_justification": "Trailing-00 CJ ids verified live earlier (CJYD2332008). Bullet fragments are maker attribution style. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:29.828Z",
+  "updated_at": "2026-11-23T14:32:25.141Z",
   "copy_claims": [
     "Dual-sided design quickly removes loose fur. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('quickly removes loose fur').",
     "Soft silicone bristles. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('soft silicone bristles').",

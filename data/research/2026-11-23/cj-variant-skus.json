@@ -1,0 +1,358 @@
+{
+ "write": false,
+ "variants": 39,
+ "missing": 0,
+ "rows": [
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-01",
+   "title": "Navy Blue-S",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540601AZ",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-02",
+   "title": "Navy Blue-M",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540602BY",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-03",
+   "title": "Navy Blue-L",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540603CX",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-04",
+   "title": "Navy Blue-XL",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540604DW",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-05",
+   "title": "Blue-S",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540605EV",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-06",
+   "title": "Blue-M",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540606FU",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-07",
+   "title": "Blue-L",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540607GT",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-08",
+   "title": "Blue-XL",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540608HS",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-09",
+   "title": "Orange-S",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540609IR",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-10",
+   "title": "Orange-M",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540610JQ",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-11",
+   "title": "Orange-L",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540611KP",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "adjustable-mesh-cat-harness",
+   "sku": "GL-C24-12",
+   "title": "Orange-XL",
+   "cj_title": "",
+   "cj_variant_sku": "CJPH300540612LO",
+   "cj_price": 3.08,
+   "our_cost": 3.08
+  },
+  {
+   "slug": "cat-deshedding-grooming-glove",
+   "sku": "GL-C19",
+   "title": "Default Title",
+   "cj_title": "Pet Hair Remover Mitt Pet Hair Remover Gloves Deshedding Brush Glove For Dog Cat Rabbit With Long Short Curly Hair Hair Removal Gloves 1PCS",
+   "cj_variant_sku": "CJYD233200801AZ",
+   "cj_price": 0.64,
+   "our_cost": 0.64
+  },
+  {
+   "slug": "dog-car-seat-belt-tether",
+   "sku": "GL-C27-01",
+   "title": "Black",
+   "cj_title": "Pet Supplies Dog Reflective Buffer Retractable Car Seat Belt Black",
+   "cj_variant_sku": "CJGX152067101AZ",
+   "cj_price": 3.68,
+   "our_cost": 3.68
+  },
+  {
+   "slug": "dog-car-seat-belt-tether",
+   "sku": "GL-C27-02",
+   "title": "Dark Grey",
+   "cj_title": "Pet Supplies Dog Reflective Buffer Retractable Car Seat Belt Dark Grey",
+   "cj_variant_sku": "CJGX152067102BY",
+   "cj_price": 3.75,
+   "our_cost": 3.75
+  },
+  {
+   "slug": "reusable-pet-hair-remover-roller",
+   "sku": "GL-C04-01",
+   "title": "White",
+   "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush White",
+   "cj_variant_sku": "CJGY103503901AZ",
+   "cj_price": 1.47,
+   "our_cost": 1.47
+  },
+  {
+   "slug": "reusable-pet-hair-remover-roller",
+   "sku": "GL-C04-02",
+   "title": "Green",
+   "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush Green",
+   "cj_variant_sku": "CJGY103503902BY",
+   "cj_price": 1.47,
+   "our_cost": 1.47
+  },
+  {
+   "slug": "reusable-pet-hair-remover-roller",
+   "sku": "GL-C04-03",
+   "title": "Pink",
+   "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush Pink",
+   "cj_variant_sku": "CJGY103503903CX",
+   "cj_price": 1.47,
+   "our_cost": 1.47
+  },
+  {
+   "slug": "reusable-pet-hair-remover-roller",
+   "sku": "GL-C04-04",
+   "title": "Blue",
+   "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush Blue",
+   "cj_variant_sku": "CJGY103503904DW",
+   "cj_price": 1.47,
+   "our_cost": 1.47
+  },
+  {
+   "slug": "suction-cup-lick-mat",
+   "sku": "GL-C11-01",
+   "title": "Green",
+   "cj_title": "Green",
+   "cj_variant_sku": "CJGY211127701AZ",
+   "cj_price": 2.77,
+   "our_cost": 2.77
+  },
+  {
+   "slug": "suction-cup-lick-mat",
+   "sku": "GL-C11-02",
+   "title": "Gray",
+   "cj_title": "Gray",
+   "cj_variant_sku": "CJGY211127702BY",
+   "cj_price": 2.77,
+   "our_cost": 2.77
+  },
+  {
+   "slug": "suction-cup-lick-mat",
+   "sku": "GL-C11-03",
+   "title": "Blue",
+   "cj_title": "Blue",
+   "cj_variant_sku": "CJGY211127703CX",
+   "cj_price": 2.77,
+   "our_cost": 2.77
+  },
+  {
+   "slug": "suction-cup-lick-mat",
+   "sku": "GL-C11-04",
+   "title": "Orange",
+   "cj_title": "Orange",
+   "cj_variant_sku": "CJGY211127704DW",
+   "cj_price": 2.77,
+   "our_cost": 2.77
+  },
+  {
+   "slug": "summer-pet-sleeping-mat",
+   "sku": "GL-C06-01",
+   "title": "BLUE-XS",
+   "cj_title": "",
+   "cj_variant_sku": "CJGY192022201AZ",
+   "cj_price": 1.14,
+   "our_cost": 1.14
+  },
+  {
+   "slug": "summer-pet-sleeping-mat",
+   "sku": "GL-C06-02",
+   "title": "COFFEE-XS",
+   "cj_title": "",
+   "cj_variant_sku": "CJGY192022209IR",
+   "cj_price": 1.14,
+   "our_cost": 1.14
+  },
+  {
+   "slug": "summer-pet-sleeping-mat",
+   "sku": "GL-C06-03",
+   "title": "GREY-XS",
+   "cj_title": "",
+   "cj_variant_sku": "CJGY192022217QJ",
+   "cj_price": 1.14,
+   "our_cost": 1.14
+  },
+  {
+   "slug": "summer-pet-sleeping-mat",
+   "sku": "GL-C06-04",
+   "title": "PINK-XS",
+   "cj_title": "",
+   "cj_variant_sku": "CJGY192022225YB",
+   "cj_price": 1.14,
+   "our_cost": 1.14
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-01",
+   "title": "Rose Red Hook-and-Loop-S",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Rose Red Velcro S",
+   "cj_variant_sku": "CJGD205806401AZ",
+   "cj_price": 2.99,
+   "our_cost": 2.99
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-02",
+   "title": "Rose Red Hook-and-Loop-M",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Rose Red Velcro M",
+   "cj_variant_sku": "CJGD205806402BY",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-03",
+   "title": "Rose Red Hook-and-Loop-L",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Rose Red Velcro L",
+   "cj_variant_sku": "CJGD205806403CX",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-04",
+   "title": "Rose Red Hook-and-Loop-XL",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Rose Red Velcro XL",
+   "cj_variant_sku": "CJGD205806404DW",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-05",
+   "title": "Green Hook-and-Loop-S",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Green Velcro S",
+   "cj_variant_sku": "CJGD205806405EV",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-06",
+   "title": "Green Hook-and-Loop-M",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Green Velcro M",
+   "cj_variant_sku": "CJGD205806406FU",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-07",
+   "title": "Green Hook-and-Loop-L",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Green Velcro L",
+   "cj_variant_sku": "CJGD205806407GT",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-08",
+   "title": "Green Hook-and-Loop-XL",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Green Velcro XL",
+   "cj_variant_sku": "CJGD205806408HS",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-09",
+   "title": "Blue Hook-and-Loop-S",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Blue Velcro S",
+   "cj_variant_sku": "CJGD205806409IR",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-10",
+   "title": "Blue Hook-and-Loop-M",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Blue Velcro M",
+   "cj_variant_sku": "CJGD205806410JQ",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-11",
+   "title": "Blue Hook-and-Loop-L",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Blue Velcro L",
+   "cj_variant_sku": "CJGD205806411KP",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  },
+  {
+   "slug": "waterproof-reflective-dog-raincoat",
+   "sku": "GL-C09-12",
+   "title": "Blue Hook-and-Loop-XL",
+   "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies Blue Velcro XL",
+   "cj_variant_sku": "CJGD205806412LO",
+   "cj_price": 2.46,
+   "our_cost": 2.46
+  }
+ ]
+}

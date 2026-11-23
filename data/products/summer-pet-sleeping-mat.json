@@ -62,7 +62,8 @@
       "unit_cost": 1.14,
       "ship_cost_us": 5.1,
       "landed": 15.29,
-      "margin_pct": 0.411
+      "margin_pct": 0.411,
+      "cj_variant_sku": "CJGY192022201AZ"
     },
     {
       "sku": "GL-C06-02",
@@ -72,7 +73,8 @@
       "unit_cost": 1.14,
       "ship_cost_us": 5.1,
       "landed": 15.29,
-      "margin_pct": 0.411
+      "margin_pct": 0.411,
+      "cj_variant_sku": "CJGY192022209IR"
     },
     {
       "sku": "GL-C06-03",
@@ -82,7 +84,8 @@
       "unit_cost": 1.14,
       "ship_cost_us": 5.1,
       "landed": 15.29,
-      "margin_pct": 0.411
+      "margin_pct": 0.411,
+      "cj_variant_sku": "CJGY192022217QJ"
     },
     {
       "sku": "GL-C06-04",
@@ -92,7 +95,8 @@
       "unit_cost": 1.14,
       "ship_cost_us": 5.1,
       "landed": 15.29,
-      "margin_pct": 0.411
+      "margin_pct": 0.411,
+      "cj_variant_sku": "CJGY192022225YB"
     }
   ],
   "images": [
@@ -189,7 +193,7 @@
       "warn_justification": "Internal-note sentence rewritten, 'spot' repetition reduced, copy_claims fixed (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:33.780Z",
+  "updated_at": "2026-11-23T14:32:28.924Z",
   "copy_claims": [
     "Self-cooling mat, sleeping pad, for cat and dog, waterproof: TITLE line 'Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat'",
     "Cloth: MATERIAL line '[\"Cloth\"]'",

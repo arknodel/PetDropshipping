@@ -46,7 +46,8 @@ function toInput(p) {
       optionValues: [{ optionName: 'Title', name: v.title }],
       price: String(p.pricing.retail),
       ...(p.pricing.compare_at ? { compareAtPrice: String(p.pricing.compare_at) } : {}),
-      inventoryItem: { sku: v.sku, ...(v.weight_g ? { measurement: { weight: { value: v.weight_g, unit: 'GRAMS' } } } : {}) },
+      // Shopify SKU = CJ variant SKU so CJ's automatic connection matches exactly; our GL- sku stays internal.
+      inventoryItem: { sku: v.cj_variant_sku ?? v.sku, ...(v.weight_g ? { measurement: { weight: { value: v.weight_g, unit: 'GRAMS' } } } : {}) },
     })),
     files: (p.images ?? []).filter((i) => i.license_ok).map((i) => ({ originalSource: i.src, alt: i.alt, contentType: 'IMAGE' })),
   };

@@ -62,7 +62,8 @@
       "unit_cost": 2.99,
       "ship_cost_us": 5.66,
       "landed": 17.82,
-      "margin_pct": 0.405
+      "margin_pct": 0.405,
+      "cj_variant_sku": "CJGD205806401AZ"
     },
     {
       "sku": "GL-C09-02",
@@ -72,7 +73,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806402BY"
     },
     {
       "sku": "GL-C09-03",
@@ -82,7 +84,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.93,
       "landed": 17.56,
-      "margin_pct": 0.414
+      "margin_pct": 0.414,
+      "cj_variant_sku": "CJGD205806403CX"
     },
     {
       "sku": "GL-C09-04",
@@ -92,7 +95,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806404DW"
     },
     {
       "sku": "GL-C09-05",
@@ -102,7 +106,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.66,
       "landed": 17.29,
-      "margin_pct": 0.423
+      "margin_pct": 0.423,
+      "cj_variant_sku": "CJGD205806405EV"
     },
     {
       "sku": "GL-C09-06",
@@ -112,7 +117,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806406FU"
     },
     {
       "sku": "GL-C09-07",
@@ -122,7 +128,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.93,
       "landed": 17.56,
-      "margin_pct": 0.414
+      "margin_pct": 0.414,
+      "cj_variant_sku": "CJGD205806407GT"
     },
     {
       "sku": "GL-C09-08",
@@ -132,7 +139,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806408HS"
     },
     {
       "sku": "GL-C09-09",
@@ -142,7 +150,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.66,
       "landed": 17.29,
-      "margin_pct": 0.423
+      "margin_pct": 0.423,
+      "cj_variant_sku": "CJGD205806409IR"
     },
     {
       "sku": "GL-C09-10",
@@ -152,7 +161,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806410JQ"
     },
     {
       "sku": "GL-C09-11",
@@ -162,7 +172,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.93,
       "landed": 17.56,
-      "margin_pct": 0.414
+      "margin_pct": 0.414,
+      "cj_variant_sku": "CJGD205806411KP"
     },
     {
       "sku": "GL-C09-12",
@@ -172,7 +183,8 @@
       "unit_cost": 2.46,
       "ship_cost_us": 5.78,
       "landed": 17.41,
-      "margin_pct": 0.419
+      "margin_pct": 0.419,
+      "cj_variant_sku": "CJGD205806412LO"
     }
   ],
   "images": [
@@ -269,7 +281,7 @@
       "warn_justification": "Trailing-00 ids verified live earlier (CJGD2058064, 12 variants); maker publishes no measurements and copy says so. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:34.712Z",
+  "updated_at": "2026-11-23T14:32:29.768Z",
   "copy_claims": [
     "Waterproof, reflective, snowproof, dog raincoat, sizes S to XL: TITLE line 'Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies'",
     "Snowproof and waterproof for wet days: TITLE line 'Waterproof Snowproof'",

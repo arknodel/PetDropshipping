@@ -63,7 +63,8 @@
       "unit_cost": 3.68,
       "ship_cost_us": 6.9,
       "landed": 19.89,
-      "margin_pct": 0.431
+      "margin_pct": 0.431,
+      "cj_variant_sku": "CJGX152067101AZ"
     },
     {
       "sku": "GL-C27-02",
@@ -73,7 +74,8 @@
       "unit_cost": 3.75,
       "ship_cost_us": 6.9,
       "landed": 19.96,
-      "margin_pct": 0.429
+      "margin_pct": 0.429,
+      "cj_variant_sku": "CJGX152067102BY"
     }
   ],
   "images": [
@@ -169,7 +171,7 @@
       "warn_justification": "Minor repetition only; no factual issue. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:30.932Z",
+  "updated_at": "2026-11-23T14:32:26.208Z",
   "copy_claims": [
     "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
     "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",

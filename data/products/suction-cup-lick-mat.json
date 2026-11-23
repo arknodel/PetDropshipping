@@ -66,7 +66,8 @@
       "unit_cost": 2.77,
       "ship_cost_us": 6.94,
       "landed": 18.97,
-      "margin_pct": 0.424
+      "margin_pct": 0.424,
+      "cj_variant_sku": "CJGY211127701AZ"
     },
     {
       "sku": "GL-C11-02",
@@ -76,7 +77,8 @@
       "unit_cost": 2.77,
       "ship_cost_us": 6.94,
       "landed": 18.97,
-      "margin_pct": 0.424
+      "margin_pct": 0.424,
+      "cj_variant_sku": "CJGY211127702BY"
     },
     {
       "sku": "GL-C11-03",
@@ -86,7 +88,8 @@
       "unit_cost": 2.77,
       "ship_cost_us": 6.94,
       "landed": 18.97,
-      "margin_pct": 0.424
+      "margin_pct": 0.424,
+      "cj_variant_sku": "CJGY211127703CX"
     },
     {
       "sku": "GL-C11-04",
@@ -96,7 +99,8 @@
       "unit_cost": 2.77,
       "ship_cost_us": 6.94,
       "landed": 18.97,
-      "margin_pct": 0.424
+      "margin_pct": 0.424,
+      "cj_variant_sku": "CJGY211127704DW"
     }
   ],
   "images": [
@@ -192,7 +196,7 @@
       "warn_justification": "'cats' tag added (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:32.864Z",
+  "updated_at": "2026-11-23T14:32:28.209Z",
   "copy_claims": [
     "Suction cup, silicone, slow feeder, lick mat, dogs and cats: TITLE line 'Dog Licking Mat Slow Feeder ... With Suction Cups'. The supplier title's 'Anxiety Relief' wording was intentionally NOT used",
     "64 suction cups on the back, to help secure on a smooth and clean surface: DESCRIPTION 'There are 64 powerful suction cups on the back of this pet food mat to help secure it on a smooth and clean surface'",

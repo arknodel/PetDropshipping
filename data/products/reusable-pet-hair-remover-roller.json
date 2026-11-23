@@ -62,7 +62,8 @@
       "unit_cost": 1.47,
       "ship_cost_us": 5.98,
       "landed": 16.56,
-      "margin_pct": 0.407
+      "margin_pct": 0.407,
+      "cj_variant_sku": "CJGY103503901AZ"
     },
     {
       "sku": "GL-C04-02",
@@ -72,7 +73,8 @@
       "unit_cost": 1.47,
       "ship_cost_us": 5.98,
       "landed": 16.56,
-      "margin_pct": 0.407
+      "margin_pct": 0.407,
+      "cj_variant_sku": "CJGY103503902BY"
     },
     {
       "sku": "GL-C04-03",
@@ -82,7 +84,8 @@
       "unit_cost": 1.47,
       "ship_cost_us": 5.98,
       "landed": 16.56,
-      "margin_pct": 0.407
+      "margin_pct": 0.407,
+      "cj_variant_sku": "CJGY103503903CX"
     },
     {
       "sku": "GL-C04-04",
@@ -92,7 +95,8 @@
       "unit_cost": 1.47,
       "ship_cost_us": 5.98,
       "landed": 16.56,
-      "margin_pct": 0.407
+      "margin_pct": 0.407,
+      "cj_variant_sku": "CJGY103503904DW"
     }
   ],
   "images": [
@@ -189,7 +193,7 @@
       "warn_justification": "copy_claims updated. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:31.849Z",
+  "updated_at": "2026-11-23T14:32:27.165Z",
   "copy_claims": [
     "Reusable, pet hair remover, cat and dog fur, self cleaning: TITLE line '2-1 Reusable Pet Hair Remover Brush Lint Roller ... Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush'",
     "Swipe, hair collects in dustbin: DESCRIPTION 'Just swipe on the surface, all the hair is collected in the dustbin'",

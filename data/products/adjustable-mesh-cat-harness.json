@@ -63,7 +63,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.81,
       "landed": 18.12,
-      "margin_pct": 0.433
+      "margin_pct": 0.433,
+      "cj_variant_sku": "CJPH300540601AZ"
     },
     {
       "sku": "GL-C24-02",
@@ -73,7 +74,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.94,
       "landed": 18.25,
-      "margin_pct": 0.429
+      "margin_pct": 0.429,
+      "cj_variant_sku": "CJPH300540602BY"
     },
     {
       "sku": "GL-C24-03",
@@ -83,7 +85,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.68,
       "landed": 17.99,
-      "margin_pct": 0.437
+      "margin_pct": 0.437,
+      "cj_variant_sku": "CJPH300540603CX"
     },
     {
       "sku": "GL-C24-04",
@@ -93,7 +96,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.9,
       "landed": 18.21,
-      "margin_pct": 0.43
+      "margin_pct": 0.43,
+      "cj_variant_sku": "CJPH300540604DW"
     },
     {
       "sku": "GL-C24-05",
@@ -103,7 +107,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.81,
       "landed": 18.12,
-      "margin_pct": 0.433
+      "margin_pct": 0.433,
+      "cj_variant_sku": "CJPH300540605EV"
     },
     {
       "sku": "GL-C24-06",
@@ -113,7 +118,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.94,
       "landed": 18.25,
-      "margin_pct": 0.429
+      "margin_pct": 0.429,
+      "cj_variant_sku": "CJPH300540606FU"
     },
     {
       "sku": "GL-C24-07",
@@ -123,7 +129,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.68,
       "landed": 17.99,
-      "margin_pct": 0.437
+      "margin_pct": 0.437,
+      "cj_variant_sku": "CJPH300540607GT"
     },
     {
       "sku": "GL-C24-08",
@@ -133,7 +140,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.9,
       "landed": 18.21,
-      "margin_pct": 0.43
+      "margin_pct": 0.43,
+      "cj_variant_sku": "CJPH300540608HS"
     },
     {
       "sku": "GL-C24-09",
@@ -143,7 +151,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.81,
       "landed": 18.12,
-      "margin_pct": 0.433
+      "margin_pct": 0.433,
+      "cj_variant_sku": "CJPH300540609IR"
     },
     {
       "sku": "GL-C24-10",
@@ -153,7 +162,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.94,
       "landed": 18.25,
-      "margin_pct": 0.429
+      "margin_pct": 0.429,
+      "cj_variant_sku": "CJPH300540610JQ"
     },
     {
       "sku": "GL-C24-11",
@@ -163,7 +173,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.68,
       "landed": 17.99,
-      "margin_pct": 0.437
+      "margin_pct": 0.437,
+      "cj_variant_sku": "CJPH300540611KP"
     },
     {
       "sku": "GL-C24-12",
@@ -173,7 +184,8 @@
       "unit_cost": 3.08,
       "ship_cost_us": 5.9,
       "landed": 18.21,
-      "margin_pct": 0.43
+      "margin_pct": 0.43,
+      "cj_variant_sku": "CJPH300540612LO"
     }
   ],
   "images": [
@@ -269,7 +281,7 @@
       "warn_justification": "Size wording fixed to S to XL; copy_claims shipping updated (fixes-r4). Freight file retail is the pre-raise price; ship cost does not depend on retail. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:22:28.541Z",
+  "updated_at": "2026-11-23T14:32:24.136Z",
   "copy_claims": [
     "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
     "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
