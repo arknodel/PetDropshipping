@@ -171,7 +171,7 @@
       "warn_justification": "Minor repetition only; no factual issue. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:59:59.685Z",
+  "updated_at": "2026-11-23T15:03:39.201Z",
   "copy_claims": [
     "Suitable for all dog types; adjustable and stretchy. Source: spec DESCRIPTION Product information, 'Description: Suitable for all dog types (size adjustable and stretchy)'.",
     "Elastic adjustable pet seat belt. Source: spec DESCRIPTION Product information, 'Name: Elastic Adjustable Pet Seat Belt'.",
@@ -196,6 +196,17 @@
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433430243",
     "handle": "dog-car-seat-belt-tether",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "China Warehouse",
+    "shipping_method": "LuWei Ordinary US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

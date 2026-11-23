@@ -196,7 +196,7 @@
       "warn_justification": "'cats' tag added (fixes-r4). Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T15:00:06.574Z",
+  "updated_at": "2026-11-23T15:03:42.309Z",
   "copy_claims": [
     "Suction cup, silicone, slow feeder, lick mat, dogs and cats: TITLE line 'Dog Licking Mat Slow Feeder ... With Suction Cups'. The supplier title's 'Anxiety Relief' wording was intentionally NOT used",
     "64 suction cups on the back, to help secure on a smooth and clean surface: DESCRIPTION 'There are 64 powerful suction cups on the back of this pet food mat to help secure it on a smooth and clean surface'",
@@ -227,6 +227,17 @@
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433856227",
     "handle": "suction-cup-lick-mat",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "China Warehouse",
+    "shipping_method": "LuWei Ordinary US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

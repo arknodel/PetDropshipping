@@ -157,7 +157,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T15:00:03.226Z",
+  "updated_at": "2026-11-23T15:03:41.053Z",
   "copy_claims": [
     "Two-piece set — spec VARIANT KEYS line 6 ('2PC'); record variants[0].supplier_title = 2PC",
     "Adjustable length 16.93–27.17 in (430–690 mm) — spec DESCRIPTION line 13",
@@ -170,6 +170,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517577150691",
-    "handle": "pet-car-seatbelt-2-pack"
+    "handle": "pet-car-seatbelt-2-pack",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "USPS US to US #7",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

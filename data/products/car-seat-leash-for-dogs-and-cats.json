@@ -184,7 +184,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T14:59:58.246Z",
+  "updated_at": "2026-11-23T15:03:38.761Z",
   "copy_claims": [
     "Adjustable nylon, car seat dog safety belt leash (maker title) — spec TITLE line 1 (CJPL2458437.txt); record cj_title",
     "Cloth and metal materials — spec MATERIAL line 3 ['Cloth','Metal']",
@@ -195,6 +195,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517576757475",
-    "handle": "car-seat-leash-for-dogs-and-cats"
+    "handle": "car-seat-leash-for-dogs-and-cats",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "USPS US to US #7",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

@@ -254,7 +254,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T15:00:01.709Z",
+  "updated_at": "2026-11-23T15:03:39.973Z",
   "copy_claims": [
     "wing decoration - spec TITLE 'Kitten Harness Vest With Wing Decoration'",
     "vest-style harness - spec TITLE 'Kitten Harness Vest'; Specifications 'Type: Harness'",
@@ -273,6 +273,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517577019619",
-    "handle": "kitten-harness-vest"
+    "handle": "kitten-harness-vest",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "DHL US to US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

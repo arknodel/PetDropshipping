@@ -150,7 +150,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T15:00:02.491Z",
+  "updated_at": "2026-11-23T15:03:40.629Z",
   "copy_claims": [
     "Mini size — spec TITLE line 1 ('Mini Pet Hair Remover'); maker listing",
     "Reusable — spec TITLE line 1 ('Reusable')",
@@ -163,6 +163,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517577085155",
-    "handle": "mini-pet-hair-remover-tool"
+    "handle": "mini-pet-hair-remover-tool",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "Fedex US to US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

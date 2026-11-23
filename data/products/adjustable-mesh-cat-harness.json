@@ -281,7 +281,7 @@
       "warn_justification": "Size wording fixed to S to XL; copy_claims shipping updated (fixes-r4). Freight file retail is the pre-raise price; ship cost does not depend on retail. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:59:55.927Z",
+  "updated_at": "2026-11-23T15:03:38.009Z",
   "copy_claims": [
     "Dual thickened solid stainless steel D-rings for leash attachment. Source: spec DESCRIPTION paragraph 1 ('Dual thickened solid stainless steel D-rings'); 'dual-point traction' in the same paragraph.",
     "Locking safety buckles stay firmly fastened. Source: spec DESCRIPTION paragraph 1 ('Locking safety buckles stay firmly fastened').",
@@ -309,6 +309,17 @@
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433200867",
     "handle": "adjustable-mesh-cat-harness",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "China Warehouse",
+    "shipping_method": "LuWei Ordinary US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

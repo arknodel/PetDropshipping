@@ -157,7 +157,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T15:00:05.834Z",
+  "updated_at": "2026-11-23T15:03:42.104Z",
   "copy_claims": [
     "One-click button releases trapped hair, no hand-pulling (maker claim) — spec DESCRIPTION item 1",
     "Rounded tips, gentle on skin (maker claim) — spec DESCRIPTION item 2",
@@ -176,6 +176,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517577347299",
-    "handle": "slicker-brush-with-release-button"
+    "handle": "slicker-brush-with-release-button",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "USPS US to US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

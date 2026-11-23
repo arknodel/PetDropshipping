@@ -161,7 +161,7 @@
       "warn_justification": "Trailing-00 CJ ids verified live earlier (CJYD2332008). Bullet fragments are maker attribution style. Brand is Fondly Pet (APR-011, data/brand.json); validator lacked that file."
     }
   },
-  "updated_at": "2026-11-23T14:59:59.041Z",
+  "updated_at": "2026-11-23T15:03:38.985Z",
   "copy_claims": [
     "Dual-sided design quickly removes loose fur. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('quickly removes loose fur').",
     "Soft silicone bristles. Source: spec DESCRIPTION Overview, 'Dual-Sided Efficient Cleaning' paragraph ('soft silicone bristles').",
@@ -188,6 +188,17 @@
   "shopify": {
     "product_gid": "gid://shopify/Product/15517433299171",
     "handle": "cat-deshedding-grooming-glove",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "China Warehouse",
+    "shipping_method": "CJPacket Sensitive Pro",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }

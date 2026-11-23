@@ -151,7 +151,7 @@
       "round": "us-r1/r2 2026-11-23"
     }
   },
-  "updated_at": "2026-11-23T15:00:05.054Z",
+  "updated_at": "2026-11-23T15:03:41.729Z",
   "copy_claims": [
     "6-foot length, room to move (maker) - spec DESCRIPTION '6FT Length Leash'; spec TITLE '6ft'",
     "nylon described as durable, wear-resistant, lightweight (maker) - spec DESCRIPTION 'made from high-quality nylon, it is durable, wear-resistant, and lightweight'",
@@ -167,6 +167,18 @@
   ],
   "shopify": {
     "product_gid": "gid://shopify/Product/15517577281763",
-    "handle": "six-foot-rope-dog-leash"
+    "handle": "six-foot-rope-dog-leash",
+    "status": "ACTIVE",
+    "channels": [
+      "Online Store",
+      "Shop"
+    ]
+  },
+  "cj_link": {
+    "connected": true,
+    "connected_at": "2026-11-23",
+    "warehouse": "US Warehouse",
+    "shipping_method": "Fedex US to US",
+    "match": "Shopify variant SKU = CJ variant SKU (auto-connect), verified per variant in dialog"
   }
 }
