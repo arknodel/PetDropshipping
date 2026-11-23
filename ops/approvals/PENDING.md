@@ -22,9 +22,12 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 ## APR-003 — GitHub repo + Pages
 - Gate: #2 account / settings
 - Repo: https://github.com/arknodel/PetDropshipping — **created by you (2026-11-22). Repo step DONE.**
-- Remaining action: push this skeleton to `main` (needs your chat OK), then enable Pages
-  (Settings → Pages → Source: GitHub Actions). Custom domain only after APR-007.
-- Status: PENDING (Pages + first push)
+- First push: DONE 2026-11-22 (commit 2c09a57, approved in chat).
+- Pages: DONE 2026-11-22 via gh API (build_type=workflow, approved in chat).
+  URL: https://arknodel.github.io/PetDropshipping/ (live once deploy.yml publishes a build).
+  browser-runner attempt failed first: Claude in Chrome extension not connected.
+- Custom domain only after APR-007.
+- Status: APPROVED (complete)
 
 ## APR-004 — Shopify custom app + API scopes
 - Gate: #2 granting API/OAuth scopes
