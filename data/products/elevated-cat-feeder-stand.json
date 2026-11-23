@@ -1,0 +1,92 @@
+{
+  "id": "gl-c20",
+  "slug": "elevated-cat-feeder-stand",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs"
+  ],
+  "score": 6.68,
+  "research": {
+    "name": "elevated slow feeder stand with stainless bowls",
+    "factors": {
+      "demand": 5,
+      "margin": 8.161538461538461,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 6,
+      "problem_solving": 7,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1419871243087253504.html",
+    "supplier_sku": "1419871243087253504",
+    "unit_cost": 0.39,
+    "ship_cost_us": 6.21,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 2328,
+    "flags": [],
+    "cj_title": "Cat Elevated Feeder Stand With Transparent Bowl",
+    "cj_sku": "CJMY1228721"
+  },
+  "pricing": {
+    "retail": 26.95,
+    "compare_at": null,
+    "landed": 15.68,
+    "margin_pct": 0.42,
+    "breakeven_roas": 1.4
+  },
+  "variants": [
+    {
+      "sku": "GL-C20",
+      "title": "Default Title",
+      "weight_g": 136,
+      "supplier_variant_id": "1419871245301846016"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/6f7408c4-5c7b-4980-965f-f0807095bf05.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/da2ff1d6-abac-436b-9789-a02eaa530f2b.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/82f8f119-4581-4513-a7ee-92475bd3ad04.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/c2f2b2cf-ccc7-4608-bac2-d6cba1b97a1a.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/8527410a-aeef-4560-b168-7fd471b1dc6d.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/e3b7f3b8-0b4a-4eb6-b5c8-be4d85189c48.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.662Z"
+}

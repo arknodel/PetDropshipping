@@ -1,0 +1,92 @@
+{
+  "id": "gl-c06",
+  "slug": "pet-self-cooling-mat",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs-and-cats"
+  ],
+  "score": 6.76,
+  "research": {
+    "name": "pet self-cooling mat (non-gel, fabric)",
+    "factors": {
+      "demand": 6,
+      "margin": 8.315384615384616,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 5,
+      "problem_solving": 6,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1734888404233900032.html",
+    "supplier_sku": "1734888404233900032",
+    "unit_cost": 1.14,
+    "ship_cost_us": 5.22,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 375,
+    "flags": [],
+    "cj_title": "Dog Pillow Pet Summer Cooling Mat And Sleeping Pad Waterproof Pet Cooling Mat For Cat Dog Keep Cooling Supplies Self Cooling Mat",
+    "cj_sku": "CJGY1920222"
+  },
+  "pricing": {
+    "retail": 25.95,
+    "compare_at": null,
+    "landed": 15.41,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.4
+  },
+  "variants": [
+    {
+      "sku": "GL-C06",
+      "title": "Default Title",
+      "weight_g": 60,
+      "supplier_variant_id": "1734888404347146240"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/10cb8b10-51ae-4fe8-96ae-a75cfa909e6e.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/0f6fb3db-3b52-4866-be7c-5b09aff6cc4a.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/d84a95c4-462e-467d-ae39-75e733e35557.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/88b12a6d-6a99-490f-b80e-4c4d641a5211.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/61007496-c874-475d-9f0e-1296b6dc7b7c.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/a925ed96-5066-4113-ac0d-37f5f6d7253c.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.661Z"
+}

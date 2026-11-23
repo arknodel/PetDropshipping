@@ -1,0 +1,92 @@
+{
+  "id": "gl-c27",
+  "slug": "dog-car-seat-belt-tether",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs"
+  ],
+  "score": 6.35,
+  "research": {
+    "name": "dog car seat belt tether (bungee, adjustable)",
+    "factors": {
+      "demand": 5,
+      "margin": 7.238461538461538,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 5,
+      "problem_solving": 7,
+      "wow_factor": 4
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1545285316972654592.html",
+    "supplier_sku": "1545285316972654592",
+    "unit_cost": 3.68,
+    "ship_cost_us": 6.65,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 461,
+    "flags": [],
+    "cj_title": "Pet Supplies Dog Reflective Buffer Retractable Car Seat Belt",
+    "cj_sku": "CJGX1520671"
+  },
+  "pricing": {
+    "retail": 32.95,
+    "compare_at": null,
+    "landed": 19.59,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.54
+  },
+  "variants": [
+    {
+      "sku": "GL-C27",
+      "title": "Default Title",
+      "weight_g": 208,
+      "supplier_variant_id": "1545285317077512192"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/547dcad1-8b15-4247-8637-89ffc75aa264.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/5b50f965-fe18-4e13-8a75-71216dfe9052.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/00016ed1-5eff-484d-8d1f-bdacc789e7d1.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/264c60ab-f00f-4ff3-9d86-850558ce8a64.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/f51baf39-814f-40c7-92bc-d24004e3113e.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/5ebb2e08-4af3-402d-b7d7-f238cb46e194.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.664Z"
+}

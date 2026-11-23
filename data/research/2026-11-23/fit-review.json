@@ -1,0 +1,28 @@
+{
+  "_note": "Opus review of CJ keyword matches (2026-11-23). reject = match is not the researched product or fails policy. flags are added to the supplier row.",
+  "reject": {
+    "c01": "match is a large cat treehouse (oversized), not a window perch",
+    "c05": "match is a dog bed mat, not a snuffle mat",
+    "c07": "match is a luxury harness+leash set, no backpack",
+    "c08": "match is nail clippers, not a scratch board",
+    "c10": "match is a plush blanket, not a sleeping bag",
+    "c13": "match is a car sticker",
+    "c14": "match is a cat vest harness (duplicate of c24)",
+    "c15": "match unclear (generic leash listing)",
+    "c16": "match unclear (generic leash listing)",
+    "c17": "match is a car cleaning brush",
+    "c18": "rechargeable mist brush (battery_lithium)",
+    "c23": "same CJ listing as c02",
+    "c25": "listing title too vague to verify product (\"Car seat cover\")",
+    "c28": "listing title vague / mixed products",
+    "c29": "match is nail clippers, not a grooming restraint bag",
+    "c30": "brand name in listing title (trademark) and oversized"
+  },
+  "flags": {
+    "c03": ["choking_hazard"],
+    "c11": ["choking_hazard"]
+  },
+  "verify_before_launch": [
+    "CJ US-warehouse freight quotes returned for every item; confirm US stock per SKU in CJ before first order."
+  ]
+}

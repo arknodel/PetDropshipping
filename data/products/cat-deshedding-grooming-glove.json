@@ -1,0 +1,92 @@
+{
+  "id": "gl-c19",
+  "slug": "cat-deshedding-grooming-glove",
+  "status": "candidate",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "cats"
+  ],
+  "score": 6.34,
+  "research": {
+    "name": "cat deshedding grooming glove",
+    "factors": {
+      "demand": 6,
+      "margin": 8.46923076923077,
+      "shipping_speed": 5,
+      "supplier_quality": 7,
+      "low_competition": 4,
+      "problem_solving": 7,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2503191148021601200.html",
+    "supplier_sku": "2503191148021601200",
+    "unit_cost": 0.64,
+    "ship_cost_us": 5.07,
+    "ships_from": "US",
+    "shipping_method": "GOFO GC parcel+",
+    "delivery_days_min": 3,
+    "delivery_days_max": 8,
+    "rating": null,
+    "orders_count": 7098,
+    "flags": [],
+    "cj_title": "Pet Hair Remover Mitt Pet Hair Remover Gloves Deshedding Brush Glove For Dog Cat Rabbit With Long Short Curly Hair",
+    "cj_sku": "CJYD2332008"
+  },
+  "pricing": {
+    "retail": 24.95,
+    "compare_at": null,
+    "landed": 14.73,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.37
+  },
+  "variants": [
+    {
+      "sku": "GL-C19",
+      "title": "Default Title",
+      "weight_g": 40,
+      "supplier_variant_id": "2503191148021601500"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2025/06/09/05/202cb3f9-ed8a-478f-a5ae-bc0b6c4830e1.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/10/05/01/08c5d503-6038-4ef5-86ca-f58f42496724.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/10/15/01/266b63c6-b470-4ed3-b019-208c82b7bbef.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/09/02/12/08e2e529-35b0-453e-93b8-1fcbcc3ee6d2.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2025/08/20/03/a3b7cce8-27c4-4f04-9cf1-ee94e0367207.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2025/05/26/06/6553fa78-1ea3-40b6-a1b0-954a5a6a5d08.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.664Z"
+}

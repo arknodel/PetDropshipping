@@ -1,0 +1,92 @@
+{
+  "id": "gl-c04",
+  "slug": "reusable-pet-hair-remover-roller",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs-and-cats"
+  ],
+  "score": 7.15,
+  "research": {
+    "name": "reusable pet hair remover roller",
+    "factors": {
+      "demand": 9,
+      "margin": 8.007692307692308,
+      "shipping_speed": 5,
+      "supplier_quality": 7,
+      "low_competition": 3,
+      "problem_solving": 9,
+      "wow_factor": 6
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1368888013161107456.html",
+    "supplier_sku": "1368888013161107456",
+    "unit_cost": 1.47,
+    "ship_cost_us": 6.09,
+    "ships_from": "US",
+    "shipping_method": "GOFO GC parcel+",
+    "delivery_days_min": 3,
+    "delivery_days_max": 8,
+    "rating": null,
+    "orders_count": 12750,
+    "flags": [],
+    "cj_title": "2-1 Reusable Pet Hair Remover Brush Lint Roller Portable Effective Self Cleaning Tool for Cat Dog Fur Hair Dust Removal Brush",
+    "cj_sku": "CJGY1035039"
+  },
+  "pricing": {
+    "retail": 27.95,
+    "compare_at": null,
+    "landed": 16.67,
+    "margin_pct": 0.4,
+    "breakeven_roas": 1.45
+  },
+  "variants": [
+    {
+      "sku": "GL-C04",
+      "title": "Default Title",
+      "weight_g": 123,
+      "supplier_variant_id": "1368888014532644864"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/10/28/12/c0c773af-e042-4a41-9b98-ef259c5a858e.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2025/11/26/12/a0587817-c0c5-4d0b-ae00-70e5783d83e1.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/1615203197680.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2023/11/08/09/358e7ec5-b10c-480b-aefa-071f07c87391.png",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/11/14/07/3036c9d2-3762-4a0e-826e-f28f30f03c81.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2025/08/23/03/3fc821c4-437e-4985-a226-6f1e25d133f7.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.659Z"
+}

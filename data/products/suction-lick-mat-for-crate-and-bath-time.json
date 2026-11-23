@@ -1,0 +1,94 @@
+{
+  "id": "gl-c11",
+  "slug": "suction-lick-mat-for-crate-and-bath-time",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs"
+  ],
+  "score": 6.61,
+  "research": {
+    "name": "suction lick mat for crate and bath time",
+    "factors": {
+      "demand": 6,
+      "margin": 7.546153846153846,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 4,
+      "problem_solving": 7,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": true
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-1823993945786306560.html",
+    "supplier_sku": "1823993945786306560",
+    "unit_cost": 2.77,
+    "ship_cost_us": 6.51,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 725,
+    "flags": [
+      "choking_hazard"
+    ],
+    "cj_title": "Dog Licking Mat Slow Feeder Premium Lick Pad With Suction Cups For Dog Anxiety Relief  Slow Feeder Dog Bowls Pet Placemat",
+    "cj_sku": "CJGY2111277"
+  },
+  "pricing": {
+    "retail": 30.95,
+    "compare_at": null,
+    "landed": 18.48,
+    "margin_pct": 0.4,
+    "breakeven_roas": 1.51
+  },
+  "variants": [
+    {
+      "sku": "GL-C11",
+      "title": "Default Title",
+      "weight_g": 185,
+      "supplier_variant_id": "1823993945803083776"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/5fbcf9e1-1906-4286-9926-40838c4ce514.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/60b29b89-275a-4736-99f0-1298897c67b4.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/16bf92ce-e9e0-4a7c-abe5-cc953485800b.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/2d48688d-9443-4252-a185-9982ff33fa5a.png",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/175f8a2a-fe91-429d-82c4-e963530aed81.png",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/f2509550-3672-43cc-a2f8-ee35b1c6d9f8.png",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.663Z"
+}

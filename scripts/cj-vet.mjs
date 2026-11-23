@@ -47,34 +47,44 @@ for (const c of candidates) {
   const query = c.name.replace(/\(.*?\)/g, '').trim();
   let best = null;
   try {
-    const list = await cj('/product/list', { token: accessToken, query: { productNameEn: query, pageNum: 1, pageSize: PER_PRODUCT } });
-    for (const p of list?.list ?? []) {
-      // US warehouse first; freight quote to US for 1 unit of the first variant.
-      const detail = await cj('/product/query', { token: accessToken, query: { pid: p.pid } });
+    // /product/list ignores name filters; listV2 + keyWord does real keyword search.
+    const list = await cj('/product/listV2', { token: accessToken, query: { keyWord: query, page: 1, size: PER_PRODUCT } });
+    const products = (list?.content ?? []).flatMap((x) => x.productList ?? []);
+    for (const p of products) {
+      const pid = p.id ?? p.pid;
+      const detail = await cj('/product/query', { token: accessToken, query: { pid } });
       const variant = detail?.variants?.[0];
       if (!variant) continue;
-      const freight = await cj('/logistic/freightCalculate', {
+      // US warehouse first; fall back to CN. Record which origin actually quoted.
+      let origin = 'US';
+      let freight = await cj('/logistic/freightCalculate', {
         method: 'POST', token: accessToken,
         body: { startCountryCode: 'US', endCountryCode: 'US', products: [{ quantity: 1, vid: variant.vid }] },
-      }).catch(() => cj('/logistic/freightCalculate', {
-        method: 'POST', token: accessToken,
-        body: { startCountryCode: 'CN', endCountryCode: 'US', products: [{ quantity: 1, vid: variant.vid }] },
-      }));
+      }).catch(() => null);
+      if (!freight?.length) {
+        origin = 'CN';
+        freight = await cj('/logistic/freightCalculate', {
+          method: 'POST', token: accessToken,
+          body: { startCountryCode: 'CN', endCountryCode: 'US', products: [{ quantity: 1, vid: variant.vid }] },
+        }).catch(() => null);
+      }
       const cheapest = [...(freight ?? [])].sort((a, b) => a.logisticPrice - b.logisticPrice)[0];
       if (!cheapest) continue;
       const [dmin, dmax] = parseAging(cheapest.logisticAging);
       const row = {
         id: c.id, product: c.name, supplier: 'CJdropshipping',
-        supplier_url: `https://cjdropshipping.com/product/-p-${p.pid}.html`,
-        cj_pid: p.pid, cj_vid: variant.vid,
+        cj_name: p.nameEn ?? detail?.productNameEn ?? null,
+        supplier_url: `https://cjdropshipping.com/product/-p-${pid}.html`,
+        cj_pid: pid, cj_vid: variant.vid, cj_sku: p.sku ?? null,
         unit_cost: Number(variant.variantSellPrice ?? p.sellPrice),
         ship_cost_us: Number(cheapest.logisticPrice),
-        ships_from: cheapest.startCountryCode ?? null,
+        ships_from: origin,
         shipping_method: cheapest.logisticName,
         delivery_days_min: dmin, delivery_days_max: dmax,
         // CJ is the supplier of record; no per-seller star rating. Use listing stats if present.
         supplier_rating: detail?.productScore != null ? Number(detail.productScore) : null,
-        orders_count: detail?.listedNum != null ? Number(detail.listedNum) : null,
+        // CJ exposes no order counts; listedNum = number of stores listing it (demand proxy).
+        orders_count: p.listedNum != null ? Number(p.listedNum) : detail?.listedNum != null ? Number(detail.listedNum) : null,
         image_license_ok: true,
         images: (detail?.productImageSet ?? []).slice(0, 6),
         weight_g: variant.variantWeight != null ? Number(variant.variantWeight) : null,

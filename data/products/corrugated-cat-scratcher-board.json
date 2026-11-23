@@ -1,0 +1,92 @@
+{
+  "id": "gl-c02",
+  "slug": "corrugated-cat-scratcher-board",
+  "status": "candidate",
+  "category": "cat",
+  "collection": "cats",
+  "tags": [
+    "cats"
+  ],
+  "score": 6.86,
+  "research": {
+    "name": "multi-position cardboard cat scratcher lounge",
+    "factors": {
+      "demand": 6,
+      "margin": 7.546153846153846,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 5,
+      "problem_solving": 8,
+      "wow_factor": 6
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2607280913391614600.html",
+    "supplier_sku": "2607280913391614600",
+    "unit_cost": 2.7,
+    "ship_cost_us": 6.3,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 35,
+    "flags": [],
+    "cj_title": "Rectangular Cat Scratcher Board with Felt Pads - Durable Corrugated Cardboard Kitten Claw Sharpening Toy for Indoor Pets",
+    "cj_sku": "CJYD3014599"
+  },
+  "pricing": {
+    "retail": 30.95,
+    "compare_at": null,
+    "landed": 18.2,
+    "margin_pct": 0.41,
+    "breakeven_roas": 1.49
+  },
+  "variants": [
+    {
+      "sku": "GL-C02",
+      "title": "Default Title",
+      "weight_g": 150,
+      "supplier_variant_id": "2607280913391615200"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/f68010f3-b73f-4588-a9b9-1fdf26027987_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/9693bc2e-2fe4-40d7-9fdc-59da4f4bd1b2_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/1bc5393b-7a82-4045-8381-1fce1e416b93_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/2c5cb9e6-8b28-4195-801d-337e36779342_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/497ecb8d-2321-474d-bee9-2708c097a83b_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2026/07/28/09/945d07dc-5b70-450d-bdc3-6c80cf892138_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.660Z"
+}

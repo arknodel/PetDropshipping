@@ -16,6 +16,10 @@ const suppliers = readdirSync(dir).filter((f) => /^supplier-batch.*\.json$/.test
 const byId = {};
 for (const s of suppliers) if (!byId[s.id] || s.unit_cost != null) byId[s.id] = s;
 const RATING_EXEMPT = new Set(S.rating_exempt_suppliers ?? []);
+// Optional human/Opus fit review: rejects mismatched supplier matches, adds flags.
+let FIT = { reject: {}, flags: {} };
+try { FIT = { ...FIT, ...JSON.parse(readFileSync(join(dir, 'fit-review.json'), 'utf8')) }; } catch {}
+for (const [id, extra] of Object.entries(FIT.flags ?? {})) if (byId[id]) byId[id].flags = [...new Set([...(byId[id].flags ?? []), ...extra])];
 
 const F = S.hard_filters;
 const SAFETY_REJECT = ['battery_lithium', 'chemical', 'ingestible', 'trademark_risk'];
@@ -41,6 +45,7 @@ function charmRetail(unit, ship) {
 const rows = candidates.map((c) => {
   const s = byId[c.id] ?? {};
   const reasons = [];
+  if (FIT.reject?.[c.id]) reasons.push(`fit: ${FIT.reject[c.id]}`);
   const exempt = RATING_EXEMPT.has(s.supplier);
   const req = ['unit_cost', 'ship_cost_us', 'delivery_days_max', 'orders_count', ...(exempt ? [] : ['supplier_rating'])];
   for (const k of req) if (s[k] === null || s[k] === undefined) reasons.push(`unverified ${k}`);
@@ -60,7 +65,8 @@ const rows = candidates.map((c) => {
   }
   if (s.delivery_days_max != null && s.delivery_days_max > F.max_delivery_days) reasons.push(`delivery ${s.delivery_days_max}d > ${F.max_delivery_days}`);
   if (!exempt && s.supplier_rating != null && s.supplier_rating < F.min_supplier_rating) reasons.push(`rating ${s.supplier_rating} < ${F.min_supplier_rating}`);
-  if (s.orders_count != null && s.orders_count < F.min_orders_or_reviews) reasons.push(`orders ${s.orders_count} < ${F.min_orders_or_reviews}`);
+  const minOrders = exempt ? (F.min_cj_listed_stores ?? 20) : F.min_orders_or_reviews;
+  if (s.orders_count != null && s.orders_count < minOrders) reasons.push(`${exempt ? 'listed stores' : 'orders'} ${s.orders_count} < ${minOrders}`);
 
   const d = s.delivery_days_max;
   const factors = {

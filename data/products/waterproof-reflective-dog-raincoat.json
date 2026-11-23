@@ -1,0 +1,92 @@
+{
+  "id": "gl-c09",
+  "slug": "waterproof-reflective-dog-raincoat",
+  "status": "candidate",
+  "category": "dog",
+  "collection": "dogs",
+  "tags": [
+    "dogs"
+  ],
+  "score": 6.49,
+  "research": {
+    "name": "waterproof reflective dog raincoat",
+    "factors": {
+      "demand": 5,
+      "margin": 7.7,
+      "shipping_speed": 8,
+      "supplier_quality": 7,
+      "low_competition": 5,
+      "problem_solving": 7,
+      "wow_factor": 5
+    },
+    "needs_choking_warning": false
+  },
+  "supplier": {
+    "name": "CJdropshipping",
+    "app": "CJ",
+    "url": "https://cjdropshipping.com/product/-p-2406110906021625200.html",
+    "supplier_sku": "2406110906021625200",
+    "unit_cost": 2.99,
+    "ship_cost_us": 5.32,
+    "ships_from": "US",
+    "shipping_method": "USPS+VIP",
+    "delivery_days_min": 3,
+    "delivery_days_max": 7,
+    "rating": null,
+    "orders_count": 305,
+    "flags": [],
+    "cj_title": "Dog Raincoat Reflective Waterproof Snowproof Pet Coat For Small Puppy Cats Raincoat Pets Supplies",
+    "cj_sku": "CJGD2058064"
+  },
+  "pricing": {
+    "retail": 29.95,
+    "compare_at": null,
+    "landed": 17.48,
+    "margin_pct": 0.42,
+    "breakeven_roas": 1.46
+  },
+  "variants": [
+    {
+      "sku": "GL-C09",
+      "title": "Default Title",
+      "weight_g": 77,
+      "supplier_variant_id": "2406110906021625500"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cf.cjdropshipping.com/quick/product/8e7ce0be-54a6-43a6-b17d-4195c5c57eac.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/quick/product/651dfd00-85e9-40eb-a21c-8d5b75df5565.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/quick/product/46ebf6e9-8192-4478-8019-bb66344a177c.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://oss-cf.cjdropshipping.com/product/2024/06/12/03/dc2e56e1-e49c-4adb-82f4-7394733f2a5e_trans.jpeg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/quick/product/a08e366e-12c6-49fb-92e5-420ef6f7a11e.jpg",
+      "alt": "",
+      "license_ok": true
+    },
+    {
+      "src": "https://cf.cjdropshipping.com/quick/product/39ecaf0a-1881-4875-90ee-f4367ea573c1.jpg",
+      "alt": "",
+      "license_ok": true
+    }
+  ],
+  "copy": {},
+  "seo": {},
+  "validation": {},
+  "updated_at": "2026-11-23T03:52:55.663Z"
+}
