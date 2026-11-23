@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-      SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+      SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+      SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
     steps:
       - uses: actions/checkout@v4
       - run: echo "TODO scripts/orders-check + inventory-sync; Haiku agents (claude-haiku-5-5); escalate to Opus only on alert"

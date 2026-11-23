@@ -40,7 +40,12 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 - Action: AI opens https://www.shopify.com/ signup and pre-fills store name from `data/business.json`.
   You: create login, choose plan, enter billing card, accept terms, set up Shopify Payments / payouts / tax ID.
 - Depends on: APR-001 (store name), `data/business.json` filled in by you.
-- Status: PENDING
+- Done 2026-11-23 by owner: trial store created (owner account fondlypetstore@gmail.com, Basic trial).
+  AI: store name "Fondly Pet"; myshopify domain fondlypet-store.myshopify.com (original yjpwtc-3d);
+  shop.fondlypet.com connected as primary (Cloudflare CNAME shop -> shops.myshopify.com, DNS only,
+  + TXT shopify_verification_shop). Password page still ON.
+- Still yours (gate #5): Shopify Payments / payouts / tax ID, shipping zones, policies, business details.
+- Status: APPROVED (account done; payment/tax/shipping settings pending)
 
 ## APR-003 — GitHub repo + Pages
 - Gate: #2 account / settings
@@ -60,7 +65,13 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   `read_inventory`, `read_fulfillments`. Plus Storefront API access token (unauthenticated read of products/checkout).
   You: approve scopes / install the app.
 - Depends on: APR-002
-- Status: PENDING
+- 2026-11-23: legacy admin custom apps are gone; Shopify points to the Dev Dashboard (dev.shopify.com).
+  Plan: create app "Fondly Pet Ops" there with the scopes above, release, install on fondlypet-store,
+  auth via client credentials grant (scripts/lib/shopify.mjs supports it). Storefront token dropped:
+  not needed while the static site links to Shopify product pages.
+  BLOCKED: Dev Dashboard requires owner to verify fondlypetstore@gmail.com (email link).
+- Owner go-ahead in chat 2026-11-23 ("finish the shopify setup").
+- Status: APPROVED (in progress)
 
 ## APR-005 — Dropshipping app install (free plan)
 - Gate: #2 terms acceptance, OAuth scopes; #1 if any paid plan
@@ -68,14 +79,19 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
   on free plan, stops at the permissions/terms screen for you.
 - Decision needed: which app (recommend DSers or CJ for free-plan AliExpress/CJ catalog breadth).
 - Depends on: APR-002
-- Status: PENDING
+- 2026-11-23: chosen CJdropshipping (all 8 products are CJ-sourced). Listing https://apps.shopify.com/cucheng
+  (free to install; CJ charges product/shipping per order). Install button opens a new tab, which the AI
+  browser can't open -> owner clicks Install, reviews the permission list, approves, links CJ account.
+- Status: PENDING (owner click)
 
 ## APR-006 — Secrets into GitHub
 - Gate: secrets handling (human only)
 - Action: You reveal tokens in Shopify admin and run locally (AI never reads values):
-  `gh secret set SHOPIFY_STORE_DOMAIN -R arknodel/PetDropshipping`
-  `gh secret set SHOPIFY_ADMIN_TOKEN -R arknodel/PetDropshipping`
-  `gh secret set SHOPIFY_STOREFRONT_TOKEN -R arknodel/PetDropshipping`
+  `gh secret set SHOPIFY_STORE_DOMAIN -R arknodel/PetDropshipping`   (value: fondlypet-store.myshopify.com)
+  `gh secret set SHOPIFY_CLIENT_ID -R arknodel/PetDropshipping`
+  `gh secret set SHOPIFY_CLIENT_SECRET -R arknodel/PetDropshipping`
+  Same three names in local `.env` for `node scripts/shopify-sync.mjs --apply`.
+  (Updated 2026-11-23 for Dev Dashboard client-credentials auth; ADMIN/STOREFRONT tokens no longer used.)
 - Depends on: APR-004
 - Status: PENDING
 
