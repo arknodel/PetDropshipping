@@ -38,9 +38,9 @@ Validators get producer output + rubric only, never producer reasoning.
 
 ## Paths
 - Repo: https://github.com/arknodel/PetDropshipping
-- Site: https://goodleashco.com on Cloudflare Pages (Git integration; root `site/`, build `npm run build`,
+- Site: https://fondlypet.com on Cloudflare Pages (Git integration; root `site/`, build `npm run build`,
   output `dist`). NOT GitHub Pages: its terms forbid e-commerce sites.
-- DNS: Cloudflare zone goodleashco.com (registrar NameSilo)
+- DNS: Cloudflare zones fondlypet.com (primary) + goodleashco.com (301 to fondlypet.com); registrar NameSilo
 - Products (source of truth): `data/products/*.json` (schema `product`)
 - Scoring weights + hard filters: `data/scoring.json`; cost assumptions: `data/assumptions.json`
 - Agent outputs: `ops/logs/agents/<date>/<agent>-<id>.json`

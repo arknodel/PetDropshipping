@@ -6,6 +6,21 @@ Passwords, 2FA codes, card/bank/payout/tax entry and CAPTCHAs are always done by
 
 ---
 
+## APR-011 — Rebrand to Fondly Pet + buy fondlypet.com
+- Gate: #1 spending (domain), brand change
+- Why: owner found an existing "thegoodleashco"; Good Leash also leans dog-only. Owner chose
+  Fondly Pet in chat 2026-11-23 from ~200 checked names.
+- Checks 2026-11-23: fondlypet.com, thefondlypet.com, fondlypets.com all unregistered (Verisign RDAP 404).
+  Web search: no business using "Fondly Pet". NOT a trademark clearance.
+- Action (you): 1) search "fondly" on https://tmsearch.uspto.gov (pet goods, class 18/20/21/28/31);
+  2) check @fondlypet on Instagram/TikTok; 3) buy fondlypet.com at NameSilo (optional: fondlypets.com
+  as a defensive redirect). Turn on auto-renew + WHOIS privacy.
+- Then AI: add zone to Cloudflare, attach to Pages project, rename brand in data/brand.json + site,
+  301 goodleashco.com → fondlypet.com, update CLAUDE.md paths.
+- Brand decision: APPROVED (owner, chat 2026-11-23). Domain purchase: PENDING.
+
+---
+
 ## APR-001 — Brand name
 - Gate: business decision (no spend)
 - Action: Pick one name from `data/brand.json` → `name_candidates` (or supply your own).

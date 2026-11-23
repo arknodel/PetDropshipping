@@ -2,6 +2,6 @@
 # At launch replace with:
 #   User-agent: *
 #   Allow: /
-#   Sitemap: https://goodleashco.com/sitemap-index.xml
+#   Sitemap: https://fondlypet.com/sitemap-index.xml
 User-agent: *
 Disallow: /

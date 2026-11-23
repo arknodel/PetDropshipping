@@ -1,19 +1,49 @@
 {
-  "_note": "Name approved in chat 2026-11-22 (APR-001). Whisker & Wag dropped: .com and most variants taken. Copywriter uses voice rules below.",
-  "name": "Good Leash Co.",
-  "domain_target": "goodleashco.com",
-  "name_note": "Name leans dog; copy and collections must still welcome cat parents equally.",
+  "_note": "Rebranded 2026-11-23 (APR-011): Good Leash Co. retired (existing \"thegoodleashco\"; dog-leaning). Owner chose Fondly Pet. Copywriter uses voice rules below.",
+  "name": "Fondly Pet",
+  "domain_target": "fondlypet.com",
+  "name_note": "Name is pet-general; give dog and cat parents equal weight.",
   "name_candidates": [
-    { "name": "Pawsmith", "rationale": "Crafted, practical tools for pets", "status": "pending_approval" },
-    { "name": "Good Leash Co.", "rationale": "Friendly, trustworthy; dog-leaning but broad", "status": "approved" },
-    { "name": "Whisker & Wag", "rationale": "Signals dogs + cats from day one", "status": "rejected_domain_taken" },
-    { "name": "Petwise Supply", "rationale": "Practical, problem-solving angle", "status": "pending_approval" },
-    { "name": "Kindred Paws", "rationale": "Warm, pet-parent community feel", "status": "pending_approval" }
+    {
+      "name": "Fondly Pet",
+      "rationale": "Warm, covers any pet; .com, the.com and plural were free",
+      "status": "approved"
+    },
+    {
+      "name": "Pawsmith",
+      "rationale": "Crafted, practical tools for pets",
+      "status": "pending_approval"
+    },
+    {
+      "name": "Good Leash Co.",
+      "rationale": "Friendly, trustworthy; dog-leaning but broad",
+      "status": "retired"
+    },
+    {
+      "name": "Whisker & Wag",
+      "rationale": "Signals dogs + cats from day one",
+      "status": "rejected_domain_taken"
+    },
+    {
+      "name": "Petwise Supply",
+      "rationale": "Practical, problem-solving angle",
+      "status": "pending_approval"
+    },
+    {
+      "name": "Kindred Paws",
+      "rationale": "Warm, pet-parent community feel",
+      "status": "pending_approval"
+    }
   ],
   "name_check_required": "Trademark search (USPTO TESS), .com availability, social handles — before approval",
   "audience": "US pet parents of dogs and cats who want practical products that solve everyday problems",
   "voice": {
-    "personality": ["friendly", "trustworthy", "practical", "warm without being cutesy"],
+    "personality": [
+      "friendly",
+      "trustworthy",
+      "practical",
+      "warm without being cutesy"
+    ],
     "do": [
       "Lead with the everyday problem the product solves",
       "Use plain, specific language and real specs",
@@ -30,5 +60,15 @@
     "reading_level": "Grade 6-8",
     "sample_line": "Tired of muddy paws on the couch? This mat traps dirt and water at the door, so the mess stays put."
   },
-  "visual": { "palette": "TBD", "logo": "TBD after name approval" }
+  "visual": {
+    "palette": "TBD",
+    "logo": "TBD after name approval"
+  },
+  "previous_names": [
+    {
+      "name": "Good Leash Co.",
+      "domain": "goodleashco.com",
+      "status": "retired_redirects_to_fondlypet"
+    }
+  ]
 }
