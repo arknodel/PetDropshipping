@@ -1,0 +1,38 @@
+name: site-check
+# Hosting is Cloudflare Pages (Git integration builds and deploys on push to main,
+# preview deploys on PRs). GitHub Pages is not used: its terms forbid e-commerce sites.
+# This workflow only verifies the site builds so PRs fail fast.
+on:
+  pull_request:
+    paths: ["site/**", "data/**", ".github/workflows/site-check.yml"]
+  push:
+    branches: [main]
+    paths: ["site/**", "data/**", ".github/workflows/site-check.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install
+        working-directory: site
+        run: npm ci --no-audit --no-fund
+      - name: Build
+        working-directory: site
+        env:
+          ASTRO_TELEMETRY_DISABLED: "1"
+        run: npm run build
+      - name: Required pages exist
+        working-directory: site/dist
+        run: |
+          for f in index.html 404.html policies/shipping/index.html policies/returns/index.html \
+                   policies/privacy/index.html policies/terms/index.html contact/index.html robots.txt sitemap-index.xml; do
+            test -f "$f" || { echo "missing $f"; exit 1; }
+          done

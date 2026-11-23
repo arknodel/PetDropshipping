@@ -37,7 +37,10 @@ Malformed JSON → retry once on Haiku with error → then escalate to Opus.
 Validators get producer output + rubric only, never producer reasoning.
 
 ## Paths
-- Repo: https://github.com/arknodel/PetDropshipping (site → GitHub Pages)
+- Repo: https://github.com/arknodel/PetDropshipping
+- Site: https://goodleashco.com on Cloudflare Pages (Git integration; root `site/`, build `npm run build`,
+  output `dist`). NOT GitHub Pages: its terms forbid e-commerce sites.
+- DNS: Cloudflare zone goodleashco.com (registrar NameSilo)
 - Products (source of truth): `data/products/*.json` (schema `product`)
 - Scoring weights + hard filters: `data/scoring.json`; cost assumptions: `data/assumptions.json`
 - Agent outputs: `ops/logs/agents/<date>/<agent>-<id>.json`
