@@ -1,0 +1,360 @@
+[
+ {
+  "slug": "adjustable-mesh-cat-harness",
+  "cj_sku": "CJPH3005406",
+  "us_variants": 0,
+  "total": 12,
+  "rows": [
+   {
+    "sku": "GL-C24-01",
+    "title": "Navy Blue-S",
+    "US": 0,
+    "CN": 6013,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-02",
+    "title": "Navy Blue-M",
+    "US": 0,
+    "CN": 7340,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-03",
+    "title": "Navy Blue-L",
+    "US": 0,
+    "CN": 6219,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-04",
+    "title": "Navy Blue-XL",
+    "US": 0,
+    "CN": 6613,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-05",
+    "title": "Blue-S",
+    "US": 0,
+    "CN": 6761,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-06",
+    "title": "Blue-M",
+    "US": 0,
+    "CN": 5560,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-07",
+    "title": "Blue-L",
+    "US": 0,
+    "CN": 8260,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-08",
+    "title": "Blue-XL",
+    "US": 0,
+    "CN": 8061,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-09",
+    "title": "Orange-S",
+    "US": 0,
+    "CN": 7429,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-10",
+    "title": "Orange-M",
+    "US": 0,
+    "CN": 6246,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-11",
+    "title": "Orange-L",
+    "US": 0,
+    "CN": 6229,
+    "other": {}
+   },
+   {
+    "sku": "GL-C24-12",
+    "title": "Orange-XL",
+    "US": 0,
+    "CN": 7174,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "cat-deshedding-grooming-glove",
+  "cj_sku": "CJYD2332008",
+  "us_variants": 0,
+  "total": 1,
+  "rows": [
+   {
+    "sku": "GL-C19",
+    "title": "Default Title",
+    "US": 0,
+    "CN": 9493,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "dog-car-seat-belt-tether",
+  "cj_sku": "CJGX1520671",
+  "us_variants": 0,
+  "total": 2,
+  "rows": [
+   {
+    "sku": "GL-C27-01",
+    "title": "Black",
+    "US": 0,
+    "CN": 39726,
+    "other": {}
+   },
+   {
+    "sku": "GL-C27-02",
+    "title": "Dark Grey",
+    "US": 0,
+    "CN": 32189,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "elevated-cat-feeder-stand",
+  "cj_sku": "CJMY1228721",
+  "us_variants": 0,
+  "total": 3,
+  "rows": [
+   {
+    "sku": "GL-C20-01",
+    "title": "Double Bowl",
+    "US": 0,
+    "CN": 28150,
+    "other": {}
+   },
+   {
+    "sku": "GL-C20-02",
+    "title": "Single Bowl, Footed Base",
+    "US": 0,
+    "CN": 29177,
+    "other": {}
+   },
+   {
+    "sku": "GL-C20-03",
+    "title": "Single Bowl, U-Shaped Base",
+    "US": 0,
+    "CN": 30540,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "reusable-pet-hair-remover-roller",
+  "cj_sku": "CJGY1035039",
+  "us_variants": 0,
+  "total": 4,
+  "rows": [
+   {
+    "sku": "GL-C04-01",
+    "title": "White",
+    "US": 0,
+    "CN": 40000,
+    "other": {}
+   },
+   {
+    "sku": "GL-C04-02",
+    "title": "Green",
+    "US": 0,
+    "CN": 40000,
+    "other": {}
+   },
+   {
+    "sku": "GL-C04-03",
+    "title": "Pink",
+    "US": 0,
+    "CN": 40000,
+    "other": {}
+   },
+   {
+    "sku": "GL-C04-04",
+    "title": "Blue",
+    "US": 0,
+    "CN": 40001,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "suction-cup-lick-mat",
+  "cj_sku": "CJGY2111277",
+  "us_variants": 0,
+  "total": 4,
+  "rows": [
+   {
+    "sku": "GL-C11-01",
+    "title": "Green",
+    "US": 0,
+    "CN": 10092,
+    "other": {}
+   },
+   {
+    "sku": "GL-C11-02",
+    "title": "Gray",
+    "US": 0,
+    "CN": 11044,
+    "other": {}
+   },
+   {
+    "sku": "GL-C11-03",
+    "title": "Blue",
+    "US": 0,
+    "CN": 13950,
+    "other": {}
+   },
+   {
+    "sku": "GL-C11-04",
+    "title": "Orange",
+    "US": 0,
+    "CN": 13321,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "summer-pet-sleeping-mat",
+  "cj_sku": "CJGY1920222",
+  "us_variants": 0,
+  "total": 4,
+  "rows": [
+   {
+    "sku": "GL-C06-01",
+    "title": "BLUE-XS",
+    "US": 0,
+    "CN": 11192,
+    "other": {}
+   },
+   {
+    "sku": "GL-C06-02",
+    "title": "COFFEE-XS",
+    "US": 0,
+    "CN": 10867,
+    "other": {}
+   },
+   {
+    "sku": "GL-C06-03",
+    "title": "GREY-XS",
+    "US": 0,
+    "CN": 10390,
+    "other": {}
+   },
+   {
+    "sku": "GL-C06-04",
+    "title": "PINK-XS",
+    "US": 0,
+    "CN": 13238,
+    "other": {}
+   }
+  ]
+ },
+ {
+  "slug": "waterproof-reflective-dog-raincoat",
+  "cj_sku": "CJGD2058064",
+  "us_variants": 0,
+  "total": 12,
+  "rows": [
+   {
+    "sku": "GL-C09-01",
+    "title": "Rose Red Hook-and-Loop-S",
+    "US": 0,
+    "CN": 10031,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-02",
+    "title": "Rose Red Hook-and-Loop-M",
+    "US": 0,
+    "CN": 10423,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-03",
+    "title": "Rose Red Hook-and-Loop-L",
+    "US": 0,
+    "CN": 12412,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-04",
+    "title": "Rose Red Hook-and-Loop-XL",
+    "US": 0,
+    "CN": 14674,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-05",
+    "title": "Green Hook-and-Loop-S",
+    "US": 0,
+    "CN": 13344,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-06",
+    "title": "Green Hook-and-Loop-M",
+    "US": 0,
+    "CN": 12765,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-07",
+    "title": "Green Hook-and-Loop-L",
+    "US": 0,
+    "CN": 10790,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-08",
+    "title": "Green Hook-and-Loop-XL",
+    "US": 0,
+    "CN": 12612,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-09",
+    "title": "Blue Hook-and-Loop-S",
+    "US": 0,
+    "CN": 10331,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-10",
+    "title": "Blue Hook-and-Loop-M",
+    "US": 0,
+    "CN": 10357,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-11",
+    "title": "Blue Hook-and-Loop-L",
+    "US": 0,
+    "CN": 11882,
+    "other": {}
+   },
+   {
+    "sku": "GL-C09-12",
+    "title": "Blue Hook-and-Loop-XL",
+    "US": 0,
+    "CN": 14843,
+    "other": {}
+   }
+  ]
+ }
+]

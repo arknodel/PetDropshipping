@@ -1,0 +1,834 @@
+[
+ {
+  "slug": "adjustable-mesh-cat-harness",
+  "retail": 29.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.393,
+   "variants": [
+    {
+     "sku": "GL-C24-01",
+     "title": "Navy Blue-S",
+     "ship": 5.81,
+     "landed": 18.06,
+     "margin": 0.397
+    },
+    {
+     "sku": "GL-C24-02",
+     "title": "Navy Blue-M",
+     "ship": 5.94,
+     "landed": 18.19,
+     "margin": 0.393
+    },
+    {
+     "sku": "GL-C24-03",
+     "title": "Navy Blue-L",
+     "ship": 5.68,
+     "landed": 17.93,
+     "margin": 0.401
+    },
+    {
+     "sku": "GL-C24-04",
+     "title": "Navy Blue-XL",
+     "ship": 5.9,
+     "landed": 18.15,
+     "margin": 0.394
+    },
+    {
+     "sku": "GL-C24-05",
+     "title": "Blue-S",
+     "ship": 5.81,
+     "landed": 18.06,
+     "margin": 0.397
+    },
+    {
+     "sku": "GL-C24-06",
+     "title": "Blue-M",
+     "ship": 5.94,
+     "landed": 18.19,
+     "margin": 0.393
+    },
+    {
+     "sku": "GL-C24-07",
+     "title": "Blue-L",
+     "ship": 5.68,
+     "landed": 17.93,
+     "margin": 0.401
+    },
+    {
+     "sku": "GL-C24-08",
+     "title": "Blue-XL",
+     "ship": 5.9,
+     "landed": 18.15,
+     "margin": 0.394
+    },
+    {
+     "sku": "GL-C24-09",
+     "title": "Orange-S",
+     "ship": 5.81,
+     "landed": 18.06,
+     "margin": 0.397
+    },
+    {
+     "sku": "GL-C24-10",
+     "title": "Orange-M",
+     "ship": 5.94,
+     "landed": 18.19,
+     "margin": 0.393
+    },
+    {
+     "sku": "GL-C24-11",
+     "title": "Orange-L",
+     "ship": 5.68,
+     "landed": 17.93,
+     "margin": 0.401
+    },
+    {
+     "sku": "GL-C24-12",
+     "title": "Orange-XL",
+     "ship": 5.9,
+     "landed": 18.15,
+     "margin": 0.394
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.383
+   },
+   {
+    "name": "CJPacket Super Pure Electricity",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.382
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.375
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "CJPacket Sensitive Pro",
+   "LuWei Ordinary US",
+   "CJPacket Super Pure Electricity",
+   "CJPacket Pure Electricity",
+   "YunExpress Ordinary",
+   "CJPacket Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "USPS Ordinary",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket Postal",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket Sensitive Pro+",
+   "CJPacket USPS Remote",
+   "USPS",
+   "CJPacket Fast Line",
+   "CJPacket Fast US",
+   "Qfulfillment A line",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "cat-deshedding-grooming-glove",
+  "retail": 24.95,
+  "old_method": "GOFO GC parcel+",
+  "old_days": "3-8",
+  "best": {
+   "name": "CJPacket Sensitive Pro",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.403,
+   "variants": [
+    {
+     "sku": "GL-C19",
+     "title": "Default Title",
+     "ship": 5.23,
+     "landed": 14.89,
+     "margin": 0.403
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "LuWei Ordinary US",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.403
+   },
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.397
+   },
+   {
+    "name": "CJPacket SF Clothing Line",
+    "dmin": 7,
+    "dmax": 12,
+    "min_margin": 0.397
+   }
+  ],
+  "all_method_names": [
+   "CJPacket Sensitive Pro",
+   "CJPacket SP Sensitive",
+   "LuWei Ordinary US",
+   "CJPacket Pure Electricity",
+   "CJPacket SF Clothing Line",
+   "YunExpress Ordinary",
+   "YunExpress Clothing Line",
+   "CJPacket Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "CJPacket LX Sensitive Plant",
+   "USPS Ordinary",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket Postal",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket USPS Remote",
+   "CJPacket Sensitive Pro+",
+   "CJPacket Fast Line",
+   "USPS",
+   "Qfulfillment A line",
+   "CJPacket Fast US",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "dog-car-seat-belt-tether",
+  "retail": 32.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.396,
+   "variants": [
+    {
+     "sku": "GL-C27-01",
+     "title": "Black",
+     "ship": 6.9,
+     "landed": 19.84,
+     "margin": 0.398
+    },
+    {
+     "sku": "GL-C27-02",
+     "title": "Dark Grey",
+     "ship": 6.9,
+     "landed": 19.91,
+     "margin": 0.396
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.382
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.366
+   },
+   {
+    "name": "YunExpress Ordinary",
+    "dmin": 4,
+    "dmax": 7,
+    "min_margin": 0.362
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "LuWei Ordinary US",
+   "CJPacket Ordinary",
+   "YunExpress Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Super Pure Electricity",
+   "CJPacket Pure Electricity",
+   "CJPacket Sensitive Pro",
+   "USPS Ordinary",
+   "CJPacket Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket Fast Ordinary",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Liquid US",
+   "CJPacket Sensitive Pro+",
+   "USPS",
+   "CJPacket Fast US",
+   "CJPacket Postal",
+   "Qfulfillment A line",
+   "CJPacket Fast Line",
+   "CJPacket USPS Remote",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "elevated-cat-feeder-stand",
+  "retail": 26.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.187,
+   "variants": [
+    {
+     "sku": "GL-C20-01",
+     "title": "Double Bowl",
+     "ship": 12.45,
+     "landed": 21.92,
+     "margin": 0.187
+    },
+    {
+     "sku": "GL-C20-02",
+     "title": "Single Bowl, Footed Base",
+     "ship": 7.06,
+     "landed": 16.48,
+     "margin": 0.388
+    },
+    {
+     "sku": "GL-C20-03",
+     "title": "Single Bowl, U-Shaped Base",
+     "ship": 7.84,
+     "landed": 17.28,
+     "margin": 0.359
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.103
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.073
+   },
+   {
+    "name": "CJPacket Ordinary Over Length",
+    "dmin": 7,
+    "dmax": 11,
+    "min_margin": 0.073
+   }
+  ],
+  "all_method_names": [
+   "CJPacket Eub",
+   "CJPacket FJTY Eub Special Line",
+   "LuWei Ordinary US",
+   "CJPacket SP Sensitive",
+   "YunExpress Ordinary",
+   "CJPacket Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "CJPacket Sensitive Pro+",
+   "CJPacket Fast Ordinary",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket Eub Special Line",
+   "CJPacket Sensitive Pro",
+   "CJPacket Fast US",
+   "CJPacket Liquid US",
+   "CJPacket Super Pure Electricity",
+   "CJPacket Pure Electricity",
+   "USPS Ordinary",
+   "CJPacket Fast Line",
+   "CJPacket USPS Remote",
+   "USPS",
+   "CJPacket Liquid Line",
+   "Qfulfillment A line",
+   "CJPacket Postal",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "reusable-pet-hair-remover-roller",
+  "retail": 27.95,
+  "old_method": "GOFO GC parcel+",
+  "old_days": "3-8",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.407,
+   "variants": [
+    {
+     "sku": "GL-C04-01",
+     "title": "White",
+     "ship": 5.98,
+     "landed": 16.56,
+     "margin": 0.407
+    },
+    {
+     "sku": "GL-C04-02",
+     "title": "Green",
+     "ship": 5.98,
+     "landed": 16.56,
+     "margin": 0.407
+    },
+    {
+     "sku": "GL-C04-03",
+     "title": "Pink",
+     "ship": 5.98,
+     "landed": 16.56,
+     "margin": 0.407
+    },
+    {
+     "sku": "GL-C04-04",
+     "title": "Blue",
+     "ship": 5.98,
+     "landed": 16.56,
+     "margin": 0.407
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.395
+   },
+   {
+    "name": "CJPacket Super Pure Electricity",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.394
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.387
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "LuWei Ordinary US",
+   "YunExpress Ordinary",
+   "CJPacket Sensitive Pro",
+   "CJPacket Ordinary",
+   "CJPacket Super Pure Electricity",
+   "YunExpress Sensitive",
+   "CJPacket Pure Electricity",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "USPS Ordinary",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket Sensitive Pro+",
+   "USPS",
+   "CJPacket Postal",
+   "CJPacket USPS Remote",
+   "CJPacket Fast US",
+   "Qfulfillment A line",
+   "CJPacket Fast Line",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "suction-cup-lick-mat",
+  "retail": 30.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.389,
+   "variants": [
+    {
+     "sku": "GL-C11-01",
+     "title": "Green",
+     "ship": 6.94,
+     "landed": 18.91,
+     "margin": 0.389
+    },
+    {
+     "sku": "GL-C11-02",
+     "title": "Gray",
+     "ship": 6.94,
+     "landed": 18.91,
+     "margin": 0.389
+    },
+    {
+     "sku": "GL-C11-03",
+     "title": "Blue",
+     "ship": 6.94,
+     "landed": 18.91,
+     "margin": 0.389
+    },
+    {
+     "sku": "GL-C11-04",
+     "title": "Orange",
+     "ship": 6.94,
+     "landed": 18.91,
+     "margin": 0.389
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.372
+   },
+   {
+    "name": "CJPacket Super Pure Electricity",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.368
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.361
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "LuWei Ordinary US",
+   "YunExpress Ordinary",
+   "CJPacket Ordinary",
+   "CJPacket Super Pure Electricity",
+   "CJPacket Sensitive Pro",
+   "YunExpress Sensitive",
+   "CJPacket Pure Electricity",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "USPS Ordinary",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket Eub",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Sensitive Pro+",
+   "USPS",
+   "CJPacket Fast US",
+   "Qfulfillment A line",
+   "CJPacket USPS Remote",
+   "CJPacket Fast Line",
+   "CJPacket Postal",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "summer-pet-sleeping-mat",
+  "retail": 25.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "CJPacket Super Pure Electricity",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.411,
+   "variants": [
+    {
+     "sku": "GL-C06-01",
+     "title": "BLUE-XS",
+     "ship": 5.1,
+     "landed": 15.29,
+     "margin": 0.411
+    },
+    {
+     "sku": "GL-C06-02",
+     "title": "COFFEE-XS",
+     "ship": 5.1,
+     "landed": 15.29,
+     "margin": 0.411
+    },
+    {
+     "sku": "GL-C06-03",
+     "title": "GREY-XS",
+     "ship": 5.1,
+     "landed": 15.29,
+     "margin": 0.411
+    },
+    {
+     "sku": "GL-C06-04",
+     "title": "PINK-XS",
+     "ship": 5.1,
+     "landed": 15.29,
+     "margin": 0.411
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "LuWei Ordinary US",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.4
+   },
+   {
+    "name": "CJPacket Sensitive Pro",
+    "dmin": 5,
+    "dmax": 11,
+    "min_margin": 0.396
+   },
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.393
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "CJPacket Sensitive Pro",
+   "CJPacket Super Pure Electricity",
+   "LuWei Ordinary US",
+   "CJPacket Pure Electricity",
+   "YunExpress Ordinary",
+   "CJPacket Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "CJPacket Postal",
+   "CJPacket LX Sensitive Plant",
+   "USPS Ordinary",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket USPS Remote",
+   "CJPacket Sensitive Pro+",
+   "CJPacket Fast Line",
+   "USPS",
+   "CJPacket Fast US",
+   "Qfulfillment A line",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ },
+ {
+  "slug": "waterproof-reflective-dog-raincoat",
+  "retail": 29.95,
+  "old_method": "USPS+VIP",
+  "old_days": "3-7",
+  "best": {
+   "name": "LuWei Ordinary US",
+   "dmin": 5,
+   "dmax": 11,
+   "min_margin": 0.405,
+   "variants": [
+    {
+     "sku": "GL-C09-01",
+     "title": "Rose Red Hook-and-Loop-S",
+     "ship": 5.66,
+     "landed": 17.82,
+     "margin": 0.405
+    },
+    {
+     "sku": "GL-C09-02",
+     "title": "Rose Red Hook-and-Loop-M",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    },
+    {
+     "sku": "GL-C09-03",
+     "title": "Rose Red Hook-and-Loop-L",
+     "ship": 5.93,
+     "landed": 17.56,
+     "margin": 0.414
+    },
+    {
+     "sku": "GL-C09-04",
+     "title": "Rose Red Hook-and-Loop-XL",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    },
+    {
+     "sku": "GL-C09-05",
+     "title": "Green Hook-and-Loop-S",
+     "ship": 5.66,
+     "landed": 17.29,
+     "margin": 0.423
+    },
+    {
+     "sku": "GL-C09-06",
+     "title": "Green Hook-and-Loop-M",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    },
+    {
+     "sku": "GL-C09-07",
+     "title": "Green Hook-and-Loop-L",
+     "ship": 5.93,
+     "landed": 17.56,
+     "margin": 0.414
+    },
+    {
+     "sku": "GL-C09-08",
+     "title": "Green Hook-and-Loop-XL",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    },
+    {
+     "sku": "GL-C09-09",
+     "title": "Blue Hook-and-Loop-S",
+     "ship": 5.66,
+     "landed": 17.29,
+     "margin": 0.423
+    },
+    {
+     "sku": "GL-C09-10",
+     "title": "Blue Hook-and-Loop-M",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    },
+    {
+     "sku": "GL-C09-11",
+     "title": "Blue Hook-and-Loop-L",
+     "ship": 5.93,
+     "landed": 17.56,
+     "margin": 0.414
+    },
+    {
+     "sku": "GL-C09-12",
+     "title": "Blue Hook-and-Loop-XL",
+     "ship": 5.78,
+     "landed": 17.41,
+     "margin": 0.419
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "CJPacket SF Clothing Line",
+    "dmin": 7,
+    "dmax": 12,
+    "min_margin": 0.398
+   },
+   {
+    "name": "CJPacket Ordinary",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.397
+   },
+   {
+    "name": "CJPacket Sensitive",
+    "dmin": 4,
+    "dmax": 9,
+    "min_margin": 0.393
+   }
+  ],
+  "all_method_names": [
+   "CJPacket SP Sensitive",
+   "CJPacket Sensitive Pro",
+   "LuWei Ordinary US",
+   "CJPacket Pure Electricity",
+   "CJPacket SF Clothing Line",
+   "YunExpress Ordinary",
+   "YunExpress Clothing Line",
+   "CJPacket Ordinary",
+   "YunExpress Sensitive",
+   "CJPacket Sensitive",
+   "CJPacket Liquid US",
+   "USPS Ordinary",
+   "CJPacket LX Sensitive Plant",
+   "CJPacket Eub Special Line",
+   "CJPacket Fast Ordinary",
+   "CJPacket Postal",
+   "CJPacket FJTY Eub Special Line",
+   "CJPacket Eub",
+   "CJPacket Sensitive Pro+",
+   "CJPacket USPS Remote",
+   "CJPacket Fast Line",
+   "USPS",
+   "CJPacket Fast US",
+   "Qfulfillment A line",
+   "CJPacket Liquid Line",
+   "CJPacket Ordinary Over Length",
+   "CJPacket Sensitive Over Length",
+   "CJPacket Ordinary Oversize Line",
+   "CJPacket Sensitive Oversize Line",
+   "DHL Official",
+   "CJPacket Sea"
+  ],
+  "errors": []
+ }
+]
